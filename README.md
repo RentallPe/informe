@@ -203,8 +203,25 @@ Los proyectos de remodelación necesitan un fondo de contingencia del 10-15 % de
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements.
-
+Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un plan detallado y de un diseño previo en el inicio de las obras. Esta situación resulta en sobrecostes que oscilan entre el 10 y el 15 % y retrasos que pueden prolongarse por semanas. Además, se evidencia la falta de una plataforma integral que permita monitorear de manera efectiva el avance, el presupuesto y la calidad de las obras. Esta carencia de un sistema de gestión eficiente conlleva a cambios en el alcance de las obras de manera dinámica y a la utilización de mano de obra informal. Los sujetos desconocen los procedimientos administrativos y autorizaciones municipales requeridos, lo que los expone a posibles sanciones y paralizaciones de obras. Aunque manifiestan interés en soluciones de IoT para la seguridad y la eficiencia energética, carecen de asesoramiento para la selección, instalación y conexión óptima de dispositivos inteligentes, lo que les impide aprovechar oportunidades de ahorro y plusvalía en sus inmuebles.
 #### 1.2.2.2. Lean UX Assumptions.
+ ### **Business Assumptions**
+- Existe un segmento considerable de propietarios de locales y viviendas dispuestos a pagar una suscripción o tarifa única por una plataforma integral de remodelación y monitoreo de IoT (Internet de las Cosas).  
+- En el ámbito de la gestión de proyectos, se evidencia la necesidad de establecer alianzas estratégicas con actores claves del sector, tales como arquitectos, contratistas y proveedores de dispositivos IoT. Esta medida se presenta como una oportunidad para optimizar los recursos financieros y ofrecer paquetes de servicios más competitivos.  
+- Se implementará un modelo freemium (listas de verificación y guías básicas gratuitas; asesoramiento y supervisión avanzados de pago) para facilitar la captación de usuarios y fomentar la conversión a planes premium.  
+- Las campañas digitales, que incluyen SEO, redes sociales, alianzas con inmobiliarias y ferreterías, tienen como objetivo reducir el CAC en relación con el LTV estimado de cada cliente  
+- La infraestructura en la nube y la automatización de procesos contribuirán a reducir los costos operativos, permitiendo márgenes saludables incluso con planes asequibles.
+ ### **User Assumptions**
+ - Los usuarios deberán proporcionar información detallada sobre su proyecto, incluyendo presupuestos, plazos y permisos, para recibir recomendaciones personalizadas y un seguimiento en tiempo real.  
+- Los usuarios quieren un panel unificado que muestre el progreso de la obra, los costes y las mediciones ambientales (temperatura, humedad, consumo) desde cualquier dispositivo. El texto es muy sencillo. 
+- Los usuarios adoptarán las recomendaciones de dispositivos IoT (sensores, cámaras, actuadores) siempre y cuando se les proporcione una instrucción clara y detallada sobre qué instalar, dónde hacerlo y cómo proceder con la configuración.   
+- Los usuarios emplearán las alertas y notificaciones (por ejemplo, recordatorios de inspecciones, cambios de alcance) como guía para la toma de decisiones oportunas y la prevención de imprevistos. Por favor, proceda con el proceso de acuerdo a las siguientes indicaciones. 
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+- Creemos que si ofrecemos a los propietarios un flujo de planificación paso a paso con plantillas y checklists automatizadas, entonces reducirán los sobrecostos por imprevistos en al menos un 10 % y acortarán los retrasos en un 20 %.
+- Creemos que si proporcionamos un tablero unificado con seguimiento en tiempo real de avance, presupuesto y condiciones ambientales (sensores de IoT), entonces los usuarios tomarán decisiones más rápidas y reducirán los cambios de alcance improvisados en un 30 %.
+- Creemos que si incluimos recomendaciones detalladas sobre qué dispositivos IoT instalar y cómo configurarlos, entonces al menos el 50 % de los usuarios incorporará soluciones inteligentes en su remodelación, mejorando la eficiencia energética en un 15 %.
+- Creemos que si integramos en la plataforma un módulo de trámites municipales con guías paso a paso y recordatorios automáticos, entonces disminuirá en un 80 % el inicio de obras sin permiso, evitando sanciones y paralizaciones.
+- Creemos que si ofrecemos un plan gratuito con funcionalidades básicas (checklists y tutoriales) y un plan premium con asesoría personalizada y monitoreo avanzado, entonces alcanzaremos una tasa de conversión del 20 % de usuarios free a paid dentro de los primeros tres meses.
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
