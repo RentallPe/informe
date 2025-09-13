@@ -18,7 +18,7 @@
 | Cumba Rengifo, Leonardo Raúl                 | U202311912  |
 | Palomares Andrade, Sean Farith               | —           |
 | Pérez Tuesta, Gabriel                        | U202321281  |
-| Torrejón Navarro, Braulio Rodrigo            | —           |
+| Torrejón Navarro, Braulio Rodrigo            | U201711828   |
 
 *Septiembre 2025*
 
