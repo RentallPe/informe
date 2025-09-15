@@ -295,58 +295,61 @@ Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un 
 
 ### Product Backlog
 
+# 📌 Product Backlog – RentallPe
+
 | Orden | User Story ID | Título | Descripción | Prioridad |
 |------|---------------|--------|-------------|-----------|
-| 1 | US01 | Visualización de servicios de remodelación | Como visitante, quiero ver los tipos de remodelación para identificar cuál se ajusta a mis necesidades. | Alta |
-| 2 | US02 | Visualización de sección de proyectos | Como visitante, quiero ver ejemplos de proyectos realizados para confiar en el servicio. | Alta |
-| 3 | US03 | Visualización de beneficios IoT | Como visitante, quiero ver beneficios de IoT para entender el valor agregado. | Alta |
-| 4 | US08 | Seguridad de datos | Como usuario, quiero que mis datos estén encriptados para sentirme seguro en la plataforma. | Alta |
-| 5 | US27 | Recuperación de contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvido. | Alta |
-| 6 | US07 | Personalización de perfil | Como usuario, quiero personalizar mi perfil para adaptar la plataforma. | Alta |
-| 7 | US26 | Control de acceso de usuarios | Como administrador, quiero gestionar permisos para controlar accesos. | Alta |
-| 8 | US42 | Roles de usuario | Como administrador, quiero asignar roles para organizar los accesos. | Alta |
-| 9 | US04 | Monitoreo de consumo energético | Como usuario, quiero ver el consumo energético en un panel. | Alta |
-| 10 | US05 | Recibir notificaciones IoT | Como usuario, quiero recibir alertas en tiempo real para tomar acción. | Alta |
-| 11 | US11 | Alertas de seguridad | Como usuario, quiero recibir alertas si se detecta movimiento fuera de horario. | Alta |
-| 12 | US21 | Panel de control de dispositivos IoT | Como supervisor, quiero ver el estado de dispositivos IoT. | Alta |
-| 13 | US22 | Mapa de sensores | Como supervisor, quiero ver la ubicación de los sensores. | Media |
-| 14 | US12 | Seguimiento en tiempo real | Como cliente, quiero ver el avance de mi proyecto en tiempo real. | Alta |
-| 15 | US36 | Vista de progreso en gráfico | Como cliente, quiero ver el avance de mi proyecto en gráficos. | Media |
-| 16 | US38 | Carga de fotos de avance | Como equipo de obra, quiero subir fotos de cada etapa. | Media |
-| 17 | US18 | Registro de incidencias | Como cliente, quiero reportar incidencias durante la remodelación. | Alta |
-| 18 | US06 | Reportes de remodelación | Como cliente, quiero recibir reportes automáticos al final de la remodelación. | Alta |
-| 19 | US20 | Descarga de reportes | Como cliente, quiero descargar los reportes en PDF. | Media |
-| 20 | US35 | Reportes personalizados | Como administrador, quiero generar reportes personalizados. | Baja |
-| 21 | US44 | Auditoría de cambios | Como administrador, quiero ver el historial de cambios en el proyecto. | Media |
-| 22 | US31 | Resumen financiero | Como cliente, quiero ver un resumen de costos y ahorros generados. | Media |
-| 23 | US16 | Gestión de pagos | Como cliente, quiero ver pagos realizados y pendientes. | Alta |
-| 24 | US17 | Recordatorios de pago | Como cliente, quiero recibir recordatorios automáticos de pagos. | Media |
-| 25 | US40 | Integración con facturación electrónica | Como cliente, quiero recibir facturas electrónicas. | Media |
-| 26 | US14 | Comparación de presupuestos | Como cliente, quiero comparar presupuestos de proveedores. | Media |
-| 27 | US15 | Agenda de reuniones | Como cliente, quiero agendar reuniones virtuales. | Media |
-| 28 | US32 | Integración con calendario | Como cliente, quiero sincronizar fechas con mi calendario personal. | Baja |
-| 29 | US39 | Chat en tiempo real | Como cliente, quiero comunicarme por chat con el equipo. | Alta |
-| 30 | US25 | Soporte técnico en línea | Como usuario, quiero contactar soporte desde la plataforma. | Alta |
-| 31 | US34 | Historial de notificaciones | Como usuario, quiero ver el historial de notificaciones. | Baja |
-| 32 | US28 | Configuración de notificaciones | Como usuario, quiero configurar qué tipo de notificaciones recibir. | Media |
-| 33 | US29 | Multilenguaje | Como visitante, quiero cambiar el idioma de la plataforma. | Baja |
-| 34 | US30 | Filtrado de proyectos | Como cliente, quiero filtrar mis proyectos por fecha o estado. | Media |
-| 35 | US09 | Historial de proyectos | Como cliente, quiero ver un historial de todas mis remodelaciones. | Media |
-| 36 | US33 | Gestión de documentos | Como cliente, quiero subir documentos del proyecto. | Media |
-| 37 | US13 | Firma digital de contratos | Como cliente, quiero firmar contratos digitalmente. | Media |
-| 38 | US19 | Confirmación de entrega de materiales | Como proveedor, quiero recibir confirmación de entrega de materiales. | Media |
-| 39 | US23 | Sugerencias de mejoras | Como cliente, quiero recibir sugerencias sostenibles post remodelación. | Baja |
-| 40 | US24 | Calificación del servicio | Como cliente, quiero calificar el servicio recibido. | Baja |
-| 41 | US47 | Panel de métricas de sostenibilidad | Como cliente, quiero ver métricas de sostenibilidad. | Baja |
-| 42 | US48 | Reservar inspecciones | Como cliente, quiero reservar inspecciones presenciales. | Media |
-| 43 | US37 | Validación de calidad | Como supervisor, quiero registrar inspecciones de calidad. | Media |
-| 44 | US41 | Exportación de datos | Como administrador, quiero exportar la información de proyectos. | Baja |
-| 45 | US43 | API para integración externa | Como empresa, quiero tener acceso a una API de proyectos. | Baja |
-| 46 | US45 | Reconocimiento de voz | Como cliente, quiero usar comandos de voz para consultar el avance. | Baja |
-| 47 | US46 | Detección de anomalías con IA | Como cliente, quiero que el sistema detecte anomalías en consumo. | Baja |
-| 48 | US49 | Modo oscuro | Como usuario, quiero activar el modo oscuro en la plataforma. | Baja |
-| 49 | US50 | Acceso móvil optimizado | Como usuario, quiero que la plataforma esté optimizada para móviles. | Alta |
-| 50 | US10 | Dejar opiniones | Como cliente, quiero dejar una reseña sobre el servicio recibido. | Baja |
+| 1 | US01 | Visualización de servicios de remodelación | Como visitante de la landing page, quiero visualizar rápidamente los tipos de remodelación, para identificar cuál se ajusta mejor a mis necesidades. | Alta |
+| 2 | US02 | Visualización de sección de proyectos | Como visitante de la landing page, quiero ver ejemplos de proyectos realizados, para tener confianza en la calidad del servicio de remodelación. | Alta |
+| 3 | US03 | Visualización de beneficios IoT | Como visitante de la landing page, quiero ver una sección de beneficios de integrar IoT, para comprender el valor agregado que ofrece RentallPe. | Alta |
+| 4 | US04 | Monitoreo de consumo energético | Como usuario, quiero visualizar en un panel el consumo energético de mi local remodelado, para optimizar el uso de recursos. | Alta |
+| 5 | US05 | Recibir notificaciones IoT | Como usuario, quiero recibir alertas en tiempo real si ocurre una falla o un consumo excesivo, para tomar medidas inmediatas. | Alta |
+| 6 | US06 | Reportes de remodelación | Como cliente, quiero recibir reportes automáticos al finalizar la remodelación, con métricas de ahorro energético y condiciones ambientales, para evaluar el impacto de la inversión. | Alta |
+| 7 | US07 | Personalización de perfil | Como usuario, quiero personalizar mi perfil (nombre, preferencias de comunicación, idioma), para adaptar la plataforma a mis necesidades. | Media |
+| 8 | US08 | Seguridad de datos | Como usuario, quiero que mis datos personales y los de mi proyecto estén encriptados, para sentirme confiado en la plataforma. | Alta |
+| 9 | US09 | Historial de proyectos | Como cliente, quiero visualizar un historial de todas mis remodelaciones, para revisar qué servicios contraté y los resultados obtenidos. | Media |
+| 10 | US10 | Dejar opiniones | Como cliente, quiero dejar una reseña sobre el servicio recibido, para ayudar a otros a tomar decisiones. | Media |
+| 11 | US11 | Alertas de seguridad | Como usuario, quiero recibir alertas si se detecta movimiento fuera de horario en mi establecimiento, para actuar rápidamente y proteger mis bienes. | Alta |
+| 12 | US12 | Seguimiento en tiempo real | Como cliente, quiero ver en tiempo real el avance de mi proyecto de remodelación, para tener visibilidad de las etapas completadas y las pendientes. | Alta |
+| 13 | US13 | Firma digital de contratos | Como cliente, quiero poder firmar contratos digitalmente desde la plataforma, para agilizar el inicio de los trabajos sin trámites físicos. | Alta |
+| 14 | US14 | Comparación de presupuestos | Como cliente, quiero comparar presupuestos de diferentes proveedores dentro de la plataforma, para elegir la opción más conveniente. | Media |
+| 15 | US15 | Agenda de reuniones | Como cliente, quiero poder agendar reuniones virtuales con el equipo de remodelación, para resolver dudas y validar avances. | Media |
+| 16 | US16 | Gestión de pagos | Como cliente, quiero poder ver mis pagos realizados y los pendientes, para llevar un control de mi inversión. | Alta |
+| 17 | US17 | Recordatorios de pago | Como cliente, quiero recibir recordatorios automáticos de mis pagos próximos, para evitar retrasos en la obra. | Alta |
+| 18 | US18 | Registro de incidencias | Como cliente, quiero reportar incidencias durante la remodelación (retrasos, problemas de calidad), para que el equipo pueda solucionarlas rápidamente. | Alta |
+| 19 | US19 | Confirmación de entrega de materiales | Como proveedor, quiero recibir confirmación cuando el material haya sido entregado en la obra, para asegurarme de que se recibió correctamente. | Media |
+| 20 | US20 | Descarga de reportes | Como cliente, quiero poder descargar en PDF los reportes de mi remodelación, para archivarlos o presentarlos a otros. | Media |
+| 21 | US21 | Panel de control de dispositivos IoT | Como supervisor, quiero ver un panel con el estado de los dispositivos IoT instalados, para detectar fallas rápidamente. | Alta |
+| 22 | US22 | Mapa de sensores | Como supervisor, quiero ver en un mapa la ubicación de los sensores instalados, para planificar el mantenimiento de forma eficiente. | Media |
+| 23 | US23 | Sugerencias de mejoras | Como cliente, quiero recibir sugerencias de mejoras sostenibles después de la remodelación, para optimizar aún más mi local. | Baja |
+| 24 | US24 | Calificación del servicio | Como cliente, quiero calificar el servicio de remodelación, para dar retroalimentación al equipo y mejorar la plataforma. | Media |
+| 25 | US25 | Soporte técnico en línea | Como usuario, quiero poder contactar soporte técnico desde la plataforma, para resolver cualquier problema con el sistema IoT o mi cuenta. | Alta |
+| 26 | US26 | Control de acceso de usuarios | Como administrador, quiero gestionar permisos de usuarios en la plataforma, para controlar quién puede ver o editar información de los proyectos. | Alta |
+| 27 | US27 | Recuperación de contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvido, para no perder acceso a mi cuenta. | Alta |
+| 28 | US28 | Configuración de notificaciones | Como usuario, quiero configurar qué tipo de notificaciones deseo recibir (email, push, SMS), para evitar información innecesaria. | Media |
+| 29 | US29 | Multilenguaje | Como visitante, quiero cambiar el idioma de la plataforma, para comprender toda la información en mi lengua preferida. | Media |
+| 30 | US30 | Filtrado de proyectos | Como cliente, quiero filtrar mis proyectos por fecha o estado, para encontrar fácilmente la información que busco. | Media |
+| 31 | US31 | Resumen financiero | Como cliente, quiero ver un resumen de costos acumulados y ahorros generados, para evaluar el retorno de inversión de la remodelación. | Alta |
+| 32 | US32 | Integración con calendario | Como cliente, quiero sincronizar mis fechas de entrega y reuniones con mi calendario personal (Google, Outlook), para organizar mejor mi agenda. | Media |
+| 33 | US33 | Gestión de documentos | Como cliente, quiero subir y almacenar documentos relacionados con el proyecto (planos, permisos), para centralizar toda la información. | Media |
+| 34 | US34 | Historial de notificaciones | Como usuario, quiero ver el historial de notificaciones recibidas, para no perder información importante si no estaba conectado. | Media |
+| 35 | US35 | Reportes personalizados | Como administrador, quiero generar reportes personalizados seleccionando métricas específicas, para obtener información más relevante. | Media |
+| 36 | US36 | Vista de progreso en gráfico | Como cliente, quiero ver el avance de mi proyecto en un gráfico de barras o línea, para interpretar fácilmente el progreso. | Media |
+| 37 | US37 | Validación de calidad | Como supervisor, quiero registrar inspecciones de calidad en cada etapa de la remodelación, para garantizar que se cumplan los estándares. | Alta |
+| 38 | US38 | Carga de fotos de avance | Como equipo de obra, quiero subir fotos de cada etapa completada, para mantener al cliente informado visualmente. | Alta |
+| 39 | US39 | Chat en tiempo real | Como cliente, quiero poder comunicarme por chat con el equipo de remodelación, para resolver dudas sin necesidad de llamadas. | Alta |
+| 40 | US40 | Integración con facturación electrónica | Como cliente, quiero recibir facturas electrónicas de mis pagos, para cumplir con los requisitos legales. | Media |
+| 41 | US41 | Exportación de datos | Como administrador, quiero exportar la información de proyectos en formatos CSV o Excel, para analizar datos fuera de la plataforma. | Media |
+| 42 | US42 | Roles de usuario | Como administrador, quiero asignar roles como cliente, proveedor, técnico, supervisor, para organizar los accesos de manera correcta. | Alta |
+| 43 | US43 | API para integración externa | Como empresa, quiero tener acceso a una API de datos de proyectos, para integrar la información con otros sistemas corporativos. | Baja |
+| 44 | US44 | Auditoría de cambios | Como administrador, quiero ver un historial de cambios realizados en el proyecto, para mantener trazabilidad de modificaciones. | Media |
+| 45 | US45 | Reconocimiento de voz | Como cliente, quiero usar comandos de voz para consultar el avance del proyecto, para facilitar el uso desde el móvil. | Baja |
+| 46 | US46 | Detección de anomalías con IA | Como cliente, quiero que el sistema detecte patrones anormales en el consumo de energía, para anticipar fallas. | Alta |
+| 47 | US47 | Panel de métricas de sostenibilidad | Como cliente, quiero ver métricas sobre ahorro de energía, reducción de CO₂ y eficiencia, para medir el impacto positivo de la remodelación. | Media |
+| 48 | US48 | Reservar inspecciones | Como cliente, quiero reservar inspecciones presenciales del equipo técnico, para validar el avance físico de la obra. | Media |
+| 49 | US49 | Modo oscuro | Como usuario, quiero poder activar modo oscuro en la plataforma, para reducir la fatiga visual en ambientes con poca luz. | Baja |
+| 50 | US50 | Acceso móvil optimizado | Como usuario, quiero que la plataforma esté adaptada para móviles, para poder gestionar mi proyecto desde cualquier lugar. | Alta |
+
 
 ### Impact Maping
 ![primer segmento](https://github.com/user-attachments/assets/3cca1103-74f1-45a2-b375-548126614b45)
