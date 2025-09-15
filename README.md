@@ -348,3 +348,7 @@ Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un 
 | 49 | US50 | Acceso móvil optimizado | Como usuario, quiero que la plataforma esté optimizada para móviles. | Alta |
 | 50 | US10 | Dejar opiniones | Como cliente, quiero dejar una reseña sobre el servicio recibido. | Baja |
 
+### Impact Maping
+![primer segmento](https://github.com/user-attachments/assets/3cca1103-74f1-45a2-b375-548126614b45)
+![segundo segmento](https://github.com/user-attachments/assets/a94e4b1f-c730-4bff-b2ce-9502f993203d)
+
