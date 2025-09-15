@@ -295,8 +295,6 @@ Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un 
 
 ### Product Backlog
 
-# 📌 Product Backlog – RentallPe
-
 | Orden | User Story ID | Título | Descripción | Prioridad |
 |------|---------------|--------|-------------|-----------|
 | 1 | US01 | Visualización de servicios de remodelación | Como visitante de la landing page, quiero visualizar rápidamente los tipos de remodelación, para identificar cuál se ajusta mejor a mis necesidades. | Alta |
