@@ -406,3 +406,42 @@ Para nuestro proyecto, el espaciado es crucial para garantizar la legibilidad y 
 * Espaciado entre párrafos: Equivalente a al menos el tamaño de una línea completa  
 * Espaciado entre elementos interactivos: 8-12 píxeles de espacio entre botones, enlaces o cualquier elemento clicable.  
 * Márgenes y padding: 16-24 píxeles alrededor del contenido.
+
+#### **Tono de Comunicación:**
+
+| Dimensión | Nivel Adoptado |
+| :---- | :---- |
+| Divertido/Serio | Medio-Serio |
+| Formal/Casual | Semi-Formal |
+| Respetuoso/Irreverente | Muy Respetuoso |
+| Entusiasta/Sereno | Sereno y Empático |
+
+Decidimos mantener una comunicación clara, cálida y profesional, porque este enfoque nos permite conectar de manera efectiva con el público, especialmente en un contexto tan profesional.
+
+### **4.1.2. Web Style Guidelines**
+
+#### **Diseño Responsive**
+
+Para asegurar que la página se ajuste correctamente a distintos tamaños de pantalla y que el contenido siga siendo comprensible y visualmente atractivo, se emplea CSS junto con media queries. Estas herramientas permitirán definir estilos específicos según la resolución del dispositivo. Elementos fundamentales, como la barra de navegación y el pie de página, se adaptarán automáticamente para garantizar una experiencia óptima en diversos dispositivos. Siguiendo los siguientes breakpoints:
+
+| Dispositivo | Ancho mínimo | Ejemplo de uso |
+| :---- | :---- | :---- |
+| Mobile | ≥ 320px	 | Teléfonos |
+| Tablet	 | ≥ 768px | iPad / tablets genéricas |
+| Laptop	 | ≥ 1024px | Monitores y laptops |
+| Widescreen | ≥ 1440px | Pantallas grandes o TV |
+
+#### **Navegación**
+
+Usaremos un menú de hamburguesa en dispositivos móviles para optimizar el espacio disponible, mientras que el menú horizontal nos permitirá acceder de manera inmediata a las opciones principales, mejorando la navegación y la experiencia del usuario.
+
+#### **Imágenes**
+
+Emplearemos los formatos de imagen JPEG y PNG para garantizar una calidad visual óptima. Asimismo, se definirán tamaños específicos y se aplicarán técnicas de compresión para optimizar el rendimiento del sitio web sin afectar la nitidez de las imágenes.
+
+#### **Interacción del Usuario**
+
+Se implementarán animaciones sutiles para mostrar imágenes y textos informativos sobre el servicio. En computadoras portátiles y PCs, será suficiente desplazarse por la página para visualizar todo el contenido y disfrutar de estas interacciones dinámicas
+
+## 
+
