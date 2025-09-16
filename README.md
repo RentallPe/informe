@@ -381,3 +381,17 @@ Ser la plataforma líder en la conexión entre freelancers y espacios de trabajo
 ### **Misión**
 
 Brindar a freelancers y emprendedores espacios flexibles de trabajo a través de un sistema de alquiler sencillo, confiable y eficiente.
+
+### **Logo**
+
+Colores:
+
+ El rojo cobrizo evoca energía y transformación, mientras que su variante más terrosa aporta estabilidad y sofisticación. Juntos, estos colores generan una atmósfera acogedora pero innovadora, ideal para conectar emocionalmente con usuarios que buscan actualizar sus espacios sin perder el sentido de hogar.
+
+| ![Rojo](https://media.discordapp.net/attachments/1410708960498946210/1417627452712161381/image.png?ex=68cb2bf2&is=68c9da72&hm=eb3471884d12d5294b01773ba4b0fc7e998d8da7bcefa638a0bb6bfbc723f548&=&format=webp&quality=lossless) | Copper Red\- Hex: \#FF6D6C\- RGB: (255, 109, 108\)\- CMYK: (0, 57, 58, 0\)  | \- HSV: 1° 58% 100%\- HSL: 1° 100% 71%\- RAL: 3022\- Pantone: 172 C  |
+| :---- | :---- | :---- |
+| ![][image3] | Copper\- **Hex**: \#CA766D\- **RGB**: (202, 118, 109\)\- **CMYK**: (0, 42, 46, 21\)  | \- **HSV**: 6° 46% 79%\- **HSL**: 6° 45% 61%\- **RAL**: 3012\- **Pantone**: 7584 C  |
+
+#### **Tipografía:**
+
+La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar Roboto Flex, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas.
