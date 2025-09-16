@@ -523,3 +523,81 @@ Secciones y contenido de la **app para Propietarios / Empresarios (Cliente)**
 | **Soporte**           | **Mesa de ayuda técnica y documentación de instalación IoT.**                                   |
 
 ### **Este sistema de etiquetado permite una navegación clara y ordenada, asegurando que los usuarios encuentren rápidamente la información y funciones que necesitan dentro de RentallPe.**
+
+#### **4.2.3. SEO Tags and Meta Tags**
+
+Los SEO Tags y Meta Tags optimizan la visibilidad de RentalPe en motores de búsqueda, siguiendo las prácticas de Booking.com para mejorar rankings y clics.Se definen para el Landing Page (sitio estático) y la Web Application, con etiquetas claras y descriptivas.
+
+##### **Landing Page**
+
+\<title\>RentalPE | Remodelación inteligente con IoT\</title\>  
+\<meta name="description" content="Descubre RentalPE, el servicio de remodelación de establecimientos comerciales y empresariales que integra tecnología IoT para mayor seguridad, control y sostenibilidad."\>  
+\<meta name="keywords" content="remodelación, IoT, establecimientos, empresas, comercios, seguridad, eficiencia, sostenibilidad"\>  
+\<meta name="author" content="RentalPE Team"\>  
+\<meta name="robots" content="index, follow"\>  
+\<meta property="og:title" content="RentalPE | Remodelación inteligente con IoT"\>  
+\<meta property="og:description" content="Moderniza tus espacios comerciales con remodelaciones seguras, eficientes y sostenibles gracias a la tecnología IoT."\>  
+\<meta property="og:image" content="https://www.rentalpe.com/assets/og-image.jpg"\>  
+\<meta property="og:url" content="https://www.rentalpe.com"\>
+
+##### **Web Application**
+
+\<title\>RentalPE | Plataforma de remodelación con IoT\</title\>  
+\<meta name="description" content="Administra y controla tu proceso de remodelación con RentalPE. Monitorea en tiempo real seguridad, condiciones ambientales y consumo energético gracias a IoT."\>  
+\<meta name="keywords" content="remodelación inteligente, IoT, control en tiempo real, monitoreo, sostenibilidad, energía, seguridad, administración de remodelaciones"\>  
+\<meta name="author" content="RentalPE Team"\>  
+\<meta name="robots" content="index, follow"\>  
+\<meta property="og:title" content="RentalPE | Plataforma de remodelación con IoT"\>  
+\<meta property="og:description" content="Optimiza la remodelación de tu establecimiento con datos en tiempo real para mayor control y eficiencia."\>  
+\<meta property="og:image" content="https://app.rentalpe.com/assets/og-app-image.jpg"\>  
+\<meta property="og:url" content="https://app.rentalpe.com"\>
+
+## **4.2.4. Searching Systems**
+
+El sistema de búsqueda de **RentalPE** está diseñado para que los usuarios encuentren fácilmente opciones de remodelación y monitoreo con IoT, evitando que se sientan abrumados por el volumen de información. Para ello, se implementan herramientas claras y filtros avanzados.
+
+### **Barra de Búsqueda Inteligente**
+
+* **Ubicación:** Barra global en la parte superior para buscar por ciudad, distrito o dirección. *Placeholder:* "Busca tu establecimiento".
+
+* **Funcionalidad:** Debounce de 300 ms para sugerencias en tiempo real, mostradas en un *dropdown* intuitivo.
+
+### **Filtros Avanzados**
+
+Los filtros permiten personalizar la búsqueda según las necesidades de los propietarios y empresarios, con un diseño claro y colapsable (modal en mobile).
+
+* **Presupuesto:** Rango ajustable con *slider* (mínimo/máximo).
+
+* **Tipo de Remodelación:** Estructural, estética, tecnológica (IoT).
+
+* **Servicios Integrados:** Seguridad IoT, monitoreo ambiental, control de energía.
+
+* **Sostenibilidad:** Filtro por certificaciones verdes o eficiencia energética.
+
+* **Valoraciones:** Filtro por estrellas (4+), ordenado por relevancia.
+
+## **4.2.5. Navigation Systems**
+
+Los sistemas de navegación guían a los usuarios a través de la **Landing Page** y la **Web Application**, asegurando que puedan explorar servicios, gestionar remodelaciones y obtener soporte de manera ágil y sencilla.
+
+### 
+
+### **Landing Page Navigation**
+
+La **Landing Page** presenta un diseño limpio con un menú fijo superior.
+
+* **Menú Superior:** Incluye Inicio, Servicios, Casos de Éxito, Contacto.
+
+* **Scroll Suave:** Transiciones fluidas entre secciones como Servicios, IoT, Sostenibilidad.
+
+* **Enlaces Internos:** Testimonios y contactos vinculados a formularios modales.
+
+#### **Flujo del Usuario**
+
+1. Usuarios llegan a la Landing Page y exploran la propuesta de valor.
+
+2. Registro/Iniciar sesión los dirige a la Web Application.
+
+3. Las secciones de Casos de Éxito y Contacto generan confianza y soporte.
+
+
