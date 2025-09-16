@@ -359,3 +359,25 @@ De acuerdo con la Encuesta Nacional de Hogares (ENAHO 2023), el 59 % de los resi
 ![primer segmento](https://github.com/user-attachments/assets/3cca1103-74f1-45a2-b375-548126614b45)
 ![segundo segmento](https://github.com/user-attachments/assets/a94e4b1f-c730-4bff-b2ce-9502f993203d)
 
+
+
+
+# **Capítulo 4**                       
+
+## **4.1. Style Guidelines**
+
+En este capítulo se mostrará el desarrollo de las interfaces y procesos relacionados a la aplicación. Se tiene como objetivo ser llamativa y simple para el usuario. Para ello, se usaron colores atractivos, uso del espacio de manera dinámica independiente del dispositivo enfocado, uso de imágenes y texto que no sobrecarga de información al usuario y la separación de las herramientas según su grupo determinado.
+
+### **4.1.1. General Style Guidelines**
+
+#### **Branding:**
+
+**Rentall Pe** es una aplicación diseñada para conectar freelancers con espacios de trabajo adecuados a sus necesidades. Su objetivo es proporcionar opciones de alquiler flexibles, seguras y accesibles, permitiendo a los usuarios encontrar el lugar perfecto para desarrollar sus proyectos sin complicaciones.
+
+### **Visión**
+
+Ser la plataforma líder en la conexión entre freelancers y espacios de trabajo, facilitando el acceso a lugares ideales para potenciar la productividad.
+
+### **Misión**
+
+Brindar a freelancers y emprendedores espacios flexibles de trabajo a través de un sistema de alquiler sencillo, confiable y eficiente.
