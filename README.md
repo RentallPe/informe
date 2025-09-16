@@ -223,10 +223,16 @@ Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un 
 - Creemos que si integramos en la plataforma un módulo de trámites municipales con guías paso a paso y recordatorios automáticos, entonces disminuirá en un 80 % el inicio de obras sin permiso, evitando sanciones y paralizaciones.
 - Creemos que si ofrecemos un plan gratuito con funcionalidades básicas (checklists y tutoriales) y un plan premium con asesoría personalizada y monitoreo avanzado, entonces alcanzaremos una tasa de conversión del 20 % de usuarios free a paid dentro de los primeros tres meses.
 #### 1.2.2.4. Lean UX Canvas.
+[canvas](Imagenes/canvas.png)
 ## 1.3. Segmentos objetivo.
+**Primer segmento: Propietarios de locales comerciales (restaurantes, tiendas, oficinas)**  
+Según el Instituto Nacional de Estadística e Informática (INEI), en Lima Metropolitana hay más de 25 000 restaurantes formales y alrededor de 40 000 pequeños comercios minoristas, de los cuales el 68 % reporta utilizar Internet en sus operaciones diarias. Esto indica un amplio grupo de empresarios con capacidad y disposición para incorporar herramientas digitales en la gestión de sus espacios. Además, un estudio de la Cámara de Comercio de Lima (2024) revela que el 54 % de estos negocios considera que la modernización tecnológica —incluida la domótica y el monitoreo en tiempo real— incrementa la seguridad y mejora la experiencia de sus clientes. Por ello, nuestro servicio modular de remodelación + kits IoT preconfigurados cubre una necesidad real: diseñar, ejecutar y supervisar la reforma de sus locales bajo un único flujo digital.
 
+**Segundo segmento: Propietarios de viviendas con fines de reventa o alquiler**  
+De acuerdo con la Encuesta Nacional de Hogares (ENAHO 2023), el 59 % de los residentes de Lima y ciudades principales tiene menos de 60 años, un porcentaje que coincide con la generación más familiarizada con dispositivos inteligentes. Al mismo tiempo, la adopción de soluciones smart home en Perú creció un 13 % anual en 2024, alcanzando un valor de mercado de USD 410 millones. Esto indica que un número creciente de dueños de vivienda (especialmente quienes planean vender o alquilar) ve en la integración de IoT una vía para aumentar la plusvalía de su inmueble hasta en un 15 %. RentallPE ofrece un acompañamiento completo: desde el diseño y los permisos, hasta la instalación y configuración de sensores, cerraduras inteligentes y sistemas de climatización automatizados, alineados con esa tendencia de valorización inteligente.
 
 # Capítulo III
+
 
 ### Epicas
 
