@@ -259,7 +259,7 @@ Según el Instituto Nacional de Estadística e Informática (INEI), en Lima Metr
 **Segundo segmento: Propietarios de viviendas con fines de reventa o alquiler**  
 De acuerdo con la Encuesta Nacional de Hogares (ENAHO 2023), el 59 % de los residentes de Lima y ciudades principales tiene menos de 60 años, un porcentaje que coincide con la generación más familiarizada con dispositivos inteligentes. Al mismo tiempo, la adopción de soluciones smart home en Perú creció un 13 % anual en 2024, alcanzando un valor de mercado de USD 410 millones. Esto indica que un número creciente de dueños de vivienda (especialmente quienes planean vender o alquilar) ve en la integración de IoT una vía para aumentar la plusvalía de su inmueble hasta en un 15 %. RentallPE ofrece un acompañamiento completo: desde el diseño y los permisos, hasta la instalación y configuración de sensores, cerraduras inteligentes y sistemas de climatización automatizados, alineados con esa tendencia de valorización inteligente.
 
-# Capítulo III
+# Capítulo III Especificación de requisitos
 
 ### Epicas
 
@@ -271,7 +271,7 @@ De acuerdo con la Encuesta Nacional de Hogares (ENAHO 2023), el 59 % de los resi
 | **EP04** | Seguridad y Privacidad de Datos      | Como usuario, quiero que mis datos personales y la información de mis proyectos estén protegidos mediante encriptación y protocolos de seguridad, para sentir confianza al usar la plataforma.                                     |
 | **EP05** | Funcionalidades Avanzadas de Cliente | Como cliente, quiero acceder a reportes de remodelación, notificaciones, historial de proyectos y opciones de personalización, para tener control y trazabilidad de los servicios contratados.                                     |
 
-### User Storys
+### 3.1 User Storys
 
 | User Story ID | Título                                     | Descripción                                                                                                                                                                           | Criterios de aceptación                                                                                                                                                                                              |
 | ------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -326,7 +326,13 @@ De acuerdo con la Encuesta Nacional de Hogares (ENAHO 2023), el 59 % de los resi
 | **US49**      | Modo oscuro                                | Como usuario, quiero poder activar modo oscuro en la plataforma, para reducir la fatiga visual en ambientes con poca luz.                                                             | **Escenario:** Dado que estoy en la plataforma, cuando activo el modo oscuro, entonces debería cambiar toda la interfaz a una versión de bajo brillo.                                                                |
 | **US50**      | Acceso móvil optimizado                    | Como usuario, quiero que la plataforma esté adaptada para móviles, para poder gestionar mi proyecto desde cualquier lugar.                                                            | **Escenario:** Dado que uso un teléfono, cuando ingreso a la plataforma, entonces debería mostrarse en una versión responsive y fácil de usar.                                                                       |
 
-### Product Backlog
+### 3.2 Impact Maping
+
+![primer segmento](https://github.com/user-attachments/assets/3cca1103-74f1-45a2-b375-548126614b45)
+![segundo segmento](https://github.com/user-attachments/assets/a94e4b1f-c730-4bff-b2ce-9502f993203d)
+
+
+### 3.3 Product Backlog
 
 | Orden | User Story ID | Título                                     | Descripción                                                                                                                                                                           | Prioridad |
 | ----- | ------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -381,10 +387,6 @@ De acuerdo con la Encuesta Nacional de Hogares (ENAHO 2023), el 59 % de los resi
 | 49    | US49          | Modo oscuro                                | Como usuario, quiero poder activar modo oscuro en la plataforma, para reducir la fatiga visual en ambientes con poca luz.                                                             | Baja      |
 | 50    | US50          | Acceso móvil optimizado                    | Como usuario, quiero que la plataforma esté adaptada para móviles, para poder gestionar mi proyecto desde cualquier lugar.                                                            | Alta      |
 
-### Impact Maping
-
-![primer segmento](https://github.com/user-attachments/assets/3cca1103-74f1-45a2-b375-548126614b45)
-![segundo segmento](https://github.com/user-attachments/assets/a94e4b1f-c730-4bff-b2ce-9502f993203d)
 
 # **Capítulo 4**
 
