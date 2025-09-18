@@ -282,7 +282,9 @@ Personas/familias e inversionistas pequeños que remodelan para vender mejor o a
 - Comparación de presupuestos y pagos: cotizaciones normalizadas, hitos de obra, pagos en línea y comprobantes.  
 - Atributos que suben valor: cocina/baño, iluminación/ventilación, eficiencia energética (artefactos/IAQ básico), y reportes para anuncios (consumo estimado, mejoras certificables).
 
+# Capítulo II: Requirements Elicitation & Analysis
 
+## 2.1. Competidores
 
 **1\) Procore** – suite integral para gestión de proyectos, costos y facturación
 
@@ -315,7 +317,8 @@ Personas/familias e inversionistas pequeños que remodelan para vender mejor o a
 
 * **Brecha:** foco en operación de obra; finanzas/IoT no son su centro.
 
-* 
+### 2.1.1. Análisis competitivo
+
 # Competitive Analysis Landscape
 
 **¿Por qué llevar a cabo este análisis?**  
