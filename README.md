@@ -252,48 +252,37 @@ Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un 
 [canvas](Imagenes/canvas.png)
 
 ## 1.3. Segmentos objetivo.
-# 1\) Propietarios de locales comerciales (restaurantes, tiendas, oficinas, otros)
+**1) Propietarios de locales comerciales (restaurantes, tiendas, oficinas, otros)**
 
-# Dueños o administradores de locales (PYMES y cadenas chicas) que buscan remodelar y operar con mayor eficiencia: control de costos y pagos, cumplimiento (facturación), y monitoreo de consumo/ambiente para reducir gastos y mejorar la experiencia del cliente/empleado.
+Dueños o administradores de locales (PYMES y cadenas chicas) que buscan remodelar y operar con mayor eficiencia: control de costos y pagos, cumplimiento (facturación), y monitoreo de consumo/ambiente para reducir gastos y mejorar la experiencia del cliente/empleado.
 
-# Características demográficas
+**Características demográficas**  
+- Ubicación: Lima Metropolitana y capitales regionales (zonas con alta densidad de comercio y oficina).  
+- Tamaño: micro y pequeñas empresas; 1–5 locales (restaurantes/cafeterías/retail/otros), oficinas de 10–100 personas.  
+- Roles decisores: dueño/gerente general, administrador de tienda, facility/office manager, contabilidad/finanzas.
 
-# Ubicación: Lima Metropolitana y capitales regionales (zonas con alta densidad de comercio y oficina).
+**Necesidades clave**  
+- Control de obra y costos: presupuestos comparables, pagos y facturas electrónicas simples.  
+- Visibilidad operativa: panel en tiempo real de energía/ambiente/seguridad (IoT), umbrales y alertas.  
+- Cumplimiento y experiencia: contratos/firma digital, reportes para auditoría e indicadores de confort (IAQ) que impactan en ventas y productividad.
 
-# Tamaño: micro y pequeñas empresas; 1–5 locales (restaurantes/cafeterías/retail/otros), oficinas de 10–100 personas.
+---
 
-# Roles decisores: dueño/gerente general, administrador de tienda, facility/office manager, contabilidad/finanzas.
+**2) Propietarios de viviendas con fines de reventa o alquiler**
 
-# Necesidades clave
+Personas/familias e inversionistas pequeños que remodelan para vender mejor o alquilar más rápido y a mejor renta: les interesa el tiempo-a-mercado, la estética funcional y el consumo eficiente (para subir valor y bajar gastos del inquilino).
 
-# Control de obra y costos: presupuestos comparables, pagos y facturas electrónicas simples.
+**Características demográficas**  
+- Ubicación: Lima Metropolitana (distritos con mercado de compra-venta y arriendo activo) y ciudades universitarias/turísticas.  
+- Perfil económico: ingresos medios/medios-altos; 1–3 unidades en propiedad.  
+- Experiencia digital: usan portales inmobiliarios (búsqueda, pricing), contactan profesionales por apps/redes.
 
-# Visibilidad operativa: panel en tiempo real de energía/ambiente/seguridad (IoT), umbrales y alertas.
+**Necesidades clave**  
+- Plan de remodelación “lista para publicar”: paquete claro (alcances, tiempos, costos) con antes/después y checklist de materiales.  
+- Comparación de presupuestos y pagos: cotizaciones normalizadas, hitos de obra, pagos en línea y comprobantes.  
+- Atributos que suben valor: cocina/baño, iluminación/ventilación, eficiencia energética (artefactos/IAQ básico), y reportes para anuncios (consumo estimado, mejoras certificables).
 
-# Cumplimiento y experiencia: contratos/firma digital, reportes para auditoría e indicadores de confort (IAQ) que impactan en ventas y productividad.
 
-# 2\) Propietarios de viviendas con fines de reventa o alquiler
-
-# Personas/familias e inversionistas pequeños que remodelan para vender mejor o alquilar más rápido y a mejor renta: les interesa el tiempo-a-mercado, la estética funcional y el consumo eficiente (para subir valor y bajar gastos del inquilino).
-
-# 
-
-# Características demográficas
-
-# Ubicación: Lima Metropolitana (distritos con mercado de compra-venta y arriendo activo) y ciudades universitarias/turísticas.
-
-# Perfil económico: ingresos medios/medios-altos; 1–3 unidades en propiedad.
-
-# Experiencia digital: usan portales inmobiliarios (búsqueda, pricing), contactan profesionales por apps/redes.
-
-# Necesidades clave
-
-# Plan de remodelación “lista para publicar”: paquete claro (alcances, tiempos, costos) con antes/después y checklist de materiales.
-
-# Comparación de presupuestos y pagos: cotizaciones normalizadas, hitos de obra, pagos en línea y comprobantes.
-
-# Atributos que suben valor: cocina/baño, iluminación/ventilación, eficiencia energética (artefactos/IAQ básico), y reportes para anuncios (consumo estimado, mejoras certificables).
-# **Competidores directos (software de gestión de obra/remodelación)**
 
 **1\) Procore** – suite integral para gestión de proyectos, costos y facturación
 
