@@ -406,6 +406,72 @@ Comparar la propuesta integral (remodelación + pagos/facturación + IoT/energí
 | **Threats** | Incumbentes pueden empaquetar **IoT** con partners; presión de precios. | Saturación enterprise; ciclos de venta largos. | Competencia por bundles integrados (ecosistema Autodesk). | Plataformas todo-en-uno que fortalezcan **pagos** y finanzas en residencial. |
 
 
+## **2.2. Entrevistas**
+
+### **2.2.1. Diseño de entrevistas**
+
+# **Preguntas:**
+
+# **Propietarios de locales comerciales (restaurantes, tiendas, oficinas, otros)**
+
+Cuéntame la última vez que decidiste remodelar o hacer mejoras en el local. ¿Qué pasó antes, durante y después? (línea de tiempo)
+
+¿Qué disparó la decisión (problema, queja de clientes, inspección, mudanza, expansión)? ¿Quién más intervino?
+
+¿Cómo armaste el presupuesto y comparaste proveedores/cotizaciones? ¿Qué criterios usaste para elegir?
+
+En esa experiencia, ¿qué parte del seguimiento de obra te resultó más difícil (avances, cambios, calidad, entregas)?
+
+¿Cómo gestionaste pagos y facturas con contratistas/proveedores? ¿Dónde se complicó (aprobaciones, comprobantes, conciliación)?
+
+¿Qué métricas operativas miras a la semana (ventas, tickets, tiempos, consumo eléctrico, confort/IAQ)? ¿Dónde las ves hoy?
+
+¿Has tenido alertas o incidentes (equipos, seguridad, temperatura, olores, ruido)? ¿Cómo te enteraste y qué hiciste?
+
+Si hoy pudieras recibir una alerta perfecta, ¿qué debería decir, por qué canal y qué acción te permitiría tomar en 1 minuto?
+
+Háblame de la última vez que presentaste un reporte a tu jefe/socio (costos, ahorro, resultados). ¿Qué formato pidió y qué faltó?
+
+¿Qué barreras encuentras para adoptar herramientas nuevas (tiempo del personal, capacitación, costo, integración con contabilidad)?
+
+Piensa en un pago que salió mal (retraso, rechazo, contracargo). ¿Qué consecuencias tuvo y cómo lo solucionaste?
+
+Si tuvieras una varita mágica para la próxima remodelación, ¿qué tres cosas cambiarías del proceso actual (de principio a fin)?
+
+**Propietarios de viviendas con fines de reventa o alquiler**
+
+**Cuéntame la última vez** que **remodelar** una vivienda para vender o alquilar. ¿Cuál fue el objetivo y el plazo?
+
+¿Qué **gatillo** te llevó a invertir (o no) en esa remodelación (precio de mercado, vacancia, quejas de inquilinos, inspección)?
+
+¿Cómo decidiste el **alcance** (ambientes, materiales, acabados)? ¿Qué sacrificaste por **presupuesto o tiempo-a-mercado**?
+
+¿De qué manera **comparaste presupuestos** y **controlaste cambios** durante la obra? Dame un ejemplo concreto.
+
+¿Cómo llevaste los **pagos** a proveedores/contratistas y cómo te entregaron **comprobantes**? ¿Dónde se atoró el flujo?
+
+¿Qué evidencia o **antes/después** te funcionó mejor para **publicar** (fotos, métricas de consumo estimado, mejoras certificables)?
+
+¿Qué **indicadores** te ayudan a **poner precio** al alquiler/venta (m², zona, equipamiento, consumo de servicios)? ¿Dónde los consultas?
+
+¿Te interesaría **monitorear** consumo o confort (energía/IAQ básico) para **mejorar el aviso** o justificar el precio? ¿Cómo lo usarías?
+
+Cuando hubo **retrasos** (materiales, permisos, profesionales), ¿cómo afectó tu **fecha de publicación** y ROI?
+
+¿Qué **riesgos** te preocupan en pagos/contratos (señas, penalidades, garantías, devoluciones)? ¿Alguna historia reciente?
+
+Si pudieras **automatizar** algo de tu próxima remodelación, ¿qué sería (comparar cotizaciones, hitos/pagos, checklist, reportes)?
+
+¿Qué **señales** (del mercado o del inmueble) te dicen “vale la pena remodelar” vs. “no inviertas”? ¿Cómo decides rápido?
+
+**2.2.3. Análisis de entrevistas**
+
+## **2.3. Needfinding**
+
+### **2.3.1. User Personas**
+
+Para esta sección hemos tomado en cuenta dos User Persona que corresponden a los dos segmentos objetivos nombrados anteriormente: los propietarios de inmuebles y los trabajadores independientes.
+
 
 
 # Capítulo III Especificación de requisitos
