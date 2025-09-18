@@ -253,16 +253,83 @@ Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un 
 
 ## 1.3. Segmentos objetivo.
 
-**Primer segmento: Propietarios de locales comerciales (restaurantes, tiendas, oficinas)**  
-Según el Instituto Nacional de Estadística e Informática (INEI), en Lima Metropolitana hay más de 25 000 restaurantes formales y alrededor de 40 000 pequeños comercios minoristas, de los cuales el 68 % reporta utilizar Internet en sus operaciones diarias. Esto indica un amplio grupo de empresarios con capacidad y disposición para incorporar herramientas digitales en la gestión de sus espacios. Además, un estudio de la Cámara de Comercio de Lima (2024) revela que el 54 % de estos negocios considera que la modernización tecnológica —incluida la domótica y el monitoreo en tiempo real— incrementa la seguridad y mejora la experiencia de sus clientes. Por ello, nuestro servicio modular de remodelación + kits IoT preconfigurados cubre una necesidad real: diseñar, ejecutar y supervisar la reforma de sus locales bajo un único flujo digital.
+# **1\) Propietarios de locales comerciales (restaurantes, tiendas, oficinas, otros)**
 
-**Segundo segmento: Propietarios de viviendas con fines de reventa o alquiler**  
-De acuerdo con la Encuesta Nacional de Hogares (ENAHO 2023), el 59 % de los residentes de Lima y ciudades principales tiene menos de 60 años, un porcentaje que coincide con la generación más familiarizada con dispositivos inteligentes. Al mismo tiempo, la adopción de soluciones smart home en Perú creció un 13 % anual en 2024, alcanzando un valor de mercado de USD 410 millones. Esto indica que un número creciente de dueños de vivienda (especialmente quienes planean vender o alquilar) ve en la integración de IoT una vía para aumentar la plusvalía de su inmueble hasta en un 15 %. RentallPE ofrece un acompañamiento completo: desde el diseño y los permisos, hasta la instalación y configuración de sensores, cerraduras inteligentes y sistemas de climatización automatizados, alineados con esa tendencia de valorización inteligente.
+# Dueños o administradores de locales (PYMES y cadenas chicas) que buscan remodelar y operar con mayor eficiencia: control de costos y pagos, cumplimiento (facturación), y monitoreo de consumo/ambiente para reducir gastos y mejorar la experiencia del cliente/empleado.
+
+# **Características demográficas**
+
+# Ubicación: Lima Metropolitana y capitales regionales (zonas con alta densidad de comercio y oficina).
+
+# Tamaño: micro y pequeñas empresas; 1–5 locales (restaurantes/cafeterías/retail/otros), oficinas de 10–100 personas.
+
+# Roles decisores: dueño/gerente general, administrador de tienda, facility/office manager, contabilidad/finanzas.
+
+# **Necesidades clave**
+
+# Control de obra y costos: presupuestos comparables, pagos y facturas electrónicas simples.
+
+# Visibilidad operativa: panel en tiempo real de energía/ambiente/seguridad (IoT), umbrales y alertas.
+
+# Cumplimiento y experiencia: contratos/firma digital, reportes para auditoría e indicadores de confort (IAQ) que impactan en ventas y productividad.
+
+# **2\) Propietarios de viviendas con fines de reventa o alquiler**
+
+# Personas/familias e inversionistas pequeños que remodelan para vender mejor o alquilar más rápido y a mejor renta: les interesa el tiempo-a-mercado, la estética funcional y el consumo eficiente (para subir valor y bajar gastos del inquilino).
+
+# 
+
+# **Características demográficas**
+
+# Ubicación: Lima Metropolitana (distritos con mercado de compra-venta y arriendo activo) y ciudades universitarias/turísticas.
+
+# Perfil económico: ingresos medios/medios-altos; 1–3 unidades en propiedad.
+
+# Experiencia digital: usan portales inmobiliarios (búsqueda, pricing), contactan profesionales por apps/redes.
+
+# **Necesidades clave**
+
+# Plan de remodelación “lista para publicar”: paquete claro (alcances, tiempos, costos) con antes/después y checklist de materiales.
+
+# Comparación de presupuestos y pagos: cotizaciones normalizadas, hitos de obra, pagos en línea y comprobantes.
+
+# Atributos que suben valor: cocina/baño, iluminación/ventilación, eficiencia energética (artefactos/IAQ básico), y reportes para anuncios (consumo estimado, mejoras certificables).
 
 
+# **Competidores directos (software de gestión de obra/remodelación)**
 
+**1\) Procore** – suite integral para gestión de proyectos, costos y facturación
 
+* **Qué ofrece:** gestión de proyectos y de campo, control de costos, gestión y aprobación de **facturas** y **cobros** en un solo lugar; integra proveedores y subcontratistas
 
+* **Fortaleza:** plataforma muy completa y adoptada por contratistas medianos/grandes; workflows financieros maduros.
+
+* **Brecha vs. tu propuesta:** Procore no es nativo IoT; la analítica de consumo/IAQ suele lograrse con integraciones externas. 
+
+**2\) Autodesk Construction Cloud (ACC / Build)** – gestión colaborativa con foco en **cost management**
+
+* **Qué ofrece:** control de **costos** centralizado en la nube, permisos granulares, colaboración con dueños y proveedores; flujo de proyecto de punta a punta.
+
+* **Fortaleza:** muy fuerte en documentación, trazabilidad y costos (nativo de Autodesk).   
+* **Brecha:** no es una plataforma IoT end-to-end para energía/IAQ; requiere ecosistema adicional para telemetría. 
+
+**3\) Buildertrend** – orientado a **remodeladores** y constructores residenciales
+
+* **Qué ofrece:** gestión completa de remodelaciones, **portal del cliente** con actualizaciones, comunicación y pagos; foco en residencial.
+
+* **Fortaleza:** experiencia del cliente final (portal/actualizaciones) y funcionalidades específicas para remodelación
+
+* **Brecha:** no incluye monitoreo IoT/energético nativo para locales comerciales.
+
+**4\) Fieldwire (by Hilti)** – coordinación en obra y gestión de RFIs/tareas
+
+* **Qué ofrece:** coordinación en terreno, RFIs integradas con planos y tareas, móvil-first; bueno para equipos en campo.
+
+* **Fortaleza:** simple y robusto en ejecución diaria en obra.
+
+* **Brecha:** foco en operación de obra; finanzas/IoT no son su centro.
+
+* 
 # Competitive Analysis Landscape
 
 **¿Por qué llevar a cabo este análisis?**  
