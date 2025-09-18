@@ -259,6 +259,99 @@ Según el Instituto Nacional de Estadística e Informática (INEI), en Lima Metr
 **Segundo segmento: Propietarios de viviendas con fines de reventa o alquiler**  
 De acuerdo con la Encuesta Nacional de Hogares (ENAHO 2023), el 59 % de los residentes de Lima y ciudades principales tiene menos de 60 años, un porcentaje que coincide con la generación más familiarizada con dispositivos inteligentes. Al mismo tiempo, la adopción de soluciones smart home en Perú creció un 13 % anual en 2024, alcanzando un valor de mercado de USD 410 millones. Esto indica que un número creciente de dueños de vivienda (especialmente quienes planean vender o alquilar) ve en la integración de IoT una vía para aumentar la plusvalía de su inmueble hasta en un 15 %. RentallPE ofrece un acompañamiento completo: desde el diseño y los permisos, hasta la instalación y configuración de sensores, cerraduras inteligentes y sistemas de climatización automatizados, alineados con esa tendencia de valorización inteligente.
 
+
+
+
+
+# Competitive Analysis Landscape
+
+**¿Por qué llevar a cabo este análisis?**  
+Comparar la propuesta integral (remodelación + pagos/facturación + IoT/energía/IAQ + reportes) con suites líderes para detectar ventajas, brechas y oportunidades.
+
+**Objetivo / Pregunta guía**  
+¿Cómo diferenciarnos para pymes comerciales y propietarios residenciales al combinar **gestión del proyecto + cobros/facturas + monitoreo IoT/energía** en una sola plataforma?
+
+---
+
+## Perfil
+
+### Overview
+
+| (coloca logos en el encabezado) | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Descripción breve** | Plataforma para **remodelación y operación** de locales y viviendas (renta/venta): backlog, **pagos y facturas**, **IoT energía/IAQ**, alertas y **reportes/ESG**. | Suite integral de construcción con **Invoice/Payment Applications** y **Procore Pay** para orquestar cobros/pagos con trazabilidad. | Plataforma colaborativa con **Cost Management** para centralizar y dar visibilidad a la salud financiera del proyecto. | Software para **residencial y remodelación** con **Client Portal** y **pagos** integrados, orientado a pymes. |
+
+### Ventaja competitiva / ¿Qué valor ofrece?
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Propuesta** | **Todo-en-uno**: obra + **pagos/facturas** + **IoT/energía** + **reportes ESG/IA** para **comercial ligero** y **residencial de inversión**. | Cadena financiera robusta (invoicing, **pay apps**, **Procore Pay**, **lien waivers**) y adopción enterprise. | **Costos** integrado al flujo ACC (Docs + móvil); control de riesgo y visibilidad de presupuesto. | **Experiencia del cliente** (portal) y flujo de **remodelación residencial** con pagos y sincronización contable. |
+
+### Mercado objetivo
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Segmentos** | PYMES (retail/foodservice/oficinas) y propietarios residenciales (1–3 unidades). | GC/constructores medianos-grandes; owners con necesidades de control financiero/contractual. | Empresas en ecosistema Autodesk que buscan centralizar **costos** en la nube. | Home builders y remodeladores residenciales. |
+
+### Estrategias de marketing
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Go-to-market** | Casos de **ahorro energético + ROI** de remodelación; alianzas con IoT/financieras; calculadoras y reportes. | Contenido y casos de pago/invoicing para reducción de fricción financiera. | Demos y contenidos de **Cost Management** y su integración con Docs/móvil. | Demos, **Client Portal** y materiales de pagos/finanzas para pymes. |
+
+---
+
+## Perfil de Producto
+
+### Productos & Servicios
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Módulos clave** | Gestión de obra; **pagos/facturación electrónica**; **IoT energía/IAQ**; **alertas**; reportes/ESG e **IA**. | **Invoice/Payment Applications** + **Procore Pay** (pagos GC-subs; workflows de pagos y **lien waivers**). | **Cost Management** (presupuestos, cambios, visibilidad financiera) integrado a Build. | **Client Payments** con **invoicing** y opciones de cobro + **Client Portal**. |
+
+### Precios & Costos *(referencial)*
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Modelo** | Definir **tiers** por nº de proyectos/sensores/usuarios. | Precio no público; **Procore Pay** como add-on/región. | Suscripción de **Autodesk Build**; Cost Management incluido en el producto Build. | Precio bajo demo; **pagos** con comisión por transacción. |
+
+### Canales de distribución (Web / Móvil)
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Canales** | Web + móvil (push para alertas; descargas de reportes). | Web + apps; portal de colaboración y pagos integrados. | Web + **ACC mobile app** (Docs + Build). | Web + app y **Client Portal** para clientes. |
+
+---
+
+## Análisis SWOT
+
+### Fortalezas
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Strengths** | **Integración nativa**: obra + **pagos/facturas** + **IoT/energía** + reportes/ESG, enfocada en pymes/comercial ligero y residencial de inversión. | Cadena **financiera** madura: pay apps, **Procore Pay**, **lien waivers** automáticos. | **Cost Management** centralizado con alta visibilidad y control de riesgos. | Foco **residencial/remodelación** y **experiencia del cliente** (portal + pagos). |
+
+### Debilidades
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Weaknesses** | Menor reconocimiento de marca; requiere despliegue/soporte de sensores. | Complejidad enterprise; **IoT/energía** vía integraciones. | Menor foco en IoT/IAQ nativo; depende de integraciones. | Enfoque residencial; menos profundidad en costos enterprise/IoT. |
+
+### Oportunidades
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Opportunities** | **Ahorro energético verificable** + facturación local + reportes ESG para ventas/alquiler y margen operativo. | Integraciones IoT/ESG para clientes enterprise. | Extender analítica/ML en costos e integraciones energía/ESG. | Upsell con finanzas/pagos y automatización de comunicación. |
+
+### Amenazas
+
+|  | **Tu startup** | **Procore** | **Autodesk Build (ACC)** | **Buildertrend** |
+|---|---|---|---|---|
+| **Threats** | Incumbentes pueden empaquetar **IoT** con partners; presión de precios. | Saturación enterprise; ciclos de venta largos. | Competencia por bundles integrados (ecosistema Autodesk). | Plataformas todo-en-uno que fortalezcan **pagos** y finanzas en residencial. |
+
+
+
+
 # Capítulo III Especificación de requisitos
 
 ### Epicas
