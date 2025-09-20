@@ -447,6 +447,21 @@ Cierre
 
 **Segmento 1: Propietarios de Locales**
 
+**Nombre y Apellido:** David Quispe
+
+**Edad:** 19 años
+
+**Distrito:** Pueblo libre
+
+
+
+<p align="center">
+  <img src="./Imagenes/Development Evidence for Sprint Review.png" alt="Development Evidence for Sprint Review.png""/>
+</p>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/EYRGg-zJaV9KgiqWyssQoNcBSjgyt1qNAcvgQW95HD_PuA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Dhi2cS
+
+
 **Segmento 2: Propietarios de viviendas**
 
 #### Entrevista 1:
@@ -467,6 +482,18 @@ Cierre
 
 **Resumen de la Entrevista:**
 Las respuestas de Jhon muestran que su mayor frustración está en la falta de organización durante la remodelación: presupuestos desordenados, retrasos que afectan ingresos y coordinación complicada con contratistas. También valora mucho el impacto de las fotos en la publicación y busca herramientas que le ahorren tiempo y le den claridad en costos y avances. Una solución digital que estandarice cotizaciones, centralice pagos y muestre avances en tiempo real tendría gran valor para él, ya que reduciría pérdidas económicas y aceleraría el retorno de su inversión.
+
+
+
+
+
+
+
+
+
+
+
+
 
 **2.2.3. Análisis de entrevistas**
 
