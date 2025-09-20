@@ -842,7 +842,7 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 
 **IoT Monitoring & Notifications BC**
 <p align="center">
- <img src="./Imagenes/Event IoT Monitoring & Notifications BC.png" alt="Event IoT Monitoring & Notifications BC.png""/>
+ <img src="./Imagenes/Event IoT Monitoring & Notifications F BC.png" alt="Event IoT Monitoring & Notifications F BC.png""/>
 </p>
 
 **Payment Management BC**
