@@ -92,29 +92,13 @@ A continuación, estadísticas de participación:
 
 ## Student Outcome
 
-<div align="center">
-  <table border="1" cellspacing="0" cellpadding="6">
-    <thead>
-      <tr>
-        <th>Criterio específico</th>
-        <th>Acciones realizadas (TB1)</th>
-        <th>Conclusiones</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-      <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
-      <td>a</td>
-      <td>b</td>
-      </tr>
-       <tr>
-      <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</strong></td>
-      <td>a</td>
-      <td>b</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|-----------------|--------------------|---------------------|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |---------------|     El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Esto incluyó la realización de entrevistas, la elaboración de Statements y Hypothesis Statements como parte del proceso Lean UX, la creación de User Personas y el mapeo de la experiencia del usuario. Además, se realizó un análisis competitivo, se desarrollaron User Stories y se establecieron estrategias frente a competidores. Se utilizaron herramientas visuales como Lean UX Canvas y Style Guidelines, y se llevaron a cabo actividades como Empathy Mapping para comprender las necesidades de los usuarios. Todo esto se complementó con la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. |
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta|--------------------|    El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva.  |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |-------------------- | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. 
+
+
 
 ---
 
