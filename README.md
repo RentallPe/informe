@@ -1138,20 +1138,40 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 </p>
 
 
+##### 5.2.1.5. Execution Evidence for Sprint Review
 
 
 
 
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page del proyecto WorkStation. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
+
+La creación de la documentación de Web Services mediante OpenAPI/Swagger se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
+
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Se realizó el despliegue de la **landing page** del proyecto *AgeCare*, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
 
 
 
 
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo por todo el equipo.
 
 
 
+### Conclusiones
 
+RentallPe surge ante la fragmentación del mercado de remodelaciones: cotizaciones incomparables, pagos/facturación manuales y poca visibilidad del avance y consumo. La plataforma unifica descubrimiento de servicios, gestión de pagos con e-factura y monitoreo IoT en un solo lugar, conectando la oferta de profesionales con la demanda de propietarios.
 
+La propuesta prioriza experiencia y confianza: registro seguro, perfiles y preferencias claros, landing informativa con casos y testimonios, y pagos simples con comprobantes. El módulo IoT aporta métricas en tiempo real (energía/ambiente/seguridad) y alertas, diferenciando a rentallPe frente a soluciones que solo listan proveedores.
 
+Además de la eficiencia operativa vía digitalización (presupuestos estandarizados, contratos/firma, conciliación), el enfoque promueve sostenibilidad con indicadores y reportes que ayudan a reducir costos y mejorar el confort.
+
+En síntesis, rentallPe es más que un portal: es una plataforma integral y escalable (arquitectura por bounded contexts y CQRS) que impulsa productividad y formalización del sector, con impacto económico y operativo para propietarios, contratistas y clientes en el mercado peruano.
 
 
 
