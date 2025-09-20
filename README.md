@@ -414,55 +414,59 @@ Comparar la propuesta integral (remodelación + pagos/facturación + IoT/energí
 
 # **Propietarios de locales comerciales (restaurantes, tiendas, oficinas, otros)**
 
-Cuéntame la última vez que decidiste remodelar o hacer mejoras en el local. ¿Qué pasó antes, durante y después? (línea de tiempo)
+Calentando
 
-¿Qué disparó la decisión (problema, queja de clientes, inspección, mudanza, expansión)? ¿Quién más intervino?
+Para ubicarnos, ¿cómo es tu local hoy? (tipo de negocio, tamaño, zona)
 
-¿Cómo armaste el presupuesto y comparaste proveedores/cotizaciones? ¿Qué criterios usaste para elegir?
+¿Qué parte del local “te habla” primero cuando piensas en mejorar algo?
 
-En esa experiencia, ¿qué parte del seguimiento de obra te resultó más difícil (avances, cambios, calidad, entregas)?
+Historia reciente
+3) Cuéntame la última vez que hiciste una mejora o remodelación. ¿Cómo empezó la idea?
+4) ¿Qué te hizo decir “ya, ahora sí lo hacemos”? (queja, inspección, oportunidad, moda, etc.)
+5) ¿Cómo te organizaste con presupuestos y proveedores? ¿Qué te funcionó y qué no?
 
-¿Cómo gestionaste pagos y facturas con contratistas/proveedores? ¿Dónde se complicó (aprobaciones, comprobantes, conciliación)?
+Operación del día a día
+6) En una semana normal, ¿qué miras para saber si todo va bien? (ventas, consumo, ambiente, ruido, etc.)
+7) ¿Alguna vez te llegó una sorpresa en el local (temperatura, equipos, seguridad)? ¿Cómo te enteraste y qué hiciste?
 
-¿Qué métricas operativas miras a la semana (ventas, tickets, tiempos, consumo eléctrico, confort/IAQ)? ¿Dónde las ves hoy?
+Pagos y papeles
+8) ¿Cómo llevas pagos y comprobantes con proveedores? ¿Dónde se complica o se demora?
 
-¿Has tenido alertas o incidentes (equipos, seguridad, temperatura, olores, ruido)? ¿Cómo te enteraste y qué hiciste?
+Tecnología / ayudas
+9) Si tuvieras una alerta ideal en el celular, ¿qué debería decirte y qué te gustaría poder hacer al toque?
+10) Imagina una app que te ayude con cotizaciones, avances y pagos: ¿qué pantalla o botón no podría faltar?
 
-Si hoy pudieras recibir una alerta perfecta, ¿qué debería decir, por qué canal y qué acción te permitiría tomar en 1 minuto?
+Cierre
+11) Si mañana vuelves a remodelar, ¿qué tres cosas harías distinto para que sea más liviano?
+12) ¿Hay algo que evitarías a toda costa? (proveedores, procesos, horarios, permisos, etc.)
 
-Háblame de la última vez que presentaste un reporte a tu jefe/socio (costos, ahorro, resultados). ¿Qué formato pidió y qué faltó?
+**Propietarios de viviendas**
 
-¿Qué barreras encuentras para adoptar herramientas nuevas (tiempo del personal, capacitación, costo, integración con contabilidad)?
+Calentando
 
-Piensa en un pago que salió mal (retraso, rechazo, contracargo). ¿Qué consecuencias tuvo y cómo lo solucionaste?
+¿Qué tipo de propiedad manejas y en qué zona? (solo para contexto)
 
-Si tuvieras una varita mágica para la próxima remodelación, ¿qué tres cosas cambiarías del proceso actual (de principio a fin)?
+¿Qué te gusta y qué no te gusta de la vivienda tal como está hoy?
 
-**Propietarios de viviendas con fines de reventa o alquiler**
+Historia reciente
+3) Cuéntame la última remodelación que hiciste para vender o alquilar. ¿Cómo nació la idea?
+4) ¿Cuál fue el objetivo principal: vender mejor, alquilar más rápido, resolver un problema…?
+5) ¿Cómo comparaste presupuestos? ¿Te quedó alguna duda o aprendizaje de esa parte?
 
-**Cuéntame la última vez** que **remodelar** una vivienda para vender o alquilar. ¿Cuál fue el objetivo y el plazo?
+Publicación y valor
+6) Cuando publicaste, ¿qué pruebas te ayudaron más? (fotos antes/después, mejoras, consumo estimado, etc.)
+7) ¿Cómo decides el precio de alquiler/venta? ¿Qué señales miras y dónde?
 
-¿Qué **gatillo** te llevó a invertir (o no) en esa remodelación (precio de mercado, vacancia, quejas de inquilinos, inspección)?
+Pagos y coordinación
+8) ¿Cómo manejaste pagos y comprobantes con maestros/contratistas? ¿Qué parte te quitó más tiempo?
+9) ¿Hubo retrasos o cambios de último minuto? ¿Cómo afectó tu fecha de publicación o el ROI?
 
-¿Cómo decidiste el **alcance** (ambientes, materiales, acabados)? ¿Qué sacrificaste por **presupuesto o tiempo-a-mercado**?
+Tecnología / ayudas
+10) Si pudieras ver en el celular consumo estimado o confort para incluirlo en el aviso, ¿cómo te gustaría que se muestre?
+11) Pensando en una app que centralice cotizaciones, avances, pagos y documentos, ¿qué te haría decir “vale la pena”?
 
-¿De qué manera **comparaste presupuestos** y **controlaste cambios** durante la obra? Dame un ejemplo concreto.
-
-¿Cómo llevaste los **pagos** a proveedores/contratistas y cómo te entregaron **comprobantes**? ¿Dónde se atoró el flujo?
-
-¿Qué evidencia o **antes/después** te funcionó mejor para **publicar** (fotos, métricas de consumo estimado, mejoras certificables)?
-
-¿Qué **indicadores** te ayudan a **poner precio** al alquiler/venta (m², zona, equipamiento, consumo de servicios)? ¿Dónde los consultas?
-
-¿Te interesaría **monitorear** consumo o confort (energía/IAQ básico) para **mejorar el aviso** o justificar el precio? ¿Cómo lo usarías?
-
-Cuando hubo **retrasos** (materiales, permisos, profesionales), ¿cómo afectó tu **fecha de publicación** y ROI?
-
-¿Qué **riesgos** te preocupan en pagos/contratos (señas, penalidades, garantías, devoluciones)? ¿Alguna historia reciente?
-
-Si pudieras **automatizar** algo de tu próxima remodelación, ¿qué sería (comparar cotizaciones, hitos/pagos, checklist, reportes)?
-
-¿Qué **señales** (del mercado o del inmueble) te dicen “vale la pena remodelar” vs. “no inviertas”? ¿Cómo decides rápido?
+Cierre
+12) Para tu próxima remodelación, ¿qué atajos te gustaría tener y qué dolores preferirías no repetir?
 
 **2.2.3. Análisis de entrevistas**
 
