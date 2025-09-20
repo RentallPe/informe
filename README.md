@@ -447,6 +447,8 @@ Cierre
 
 **Segmento 1: Propietarios de Locales**
 
+#### Entrevista 1:
+
 **Nombre y Apellido:** David Quispe
 
 **Edad:** 19 años
@@ -456,10 +458,16 @@ Cierre
 
 
 <p align="center">
-  <img src="./Imagenes/Development Evidence for Sprint Review.png" alt="Development Evidence for Sprint Review.png""/>
+  <img src="./Imagenes/Entrevista David.png" alt="Entrevista David.png""/>
 </p>
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/EYRGg-zJaV9KgiqWyssQoNcBSjgyt1qNAcvgQW95HD_PuA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Dhi2cS
+
+
+
+
+
+#### Entrevista 2:
 
 
 **Segmento 2: Propietarios de viviendas**
@@ -486,7 +494,7 @@ Las respuestas de Jhon muestran que su mayor frustración está en la falta de o
 
 
 
-
+#### Entrevista 2:
 
 
 
