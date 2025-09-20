@@ -112,64 +112,14 @@ DevDream es una startup dedicada al desarrollo de software, enfocada en encontra
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-<div align="center">
-  <table border="1" cellspacing="0" cellpadding="6">
-    <thead>
-      <tr>
-        <th>Integrantes</th>
-        <th>Descipción</th>
-        <th>Experiencia</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-      <td> 
-      <img ![Braulio](https://media.discordapp.net/attachments/1092294135525949540/1416127872682164314/image.png?ex=68c5b75b&is=68c465db&hm=8ff06e48619ca4e4c4c4cb601db661f18d69cb47a6ca4d8b39670620f8a9af73&=&format=webp&quality=lossless)  
-      Braulio Torrejon Navarro U201711828
-      </td>
-      <td> Soy un estudiante de 5nto ciclo de la carrera de Ingenieria de Software. Tengo interes en lo que es aprender nuevas herramientas para proyectos personales. </td>
-      <td>Poseo conocimiento en los lenguajes de: C++, Python, C#, Genexus y estuve 1 año en practicas pre profesionales siendo QA, soy una persona que estoy listo a trabajar bajo presión y con mucho compañerismo. en</td>
-      </tr>
-      <tr>
-      <td> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"
-       alt="Logo UPC" width="200" align="center">
-       Nombre (codigo)
-      </td>
-      <td>description</td>
-      <td>experiencia en</td>
-      </tr>
-      <tr>
-      <td> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"
-       alt="Logo UPC" width="200" align="center">
-       Nombre (codigo)
-      </td>
-      <td>description</td>
-      <td>experiencia en</td>
-      </tr>
-      <tr>
-      <td> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"
-       alt="Logo UPC" width="200" align="center">
-       Nombre (codigo)
-      </td>
-      <td>description</td>
-      <td>experiencia en</td>
-      </tr>
-      <tr>
-      <td> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"
-       alt="Logo UPC" width="200" align="center">
-       Nombre (codigo)
-      </td>
-      <td>description</td>
-      <td>experiencia en</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
+| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                      | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         |        |                      |                                                                                                                                     |
+| Perez Tuesta Gabriel     | Ingeniería de Software<br> 5to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      |<img width="609" height="811" alt="Screenshot 2025-09-19 234029" src="https://github.com/user-attachments/assets/09ce7d58-35a2-461d-b66d-28dd115a60a2" /> | - Conocimientos de lenguajes de programación html, css y Javascript.<br>- Contribución en equipo y responsabilidad.  |
+|    ----  |    ------   |  ------ |  --------- |
+|   ----------   |     --------  | -------  | ------   |   
+|   ---------   |    --------   | --------   |  -----  |
 ## 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
