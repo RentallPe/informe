@@ -942,6 +942,9 @@ https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJR
 #### 4.7.1. Class Diagrams
 
 
+<img width="2260" height="1880" alt="Diagrama en blanco" src="https://github.com/user-attachments/assets/80af8577-fe4a-4607-91fd-ea1dcea90818" />
+
+
 ### 4.8. Database Design
 
 
