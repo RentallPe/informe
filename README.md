@@ -861,11 +861,22 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 </p>
 
 
+link:  
+
+https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJRQVNRUFkyTXlXL1ZNZzNCNWtoV2FXRDl3WnFHV2Z2eUYrZCttWEJXZ0VqdThTQ05qTUcvZThsQTVOL0EwQlJwbEN0Y3NrQWV0WUZFVjBpZ1hGeHZnNjlhMjZ0cFh0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=994320381504
+
+
 #### 4.6.2. Software Architecture Context Diagram
 
-
+<p align="center">
+  <img src="./Imagenes/Context Diagram.png" alt="Context Diagram.png""/>
+</p>
 
 #### 4.6.3. Software Architecture Container Diagrams
+
+<p align="center">
+  <img src="./Imagenes/Container Diagrams.png" alt="Container Diagrams.png""/>
+</p>
 
 
 #### 4.6.4. Software Architecture Components Diagrams
@@ -873,18 +884,33 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 
 **Identity & Access Management BC**
 
+<p align="center">
+  <img src="./Imagenes/Component Identity & Access Management BC.png" alt="Component Identity & Access Management BC.png""/>
+</p>
 
 **IoT Monitoring & Notifications BC**
 
+<p align="center">
+  <img src="./Imagenes/Component IoT Monitoring & Notifications BC.png" alt="Component IoT Monitoring & Notifications BC.png""/>
+</p>
 
 **Payment Management BC**
 
+<p align="center">
+  <img src="./Imagenes/Component Payment Management BC.png" alt="Component Payment Management BC.png""/>
+</p>
 
 **Profile & Preferences BC**
 
+<p align="center">
+  <img src="./Imagenes/Component Profile & Preferences BC.png" alt="Component Profile & Preferences BC.png""/>
+</p>
 
 **Reports & Advanced Features BC**
 
+<p align="center">
+  <img src="./Imagenes/Component Reports & Advanced Features BC.png" alt="Component Reports & Advanced Features BC.png""/>
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
