@@ -410,9 +410,9 @@ Comparar la propuesta integral (remodelación + pagos/facturación + IoT/energí
 
 ### **2.2.1. Diseño de entrevistas**
 
-# **Preguntas:**
+**Preguntas:**
 
-# **Propietarios de locales comerciales (restaurantes, tiendas, oficinas, otros)**
+**Propietarios de locales comerciales (restaurantes, tiendas, oficinas, otros)**
 
 Calentando
 
