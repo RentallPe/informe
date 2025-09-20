@@ -1044,3 +1044,110 @@ Estructura de las ramas:
 **Gherkin:**
 
 - Gherkin es un lenguaje de dominio especializado usado en el desarrollo guiado por comportamiento (BDD), diseñado para mejorar la comunicación entre equipos de negocios y técnicos al abordar problemas específicos. Utiliza saltos de línea y palabras clave como "Given", "When", "Then" y "And" para mejorar la legibilidad y organización de los escenarios en BDD, facilitando una estructura clara y efectiva de diferentes tipos de casos.
+
+
+### 5.1.4. Software Deployment Configuration
+
+La landing page es una aplicación estática que se publica habitualmente mediante GitHub Pages. La configuración actual del repositorio respalda un despliegue directo desde la rama que actúe como producción.
+
+**Consideraciones sobre el despliegue**
+
+- La página principal se sirve desde `index.html` situado en la raíz del repositorio y los recursos se referencian con rutas relativas (`./style.css`, `./js/java.js`, `./imgs/fondo-menu.jpg`), lo que facilita la publicación estática.
+- GitHub Pages resulta adecuado para este tipo de contenido: la URL pública asociada al repositorio permite verificar visualmente la landing (`https://temucoders.github.io/Landing-Page/`).
+- Si en etapas posteriores se incorpora un proceso de build (Vite, Webpack, etc.), el artefacto resultante (`dist/`) se convierte en la carpeta de publicación y el flujo de CI/CD (por ejemplo GitHub Actions) puede automatizar la construcción y el despliegue.
+
+**Buenas prácticas vinculadas al repositorio**
+
+- Mantener `index.html` en la raíz y las carpetas `js/`, `imgs/` y `style.css` con nombres y rutas consistentes.
+- Evitar la inclusión de credenciales en el repositorio; cualquier secreto necesario para workflows debe ubicarse en `GitHub Secrets`.
+- Documentar en `README.md` la URL pública, la estructura mínima del repo y los pasos esenciales para comprobar localmente la página (por ejemplo, abrir `index.html` con Live Server).
+
+**Verificación post-publicación**
+
+- Comprobación de que los recursos (imágenes, CSS, JS) retornan 200 y se cargan sin errores en consola.
+- Revisión rápida de funcionalidades críticas: cambio de idioma, acordeón FAQ y navegación principal.
+- Revisión de rendimiento/accesibilidad básica con herramientas como Lighthouse cuando sea pertinente.
+
+### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 1.
+
+##### 5.2.1.1. Sprint Planning 1
+El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
+
+| Sprint \# | Sprint 1 |
+| ----- | ----- |
+| Date | 2025-09-02 |
+| Time | 9:00 PM |
+| Location | Virtual \- Meet |
+| Prepared By | Arturo Saravia |
+| Attendees (to planning meeting) |Arturo Axel Saravia Huaricancha, Cumba Rengifo, Leonardo Raúl, Palomares Andrade, Sean Farith, Pérez Tuesta, Gabriel y Torrejón Navarro, Braulio Rodrigo	 |
+| Sprint n \- 1 Review Summary | Este es el primer Sprint, por lo que este campo no aplica. |
+| Sprint n \- 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica. |
+| Sprint 1 Goal | Nuestra prioridad en este sprint es iniciar con la parte de front end iniciando con la  landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
+| Sprint 1 Velocity | Nuestro equipo puede aceptar hasta 18 Story Points. |
+| Sum of Story Points | La suma de Story Points atendidos es de 15\. |
+
+
+##### 5.2.1.2. Aspect Leaders and Collaborators     
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----- | ----- | ----- |
+|Arturo Axel Saravia Huaricancha | thunder053 | L |
+| Cumba Rengifo, Leonardo Raúl | LeonardoC72 | C |
+| Palomares Andrade, Sean Farith | Sean6513201| C |
+| Pérez Tuesta, Gabriel | Gabyoko | C |
+| Braulio Rodrigo| BraulioTN | C |
+
+#### **5.2.1.3. Sprint Backlog 1\.**
+
+Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+
+
+| User Story ID | Título | Work-Item ID | Título de la tarea | Descripción | Estimación (h) | Responsable |
+|---|---|---|---|---|---:|---|
+| US01 | Visualización de servicios de remodelación | SB1-01 | Setup del proyecto FE | Repo, Vite/React, Tailwind, ESLint, rutas públicas, CI básico. | 5 | **Arturo Axel Saravia Huaricancha** |
+| US01 | Visualización de servicios de remodelación | SB1-02 | Navbar + Header responsivo | Logo, menú, CTA “Solicitar cotización”, sticky y scroll active. | 4 | **Braulio Rodrigo Cumba Rengifo** |
+| US01 | Visualización de servicios de remodelación | SB1-03 | Sección “Servicios” | Cards de tipos de remodelación con iconos e info breve. | 4 | **Leonardo Raúl Palomares Andrade** |
+| US01 | Visualización de servicios de remodelación | SB1-04 | CTA principal (Hero) | Hero con copy, imagen, CTAs “Ver proyectos” y “Pedir presupuesto”. | 3 | **Sean Farith Pérez Tuesta** |
+| US02 | Visualización de sección de proyectos | SB1-05 | Sección “Proyectos destacados” | Grid con 6 proyectos, hover con métricas y link a detalle. | 4 | **Gabriel Torrejón Navarro** |
+| US02 | Visualización de sección de proyectos | SB1-06 | Carrusel/slider de casos | Carrusel con flechas y autoplay accesible. | 3 | **Arturo Axel Saravia Huaricancha** |
+| US03 | Visualización de beneficios IoT | SB1-07 | Sección “Beneficios IoT” | Tres bloques (energía, ambiente, seguridad) con iconografía. | 3 | **Braulio Rodrigo Cumba Rengifo** |
+| US03 | Visualización de beneficios IoT | SB1-08 | Micro-interacciones | Animaciones al hacer scroll (AOS/Framer Motion). | 3 | **Leonardo Raúl Palomares Andrade** |
+| US10 | Dejar opiniones | SB1-09 | Sección “Testimonios” | Tarjetas con foto, nombre, rating y comentario. | 3 | **Sean Farith Pérez Tuesta** |
+| US24 | Calificación del servicio | SB1-10 | Componente de rating | Estrellas accesibles y promedio mostrado en testimonios. | 3 | **Gabriel Torrejón Navarro** |
+| US29 | Multilenguaje | SB1-11 | Infra de i18n (ES/EN) | i18next, JSONs, selector de idioma en navbar. | 4 | **Arturo Axel Saravia Huaricancha** |
+| US29 | Multilenguaje | SB1-12 | Traducción de secciones | Hero, servicios, proyectos, beneficios y footer. | 3 | **Braulio Rodrigo Cumba Rengifo** |
+| US49 | Modo oscuro | SB1-13 | Toggle Dark Mode | Toggle con persistencia (localStorage, prefers-color). | 3 | **Leonardo Raúl Palomares Andrade** |
+| US50 | Acceso móvil optimizado | SB1-14 | Responsive XS–XL | Mobile-first, touch targets, tipografía y grids. | 5 | **Sean Farith Pérez Tuesta** |
+| US01/02/03 | SEO y Open Graph | SB1-15 | Metadatos y SEO básico | Title/description por ruta, OG tags, sitemap, robots.txt. | 3 | **Gabriel Torrejón Navarro** |
+| US01 | Form “Pedir presupuesto” (mock) | SB1-16 | Form lead simple | Nombre, email, tipo de obra; validaciones y toast de enviado (mock). | 4 | **Arturo Axel Saravia Huaricancha** |
+| US01/02 | Performance inicial | SB1-17 | Optimización de imágenes | Lazy loading, srcset y compresión. | 3 | **Braulio Rodrigo Cumba Rengifo** |
+| US01–US50 | Accesibilidad | SB1-18 | A11y base | Semántica, contraste, focus visible, roles/aria, teclado. | 3 | **Leonardo Raúl Palomares Andrade** |
+| US01/02/03 | Analytics | SB1-19 | Etiquetado de eventos | Pageviews y eventos de CTA con capa de datos (mock). | 3 | **Sean Farith Pérez Tuesta** |
+| US01–US50 | Deploy | SB1-20 | Despliegue y preview | Pipeline a Vercel/Netlify, dominios y previews por PR. | 3 | **Gabriel Torrejón Navarro** |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
