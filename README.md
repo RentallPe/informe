@@ -418,26 +418,40 @@ Calentando
 
 Para ubicarnos, ¿cómo es tu local hoy? (tipo de negocio, tamaño, zona)
 
+
 ¿Qué parte del local “te habla” primero cuando piensas en mejorar algo?
+
 
 Historia reciente
 3) Cuéntame la última vez que hiciste una mejora o remodelación. ¿Cómo empezó la idea?
+
 4) ¿Qué te hizo decir “ya, ahora sí lo hacemos”? (queja, inspección, oportunidad, moda, etc.)
+
 5) ¿Cómo te organizaste con presupuestos y proveedores? ¿Qué te funcionó y qué no?
+   
 
 Operación del día a día
 6) En una semana normal, ¿qué miras para saber si todo va bien? (ventas, consumo, ambiente, ruido, etc.)
+
 7) ¿Alguna vez te llegó una sorpresa en el local (temperatura, equipos, seguridad)? ¿Cómo te enteraste y qué hiciste?
 
+
 Pagos y papeles
+
 8) ¿Cómo llevas pagos y comprobantes con proveedores? ¿Dónde se complica o se demora?
 
+
 Tecnología / ayudas
+
 9) Si tuvieras una alerta ideal en el celular, ¿qué debería decirte y qué te gustaría poder hacer al toque?
+  
 10) Imagina una app que te ayude con cotizaciones, avances y pagos: ¿qué pantalla o botón no podría faltar?
+
 
 Cierre
 11) Si mañana vuelves a remodelar, ¿qué tres cosas harías distinto para que sea más liviano?
+
+
 12) ¿Hay algo que evitarías a toda costa? (proveedores, procesos, horarios, permisos, etc.)
 
 **Propietarios de viviendas**
@@ -446,26 +460,47 @@ Calentando
 
 ¿Qué tipo de propiedad manejas y en qué zona? (solo para contexto)
 
+
 ¿Qué te gusta y qué no te gusta de la vivienda tal como está hoy?
 
+
 Historia reciente
+
 3) Cuéntame la última remodelación que hiciste para vender o alquilar. ¿Cómo nació la idea?
+  
 4) ¿Cuál fue el objetivo principal: vender mejor, alquilar más rápido, resolver un problema…?
+
+
 5) ¿Cómo comparaste presupuestos? ¿Te quedó alguna duda o aprendizaje de esa parte?
+
+
 
 Publicación y valor
 6) Cuando publicaste, ¿qué pruebas te ayudaron más? (fotos antes/después, mejoras, consumo estimado, etc.)
+
+
 7) ¿Cómo decides el precio de alquiler/venta? ¿Qué señales miras y dónde?
+
 
 Pagos y coordinación
 8) ¿Cómo manejaste pagos y comprobantes con maestros/contratistas? ¿Qué parte te quitó más tiempo?
+
+
 9) ¿Hubo retrasos o cambios de último minuto? ¿Cómo afectó tu fecha de publicación o el ROI?
+
+   
 
 Tecnología / ayudas
 10) Si pudieras ver en el celular consumo estimado o confort para incluirlo en el aviso, ¿cómo te gustaría que se muestre?
+
+
 11) Pensando en una app que centralice cotizaciones, avances, pagos y documentos, ¿qué te haría decir “vale la pena”?
 
+
+
 Cierre
+
+
 12) Para tu próxima remodelación, ¿qué atajos te gustaría tener y qué dolores preferirías no repetir?
 
 **2.2.3. Análisis de entrevistas**
