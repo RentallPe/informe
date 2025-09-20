@@ -885,31 +885,31 @@ https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJR
 **Identity & Access Management BC**
 
 <p align="center">
-  <img src="./Imagenes/Component Identity & Access Management BC.png" alt="Component Identity & Access Management BC.png""/>
+  <img src="./Imagenes/Componet Identity & Access Management BC.png" alt="Componet Identity & Access Management BC.png""/>
 </p>
 
 **IoT Monitoring & Notifications BC**
 
 <p align="center">
-  <img src="./Imagenes/Component IoT Monitoring & Notifications BC.png" alt="Component IoT Monitoring & Notifications BC.png""/>
+  <img src="./Imagenes/Componet IoT Monitoring & Notifications BC.png" alt="Componet IoT Monitoring & Notifications BC.png""/>
 </p>
 
 **Payment Management BC**
 
 <p align="center">
-  <img src="./Imagenes/Component Payment Management BC.png" alt="Component Payment Management BC.png""/>
+  <img src="./Imagenes/Componet Payment Management BC.png" alt="Componet Payment Management BC.png""/>
 </p>
 
 **Profile & Preferences BC**
 
 <p align="center">
-  <img src="./Imagenes/Component Profile & Preferences BC.png" alt="Component Profile & Preferences BC.png""/>
+  <img src="./Imagenes/Componet Profile & Preferences BC.png" alt="Componet Profile & Preferences BC.png""/>
 </p>
 
 **Reports & Advanced Features BC**
 
 <p align="center">
-  <img src="./Imagenes/Component Reports & Advanced Features BC.png" alt="Component Reports & Advanced Features BC.png""/>
+  <img src="./Imagenes/Componet Reports & Advanced Features BC.png" alt="Componet Reports & Advanced Features BC.png""/>
 </p>
 
 ### 4.7. Software Object-Oriented Design
