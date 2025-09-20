@@ -423,6 +423,7 @@ Para ubicarnos, ¿cómo es tu local hoy? (tipo de negocio, tamaño, zona)
 
 
 Historia reciente
+
 3) Cuéntame la última vez que hiciste una mejora o remodelación. ¿Cómo empezó la idea?
 
 4) ¿Qué te hizo decir “ya, ahora sí lo hacemos”? (queja, inspección, oportunidad, moda, etc.)
@@ -431,6 +432,7 @@ Historia reciente
    
 
 Operación del día a día
+
 6) En una semana normal, ¿qué miras para saber si todo va bien? (ventas, consumo, ambiente, ruido, etc.)
 
 7) ¿Alguna vez te llegó una sorpresa en el local (temperatura, equipos, seguridad)? ¿Cómo te enteraste y qué hiciste?
@@ -449,6 +451,7 @@ Tecnología / ayudas
 
 
 Cierre
+
 11) Si mañana vuelves a remodelar, ¿qué tres cosas harías distinto para que sea más liviano?
 
 
@@ -476,6 +479,7 @@ Historia reciente
 
 
 Publicación y valor
+
 6) Cuando publicaste, ¿qué pruebas te ayudaron más? (fotos antes/después, mejoras, consumo estimado, etc.)
 
 
@@ -483,6 +487,7 @@ Publicación y valor
 
 
 Pagos y coordinación
+
 8) ¿Cómo manejaste pagos y comprobantes con maestros/contratistas? ¿Qué parte te quitó más tiempo?
 
 
@@ -491,6 +496,7 @@ Pagos y coordinación
    
 
 Tecnología / ayudas
+
 10) Si pudieras ver en el celular consumo estimado o confort para incluirlo en el aviso, ¿cómo te gustaría que se muestre?
 
 
@@ -502,6 +508,7 @@ Cierre
 
 
 12) Para tu próxima remodelación, ¿qué atajos te gustaría tener y qué dolores preferirías no repetir?
+
 
 **2.2.3. Análisis de entrevistas**
 
