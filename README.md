@@ -832,24 +832,33 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 
 ### 4.6. Domain-Driven Software Architecture
 
-
 #### 4.6.1. Design-Level Event Storming
 
 
 **Identity & Access Management BC**
-
+<p align="center">
+  <img src="./Imagenes/Event Identity & Access Management BC.png" alt="Event Identity & Access Management BC.png""/>
+</p>
 
 **IoT Monitoring & Notifications BC**
-
+<p align="center">
+ <img src="./Imagenes/Event IoT Monitoring & Notifications BC.png" alt="Event IoT Monitoring & Notifications BC.png""/>
+</p>
 
 **Payment Management BC**
-
+<p align="center">
+ <img src="./Imagenes/Event Payment Management BC.png" alt="Event Payment Management BC.png""/>
+</p>
 
 **Profile & Preferences BC**
-
+<p align="center">
+  <img src="./Imagenes/Event Profile & Preferences BC.png" alt="Event Profile & Preferences BC.png""/>
+</p>
 
 **Reports & Advanced Features BC**
-
+<p align="center">
+  <img src="./Imagenes/Event Reports & Advanced Features BC.png" alt="Event Reports & Advanced Features BC.png""/>
+</p>
 
 
 #### 4.6.2. Software Architecture Context Diagram
