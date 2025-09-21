@@ -515,6 +515,21 @@ Resumen de la entrevista: Las respuestas indican que su mayor dolor está en la 
 
 #### Entrevista 2:
 
+**Nombre y Apellido:** Patricia Navarro
+
+**Edad:** 50 años
+
+**Distrito:** La Victoria
+
+**Screenshot de la Entrevista:**
+![img](https://media.discordapp.net/attachments/1419200584992559239/1419235235836723241/image.png?ex=68d10550&is=68cfb3d0&hm=fead00343bafb8b52830a76d128d3f91098ca1cd8e53b1ac6ca17508845abba8&=&format=webp&quality=lossless)
+
+**Timelapse:** [Inicio: 00:00, Fin: 04:00]
+**Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201711828_upc_edu_pe/EX11GPAnMvhAmiBZrqGizhIBwkXMzUUHZ_FLwu0I-MjqPg?e=OF4nJz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:**
+Las respuestas de Patricia indica de que le gustaria más seguridad en el lugar donde renta, donde pueda recibir notificaciones en su celular cuando alguien entre en su casa, tambien le gustaria poder recibir rapidamente tramites, lo que mayormente le gustaria poder tener un lugar donde puede revisar sus estados de luz y agua. En resumen, le gustaria seguridad en su hogar y poder verlo todo en su celular porque eso le ahorraria tiempo
+
 **Segmento 2: Propietarios de viviendas**
 
 #### Entrevista 1:
