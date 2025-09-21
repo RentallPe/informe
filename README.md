@@ -1194,7 +1194,12 @@ https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1
 
 link:
 
+https://miro.com/app/board/uXjVJHSrDkA=/?share_link_id=656042657802
+
+
 https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJRQVNRUFkyTXlXL1ZNZzNCNWtoV2FXRDl3WnFHV2Z2eUYrZCttWEJXZ0VqdThTQ05qTUcvZThsQTVOL0EwQlJwbEN0Y3NrQWV0WUZFVjBpZ1hGeHZnNjlhMjZ0cFh0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=994320381504
+
+
 
 #### 4.6.2. Software Architecture Context Diagram
 
