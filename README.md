@@ -1000,13 +1000,61 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 
 #### 4.4.1. Web Applications Wireframes
 
+A continuación, se muestra y explica los Wireframes de nuestra aplicación Web. Se mencionarán puntos como la aplicación de principios de diseño, elementos de diseño, diseño Inclusivo y arquitectura de Información. Podemos notar elementos como el space para separar las imágenes y los textos, los shapes para encerrar o enmarcar grupos de texto, íconos y/o Imágenes. Además, la Información que se le solicita al usuario, al momento de crear una cuenta, registrarse o Ingresar a la aplicación, es clara y concisa.
+
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+- Iniciar sesion: Como usuario, quiero iniciar sesion
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200623710179358/Lluvia_de_ideas_en_equipo.png?ex=68d0e514&is=68cf9394&hm=809f601ac69cdcc75c254c54b63a0193df8b72288084f4252ae289beb2d96508&=&format=webp&quality=lossless&width=470&height=978)
+- Visualizacion de perfil, como un cliente, quiero visualizar mi perfil y poder editarlo
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200639619301406/Lluvia_de_ideas_en_equipo_-_Pagina_1_1.png?ex=68d0e517&is=68cf9397&hm=19779e93cba9cfc961d243f8830eec7d1781a2302652d5ab4ba27a17f470bc0e&=&format=webp&quality=lossless&width=871&height=978)
+- Alertas de la aplicación, como cliente, quiero tener notificaciones de los productos que tengo a la par de como va el estado de remodelación
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419208266847883294/Lluvia_de_ideas_en_equipo_-_Pagina_1_7.png?ex=68d0ec32&is=68cf9ab2&hm=aab98c8c6ce24532943e5b048cd218b1387fb7e34a8c9f0694627f7ea42da114&=&format=webp&quality=lossless&width=205&height=976)
+- Revision de cuenta, como cliente quiero poder ver el estado de mi cuenta en cada casa y poder pagar en ello
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200647634358402/Lluvia_de_ideas_en_equipo_-_Pagina_1_2.png?ex=68d0e519&is=68cf9399&hm=9832b77036618b11c4d597bd4150ef2c8947740821194ac371a38969e1a98dc7&=&format=webp&quality=lossless&width=656&height=978)
+- Consumo de enegia y agua, como cliente, quiero poder ver como va el consumo de mi casa a la par de poder dar un presupuesto
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200668547158146/Lluvia_de_ideas_en_equipo_-_Pagina_1_6.png?ex=68d0e51e&is=68cf939e&hm=ec4bba601c471d75de544f7555227b28a1a18b87611ab7a2894fd7dd71273190&=&format=webp&quality=lossless&width=556&height=977)
+- Propiedades, como usuario, quiero poder revisar mis propiedades y añadir nuevos
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200634036420740/Lluvia_de_ideas_en_equipo_-_Pagina_1.png?ex=68d0e516&is=68cf9396&hm=bbb03e3ca64b04735ce92200f8a6f08ad3afabceeefc3ea2d61140cd74f96367&=&format=webp&quality=lossless&width=876&height=978)
+- Soporte, como usuario, quiero poder crear una incidencia sobre un problema que estoy teniendo
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200653494059038/Lluvia_de_ideas_en_equipo_-_Pagina_1_3.png?ex=68d0e51b&is=68cf939b&hm=76f23f9e753e225cffd79af67205ad5def9227550c36b7d350615f2104f979e0&=&format=webp&quality=lossless&width=671&height=978)
+- Comprar nuevos objetos, como cliente quiero poder añadir mas objetos inteligentes en mi casa
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200663002550342/Lluvia_de_ideas_en_equipo_-_Pagina_1_5.png?ex=68d0e51d&is=68cf939d&hm=6838fd50863b5e8f4458cc25c205e521927dfd866ef78b6115ebd473e5be9f7c&=&format=webp&quality=lossless&width=544&height=978)
 
+#### 4.4.2. Web Applications Mock-ups.
 
+Los Mockups que se mostrará en esta sección corresponden a como se veria en una web application, en las imagenes, se van a poder observar los elementos anteriormentes mencionados, es decir, la tipografia, imagenes, spacind, paleta de colores y entre otros
 
-#### 4.4.2. Web Applications Mock-ups
+- Inicio de la Aplicación: Menú principal al momento de abrir la pagina
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419200773262413844/image.png?ex=68d0e537&is=68cf93b7&hm=85731c9efdfca74dcdda69c26c254a5ff12bc2918c986f770c3cbcce508d639a&=&format=webp&quality=lossless)
+- Creacion de cuenta: Usuario crea su cuenta
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201011070931065/image.png?ex=68d0e570&is=68cf93f0&hm=83ac0b37eb7b362e1545b186053c46790c643011ced4b7630d191a464e8b134f&=&format=webp&quality=lossless)
+- Dashboard: pagina principal
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201150569287721/image.png?ex=68d0e591&is=68cf9411&hm=40c8ca18674fef40acf1da4115aec41309fc8539a756bee33e89a3879e2a1048&=&format=webp&quality=lossless)
+- Alertas: Alertas de la aplicación
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201437510013050/image.png?ex=68d0e5d6&is=68cf9456&hm=de471c8c08acb05e976baebeb7cd0aecf669ec09e94ec7ee07efa651fa9b106b&=&format=webp&quality=lossless)
+- Mis propiedades: Las propiedades del usuario
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201513082978404/image.png?ex=68d0e5e8&is=68cf9468&hm=2c8d994a13f4550a5ada4154d9608d43b6521d8a027de4b239fb698dee6aaac5&=&format=webp&quality=lossless)
+- Mi perfil: El perfil del usuario
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201587548655730/image.png?ex=68d0e5f9&is=68cf9479&hm=1229ac132b7b924b0592e7959e6411d9e64bd13529c4ede283869abe32b18113&=&format=webp&quality=lossless)
+- Consumo: consumo del usuario
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201650744365169/image.png?ex=68d0e609&is=68cf9489&hm=516dd64eeab738538a2e69416600bd1f4ce4455e0b356482ae2df8d136a92a84&=&format=webp&quality=lossless)
+- Cuenta: La cuenta del usuario
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201693941366804/image.png?ex=68d0e613&is=68cf9493&hm=ccc3097ab0ef3ddb2de00f878c9b50eec0ba66b64be520a005be55fb008ac1e5&=&format=webp&quality=lossless)
+- Soporte: El soporte donde se puede crear una incidencia
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201801114091540/image.png?ex=68d0e62c&is=68cf94ac&hm=9728f64a7f2e233023585b8dc87eb8b425efc42586973d8d6bdd188eb345bc46&=&format=webp&quality=lossless)
+- Nuevo proyecto: Usuario quiere adquirr mas camaras o mas productos 
+![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201857615560745/image.png?ex=68d0e63a&is=68cf94ba&hm=cce75fe084cd336ff5176009482e1836c7fec025b02d01a2156a50838bb0f5f1&=&format=webp&quality=lossless)
+  
 
 
 #### 4.4.3. Web Applications User Flow Diagrams
@@ -1015,7 +1063,8 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 
 ### 4.5. Web Applications Prototyping
 
-
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419210193404825652/image.png?ex=68d0edfd&is=68cf9c7d&hm=7fcfe37e796756dbe37d64185e436aea9ae84b1a44a8911b85f543b30b9d029f&=&format=webp&quality=lossless&width=1399&height=874)
+https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1&t=CoYNhh9eglWbUtK6-1
 
 ### 4.6. Domain-Driven Software Architecture
 
