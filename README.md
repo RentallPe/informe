@@ -1065,6 +1065,25 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
+- Iniciar sesion: Como usuario, quiero iniciar sesion
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217639552847923/Lluvia_de_ideas_en_equipo_-_Pagina_1_8.png?ex=68d0f4ed&is=68cfa36d&hm=ce5e2b0778a28f65a3c6d7e19b8c5dceab76597f8173b25deb3222480046021f&=&format=webp&quality=lossless&width=1872&height=383)
+- Visualizacion de perfil, como un cliente, quiero visualizar mi perfil y poder editarlo
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217656376197210/Lluvia_de_ideas_en_equipo_-_Pagina_1_9.png?ex=68d0f4f1&is=68cfa371&hm=3fd703c9f6a91551ba363b3267d9d39436523e0502ec479f9888d4d67d28ba7e&=&format=webp&quality=lossless&width=1872&height=379)
+- Alertas de la aplicación, como cliente, quiero tener notificaciones de los productos que tengo a la par de como va el estado de remodelación
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419218739760730152/Lluvia_de_ideas_en_equipo_-_Pagina_1_13.png?ex=68d0f5f3&is=68cfa473&hm=a6388ff1a9e7a0eaea8b38a49153e33221a17e0b23d10191f0d78a57e5abb8c0&=&format=webp&quality=lossless&width=1872&height=610)
+
+- Consumo de enegia y agua, como cliente, quiero poder ver como va el consumo de mi casa a la par de poder dar un presupuesto
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217667012821022/Lluvia_de_ideas_en_equipo_-_Pagina_1_10.png?ex=68d0f4f3&is=68cfa373&hm=4d7b1885526911260a5e056c81048686bc43358d4cae59c4b5ef0051507c3ab4&=&format=webp&quality=lossless&width=1872&height=665)
+- Propiedades, como usuario, quiero poder revisar mis propiedades y añadir nuevos
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217680484794438/Lluvia_de_ideas_en_equipo_-_Pagina_1_12.png?ex=68d0f4f6&is=68cfa376&hm=4d3fdeb9c91258c0193b2e3042f6ef2297774526c0bb576b7bac4df54f2b0286&=&format=webp&quality=lossless&width=1872&height=810)
+- Soporte, como usuario, quiero poder crear una incidencia sobre un problema que estoy teniendo
+  
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217672008241182/Lluvia_de_ideas_en_equipo_-_Pagina_1_11.png?ex=68d0f4f4&is=68cfa374&hm=09a6fe69310acc9934a249a8d3b5ffa45550949d4298f4b695ed2bf91b139804&=&format=webp&quality=lossless&width=1872&height=290)
 
 
 ### 4.5. Web Applications Prototyping
