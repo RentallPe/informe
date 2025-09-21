@@ -985,13 +985,16 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 
 #### 4.4.1. Web Applications Wireframes
 
+A continuación, se muestra y explica los Wireframes de nuestra aplicación Web. Se mencionarán puntos como la aplicación de principios de diseño, elementos de diseño, diseño Inclusivo y arquitectura de Información. Podemos notar elementos como el space para separar las imágenes y los textos, los shapes para encerrar o enmarcar grupos de texto, íconos y/o Imágenes. Además, la Información que se le solicita al usuario, al momento de crear una cuenta, registrarse o Ingresar a la aplicación, es clara y concisa.
+
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+Los Mockups que se mostrará en esta sección corresponden a como se veria en una web application, en las imagenes, se van a poder observar los elementos anteriormentes mencionados, es decir, la tipografia, imagenes, spacind, paleta de colores y entre otros
 
-
-
-#### 4.4.2. Web Applications Mock-ups
+- Inicio de la Aplicación: Menú principal al momento de abrir la pagina
+![Image]()
+- 
 
 
 #### 4.4.3. Web Applications User Flow Diagrams
