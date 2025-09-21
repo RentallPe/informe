@@ -206,6 +206,9 @@ En la fase previa al comienzo de la obra, al diseñar el proyecto. También se c
 
 La ausencia de planificación, la improvisación y la falta de conocimiento en cuanto a permisos y normativa legal pueden resultar en obras de ejecución deficiente, costes ocultos (10-15 % de imprevistos no contemplados) y riesgos legales o de seguridad. La integración de la tecnología de IoT (Internet de las Cosas) tiene el potencial de incrementar el valor de la propiedad en un 15 %, al tiempo que optimiza la eficiencia energética.
 
+##### **where**
+Principalmente en Lima Metropolitana y las capitales regionales de mayor dinamismo comercial (Miraflores, San Isidro, Surco, Arequipa, Trujillo, Piura, entre otras), donde abundan restaurantes, tiendas, oficinas y viviendas destinadas a reventa o alquiler. Son zonas con alta rotación de locales, presiones de valorización inmobiliaria y normativas municipales estrictas; el mercado de remodelaciones es activo pero carece de servicios integrales que combinen planificación, gestión de obra y monitoreo IoT.
+
 ##### **How**
 
 En la actualidad, el proceso de remodelación se lleva a cabo de manera manual e improvisada. Generalmente, se inicia sin un plan claro o diseño inicial, se contrata mano de obra informal o profesionales sin experiencia específica y se deja la integración de IoT al azar. El cliente adquiere dispositivos dispersos sin conocimiento sobre cómo instalarlos o conectarlos entre sí, lo que resulta en obras desordenadas, múltiples cambios de alcance durante la ejecución y frecuentes cuellos de botella técnicos.
