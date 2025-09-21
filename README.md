@@ -1374,6 +1374,11 @@ GO
 
 ### 5.1. Software Configuration Management
 
+
+En este apartado se establecen los lineamientos y procedimientos adoptados durante el desarrollo y publicación del sitio web de RentallPe, con el propósito de asegurar la coherencia y estabilidad del software desde sus primeras etapas hasta su implementación y posterior mantenimiento.
+
+
+
 ### 5.1.1. Software Development Environment Configuration
 
 <strong>Requirements Management</strong> 
