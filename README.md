@@ -1015,6 +1015,8 @@ A continuación, se muestra y explica los Wireframes de nuestra aplicación Web.
   
 ![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200663002550342/Lluvia_de_ideas_en_equipo_-_Pagina_1_5.png?ex=68d0e51d&is=68cf939d&hm=6838fd50863b5e8f4458cc25c205e521927dfd866ef78b6115ebd473e5be9f7c&=&format=webp&quality=lossless&width=544&height=978)
 
+#### 4.4.2. Web Applications Mock-ups.
+
 Los Mockups que se mostrará en esta sección corresponden a como se veria en una web application, en las imagenes, se van a poder observar los elementos anteriormentes mencionados, es decir, la tipografia, imagenes, spacind, paleta de colores y entre otros
 
 - Inicio de la Aplicación: Menú principal al momento de abrir la pagina
@@ -1042,7 +1044,7 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
-
+https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1&t=CoYNhh9eglWbUtK6-1
 
 ### 4.5. Web Applications Prototyping
 
