@@ -18,7 +18,7 @@
 | --------------------------------- | ---------- |
 | Saravia Huaricancha, Arturo Axel  | U202312447 |
 | Cumba Rengifo, Leonardo Raúl      | U202311912 |
-| Palomares Andrade, Sean Farith    | —          |
+| Palomares Andrade, Sean Farith    | U202121947 |
 | Pérez Tuesta, Gabriel             | U202321281 |
 | Torrejón Navarro, Braulio Rodrigo | U201711828 |
 
