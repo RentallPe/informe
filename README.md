@@ -1998,7 +1998,7 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes del equipo en la construcción del frontend estático de la Landing Page.
 
 <p align="center">
-  <img src="./Imagenes/Development Evidence for Sprint Review.png" alt="Development Evidence for Sprint Review.png""/>
+  <img src="./Imagenes/final2.png" alt="Development Evidence for Sprint Review.png""/>
 </p>
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
