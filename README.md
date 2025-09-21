@@ -160,9 +160,9 @@ A continuación, estadísticas de participación:
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |-----------------|--------------------|---------------------|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |---------------|     El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Esto incluyó la realización de entrevistas, la elaboración de Statements y Hypothesis Statements como parte del proceso Lean UX, la creación de User Personas y el mapeo de la experiencia del usuario. Además, se realizó un análisis competitivo, se desarrollaron User Stories y se establecieron estrategias frente a competidores. Se utilizaron herramientas visuales como Lean UX Canvas y Style Guidelines, y se llevaron a cabo actividades como Empathy Mapping para comprender las necesidades de los usuarios. Todo esto se complementó con la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. |
-|Trabaja en equipo para proporcionar liderazgo en forma conjunta|--------------------|    El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva.  |
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |-------------------- | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. 
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |TB1: Arturo Saravia: Ayudé  en la relización de la landing page y del documento|     El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Esto incluyó la realización de entrevistas, la elaboración de Statements y Hypothesis Statements como parte del proceso Lean UX, la creación de User Personas y el mapeo de la experiencia del usuario. Además, se realizó un análisis competitivo, se desarrollaron User Stories y se establecieron estrategias frente a competidores. Se utilizaron herramientas visuales como Lean UX Canvas y Style Guidelines, y se llevaron a cabo actividades como Empathy Mapping para comprender las necesidades de los usuarios. Todo esto se complementó con la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. |
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta|TB1: Arturo Saravia: proporcioné materiales y apoyo en la realización del documento|    El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva.  |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |TB1: Arturo Saravia: adjunté notas y compraré resultados  con cada revisión  | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. 
 
 
 
@@ -565,14 +565,58 @@ Las respuestas de Jhon muestran que su mayor frustración está en la falta de o
 
 #### Entrevista 2:
 
+**Nombre y Apellido:** Ivan Antonio Almeida Aguilar
+
+**Edad:** 20 años
+
+**Distrito:** San Miguel
+
+**Screenshot de la Entrevista:**
+<img width="1162" height="868" alt="Screenshot 2025-09-20 130652" src="./Imagenes/Entrevista luan.png" />
 
 
 
+**Timelapse:** [Inicio: 00:00, Fin: 20:00]
+**Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312447_upc_edu_pe/ETO9TVQM9H5ImqV2ll_rb8sBTUedwKmZv24KgIixZRvHMA?e=yf7fKD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+
+**Resumen de la Entrevista:**
+El entrevistado, Luan Almeida (20 años), administra un Airbnb desde hace medio año. Señaló que actualmente enfrentan baja demanda y que sus remodelaciones fueron hechas de forma improvisada, con problemas en instalaciones y acabados. Explicó que el manejo de presupuestos resulta complejo por imprevistos frecuentes, y que los pagos a contratistas son informales, sin comprobantes ni registro.
+
+Resaltó la importancia de las imágenes para atraer clientes, aunque también enfrentan dificultades para fijar precios adecuados. Entre los principales problemas mencionó los retrasos por cambios de último momento y la falta de compromiso de trabajadores. Finalmente, destacó la necesidad de herramientas digitales que integren control de consumos, pagos centralizados y un catálogo de materiales y servicios que simplifique la gestión de remodelaciones.
 
 
 
 
 **2.2.3. Análisis de entrevistas**
+#### Propietarios de Locales
+
+En las entrevistas de este segmento, los propietarios recalcan que sus principales problemas están relacionados con la falta de control y visibilidad en la operación diaria de los espacios. Señalan incidencias constantes como ruidos, problemas de seguridad y servicios que se atienden tarde. También manifiestan la necesidad de contar con procesos rápidos, simples y trazables, donde puedan obtener comprobantes al instante y llevar un registro ordenado. Una solución digital como RentallPE sería de gran ayuda siempre que permita:
+
+Panel en tiempo real con alertas de seguridad y consumo.
+
+Bitácora de incidencias con responsables y tiempos de resolución (SLA).
+
+Estandarización de cotizaciones.
+
+Centralización de pagos y facturación.
+
+Visibilidad clara del estado de los espacios.
+
+#### Propietarios de Viviendas
+
+En este segmento, los entrevistados coinciden en que los mayores dolores se encuentran en la desorganización de las remodelaciones, con presupuestos poco claros, sobrecostos por imprevistos y retrasos por cambios de último minuto o falta de compromiso de los trabajadores. También resaltan la importancia de las fotos para atraer clientes y la dificultad de fijar precios adecuados. Además, los pagos suelen manejarse de manera informal, sin comprobantes ni registros claros, lo que complica la gestión.
+
+Las funcionalidades más valoradas para una solución digital serían:
+
+Centralización de pagos y emisión de comprobantes.
+
+Control en tiempo real de avances y consumos (apoyado en IoT).
+
+Catálogo de materiales y “combos” predefinidos para simplificar decisiones.
+
+Gestión más formal de contratistas y remodelaciones.
+
+Organización clara de presupuestos y cronogramas.
 
 ## **2.3. Needfinding**
 
