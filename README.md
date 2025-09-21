@@ -1095,378 +1095,400 @@ https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJR
 
 ### 4.8. Database Design
 
+```sql
 CREATE DATABASE WorkSpaces;
 GO
 USE WorkSpaces;
 GO
+```
 
+### Tabla: `dispositivo_iot`
 
-**Tabla: dispositivo_iot**
+```sql
+CREATE TABLE dispositivo_iot (
+    id_dispositivo INT NOT NULL,
+    id_proyecto    INT NOT NULL,
+    tipo           VARCHAR(60)  NOT NULL,
+    estado         VARCHAR(20)  NOT NULL,
+    instalado_en   DATETIME     NULL,
+    PRIMARY KEY CLUSTERED (id_dispositivo ASC)
+);
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[dispositivo_iot](
-  [id_dispositivo] [int] NOT NULL,
-  [id_proyecto]   [int] NOT NULL,
-   NOT NULL,
-   NOT NULL,
-  [instalado_en]  [datetime] NULL,
-  PRIMARY KEY CLUSTERED ([id_dispositivo] ASC)
-) ON [PRIMARY]
-GO
+```
 
-**Tabla: documento**
+---
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[documento](
-  [id_documento] [int] NOT NULL,
-  [id_proyecto]  [int] NOT NULL,
-   NOT NULL,
-   NOT NULL,
-  [creado_en]    [datetime] NOT NULL,
-  PRIMARY KEY CLUSTERED ([id_documento] ASC)
-) ON [PRIMARY]
-GO
+### Tabla: `documento`
 
-**Tabla: factura**
+```sql
+CREATE TABLE documento (
+    id_documento INT          NOT NULL,
+    id_proyecto  INT          NOT NULL,
+    tipo         VARCHAR(60)  NOT NULL,
+    ruta_archivo VARCHAR(300) NOT NULL,
+    creado_en    DATETIME     NOT NULL,
+    PRIMARY KEY CLUSTERED (id_documento ASC)
+);
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[factura](
-  [id_factura]    [int] NOT NULL,
-  [id_pago]       [int] NOT NULL,
-   NOT NULL,
-  [fecha_emision] [date] NOT NULL,
-  [creada_en]     [datetime] NOT NULL,
-  PRIMARY KEY CLUSTERED ([id_factura] ASC)
-) ON [PRIMARY]
-GO
+```
 
+---
 
-**Tabla: incidencia**
+### Tabla: `factura`
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[incidencia](
-  [id_incidencia]  [int] NOT NULL,
-  [id_proyecto]    [int] NOT NULL,
-   NOT NULL,
-   NOT NULL,
-  [creada_en]      [datetime] NOT NULL,
-  [actualizada_en] [datetime] NULL,
-  PRIMARY KEY CLUSTERED ([id_incidencia] ASC)
-) ON [PRIMARY]
-GO
+```sql
+CREATE TABLE factura (
+    id_factura   INT         NOT NULL,
+    id_pago      INT         NOT NULL,
+    numero       VARCHAR(40) NOT NULL,
+    fecha_emision DATE       NOT NULL,
+    creada_en    DATETIME    NOT NULL,
+    PRIMARY KEY CLUSTERED (id_factura ASC)
+);
 
+```
 
-**Tabla: notificacion**
+---
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[notificacion](
-  [id_notificacion] [int] NOT NULL,
-  [id_usuario]      [int] NOT NULL,
-  [id_proyecto]     [int] NULL,
-   NOT NULL,
-  [creado_en]       [datetime] NOT NULL,
-  PRIMARY KEY CLUSTERED ([id_notificacion] ASC)
-) ON [PRIMARY]
-GO
+### Tabla: `incidencia`
 
+```sql
+CREATE TABLE incidencia (
+    id_incidencia  INT           NOT NULL,
+    id_proyecto    INT           NOT NULL,
+    descripcion    VARCHAR(600)  NOT NULL,
+    estado         VARCHAR(20)   NOT NULL,
+    creada_en      DATETIME      NOT NULL,
+    actualizada_en DATETIME      NULL,
+    PRIMARY KEY CLUSTERED (id_incidencia ASC)
+);
 
-**Tabla: pago**
+```
 
+---
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[pago](
-  [id_pago]    [int] NOT NULL,
-  [id_proyecto][int] NOT NULL,
-  [monto]      [decimal](14,2) NOT NULL,
-  [fecha]      [datetime] NOT NULL,
-   NOT NULL,
-  [creado_en]  [datetime] NOT NULL,
-  PRIMARY KEY CLUSTERED ([id_pago] ASC)
-) ON [PRIMARY]
-GO
+### Tabla: `notificacion`
 
+```sql
+CREATE TABLE notificacion (
+    id_notificacion INT          NOT NULL,
+    id_usuario      INT          NOT NULL,
+    id_proyecto     INT          NULL,
+    mensaje         VARCHAR(600) NOT NULL,
+    creado_en       DATETIME     NOT NULL,
+    PRIMARY KEY CLUSTERED (id_notificacion ASC)
+);
 
+```
 
-**Tabla: plan_remodelacion**
+---
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[plan_remodelacion](
-  [id_plan]        [int] NOT NULL,
-  [id_propiedad]   [int] NOT NULL,
-   NOT NULL,
-   NULL,
-  [fecha_inicio]   [datetime] NULL,
-  [fecha_fin]      [datetime] NULL,
-  [creado_en]      [datetime] NOT NULL,
-  CONSTRAINT [PK_plan_remodelacion] PRIMARY KEY CLUSTERED ([id_plan] ASC)
-) ON [PRIMARY]
-GO
+### Tabla: `pago`
 
+```sql
+CREATE TABLE pago (
+    id_pago     INT            NOT NULL,
+    id_proyecto INT            NOT NULL,
+    monto       DECIMAL(14,2)  NOT NULL,
+    fecha       DATETIME       NOT NULL,
+    estado      VARCHAR(20)    NOT NULL,
+    creado_en   DATETIME       NOT NULL,
+    PRIMARY KEY CLUSTERED (id_pago ASC)
+);
 
-**Tabla: presupuesto**
+```
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[presupuesto](
-  [id_presupuesto]     [int] NOT NULL,
-  [id_proyecto]        [int] NOT NULL,
-  [id_proveedor]       [int] NULL,
-  [monto]              [decimal](14,2) NOT NULL,
-  [tiempo_estimado_dias][int] NULL,
-  [creado_en]          [datetime] NOT NULL,
-  PRIMARY KEY CLUSTERED ([id_presupuesto] ASC)
-) ON [PRIMARY]
-GO
+---
 
+### Tabla: `plan_remodelacion`
 
-**Tabla: propiedad**
+```sql
+CREATE TABLE plan_remodelacion (
+    id_plan        INT            NOT NULL,
+    id_propiedad   INT            NOT NULL,
+    nombre_plan    VARCHAR(150)   NOT NULL,
+    resumen_alcance VARCHAR(1000) NULL,
+    fecha_inicio   DATETIME       NULL,
+    fecha_fin      DATETIME       NULL,
+    creado_en      DATETIME       NOT NULL,
+    PRIMARY KEY CLUSTERED (id_plan ASC)
+);
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[propiedad](
-  [id_propiedad]     [int] NOT NULL,
-  [id_propietario]   [int] NOT NULL,
-   NOT NULL,
-   NOT NULL,
-   NULL,
-   NULL,
-   NULL,
-  [area_m2]          [decimal](10,2) NULL,
-  [antiguedad_anios] [smallint] NULL,
-   NOT NULL,
-  [creado_en]        [datetime] NOT NULL,
-  CONSTRAINT [PK_propiedad] PRIMARY KEY CLUSTERED ([id_propiedad] ASC)
-) ON [PRIMARY]
-GO
+```
 
+---
 
-**Tabla: propietario**
+### Tabla: `presupuesto`
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[propietario](
-  [id_propietario]     [int] NOT NULL,
-   NOT NULL,
-   NOT NULL,
-   NULL,
-   NULL,
-   NULL,
-   NULL,
-   NULL,
-  [creado_en]          [datetime] NOT NULL,
-  CONSTRAINT [PK_propietario] PRIMARY KEY CLUSTERED ([id_propietario] ASC)
-) ON [PRIMARY]
-GO
+```sql
+CREATE TABLE presupuesto (
+    id_presupuesto INT NOT NULL,
+    id_proyecto INT NOT NULL,
+    id_proveedor INT NULL,
+    monto DECIMAL(14,2) NOT NULL,
+    tiempo_estimado_dias INT NULL,
+    creado_en DATETIME NOT NULL,
+    PRIMARY KEY CLUSTERED (id_presupuesto ASC)
+);
+```
 
+---
 
-**Tabla: proveedor**
+### Tabla: `propiedad`
 
+```sql
+CREATE TABLE propiedad (
+    id_propiedad      INT           NOT NULL,
+    id_propietario    INT           NOT NULL,
+    id_tipo_propietario CHAR(2)     NOT NULL,
+    direccion         VARCHAR(200)  NOT NULL,
+    ubigeo            CHAR(6)       NULL,
+    provincia         VARCHAR(80)   NULL,
+    region            VARCHAR(80)   NULL,
+    area_m2           DECIMAL(10,2) NULL,
+    antiguedad_anios  SMALLINT      NULL,
+    estado            VARCHAR(15)   NOT NULL,
+    creado_en         DATETIME      NOT NULL,
+    PRIMARY KEY CLUSTERED (id_propiedad ASC)
+);
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[proveedor](
-  [id_proveedor] [int] NOT NULL,
-   NOT NULL,
-   NULL,
-  PRIMARY KEY CLUSTERED ([id_proveedor] ASC)
-) ON [PRIMARY]
-GO
+```
 
+---
 
+### Tabla: `propietario`
 
-**Tabla: proyecto**
+```sql
+CREATE TABLE propietario (
+    id_propietario    INT           NOT NULL,
+    id_tipo_propietario CHAR(2)     NOT NULL,
+    razon_social      VARCHAR(150)  NOT NULL,
+    tipo_documento    VARCHAR(20)   NULL,
+    numero_documento  VARCHAR(30)   NULL,
+    telefono          VARCHAR(30)   NULL,
+    email             VARCHAR(120)  NULL,
+    direccion         VARCHAR(200)  NULL,
+    creado_en         DATETIME      NOT NULL,
+    PRIMARY KEY CLUSTERED (id_propietario ASC)
+);
 
+```
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[proyecto](
-  [id_proyecto]    [int] NOT NULL,
-  [id_propiedad]   [int] NOT NULL,
-  [id_usuario]     [int] NOT NULL,
-   NOT NULL,
-   NOT NULL,
-  [fecha_inicio]   [date] NULL,
-  [fecha_fin]      [date] NULL,
-  [fecha_creacion] [datetime] NOT NULL,
-  PRIMARY KEY CLUSTERED ([id_proyecto] ASC)
-) ON [PRIMARY]
-GO
+---
 
+### Tabla: `proveedor`
 
+```sql
+CREATE TABLE proveedor (
+    id_proveedor INT          NOT NULL,
+    nombre       VARCHAR(150) NOT NULL,
+    contacto     VARCHAR(120) NULL,
+    PRIMARY KEY CLUSTERED (id_proveedor ASC)
+);
 
-**Tabla: tarea**
+```
 
+---
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[tarea](
-  [id_tarea]     [int] IDENTITY(1,1) NOT NULL,
-  [id_proyecto]  [int] NOT NULL,
-   NOT NULL,
-   NULL,
-   NOT NULL,
-   NOT NULL,
-  PRIMARY KEY CLUSTERED ([id_tarea] ASC)
-) ON [PRIMARY]
-GO
+### Tabla: `proyecto`
 
+```sql
+CREATE TABLE proyecto (
+    id_proyecto   INT           NOT NULL,
+    id_propiedad  INT           NOT NULL,
+    id_usuario    INT           NOT NULL,
+    nombre        VARCHAR(150)  NOT NULL,
+    estado        VARCHAR(20)   NOT NULL,
+    fecha_inicio  DATE          NULL,
+    fecha_fin     DATE          NULL,
+    fecha_creacion DATETIME     NOT NULL,
+    PRIMARY KEY CLUSTERED (id_proyecto ASC)
+);
 
+```
 
+---
 
-**Tabla: tipo_propietario**
+### Tabla: `tarea`
 
+```sql
+CREATE TABLE tarea (
+    id_tarea       INT IDENTITY(1,1) NOT NULL,
+    id_proyecto    INT               NOT NULL,
+    nombre         VARCHAR(150)      NOT NULL,
+    descripcion    VARCHAR(600)      NULL,
+    estado         VARCHAR(20)       NOT NULL,
+    fecha_creacion DATETIME2(0)      NOT NULL,
+    PRIMARY KEY CLUSTERED (id_tarea ASC)
+);
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[tipo_propietario](
-   NOT NULL,
-   NOT NULL,
-  [creado_en]               [datetime] NOT NULL,
-  CONSTRAINT [PK_tipo_propietario] PRIMARY KEY CLUSTERED ([id_tipo_propietario] ASC)
-) ON [PRIMARY]
-GO
+```
 
+---
 
+### Tabla: `tipo_propietario`
 
-**Tabla: usuario**
+```sql
+CREATE TABLE tipo_propietario (
+    id_tipo_propietario CHAR(2)     NOT NULL,
+    nombre_tipo_propietario VARCHAR(50) NOT NULL,
+    creado_en            DATETIME   NOT NULL,
+    PRIMARY KEY CLUSTERED (id_tipo_propietario ASC)
+);
 
+```
 
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[usuario](
-  [id_usuario]     [int] NOT NULL,
-   NOT NULL,
-   NOT NULL,
-   NULL,
-  [fecha_creacion] [datetime] NOT NULL,
-  PRIMARY KEY CLUSTERED ([id_usuario] ASC)
-) ON [PRIMARY]
-GO
+---
+
+### Tabla: `usuario`
+
+```sql
+CREATE TABLE usuario (
+    id_usuario     INT           NOT NULL,
+    nombre_completo VARCHAR(120) NOT NULL,
+    correo         VARCHAR(256) NOT NULL,
+    telefono       VARCHAR(40)  NULL,
+    fecha_creacion DATETIME      NOT NULL,
+    PRIMARY KEY CLUSTERED (id_usuario ASC)
+);
+
+```
+
 
 
 **Defaults y Relaciones**
 
 
 
-ALTER TABLE [dbo].[plan_remodelacion]
-  ADD CONSTRAINT [DF_plan_remodelacion__creado_en] DEFAULT (sysutcdatetime()) FOR [creado_en];
-GO
+```sql
 
-ALTER TABLE [dbo].[tarea] ADD DEFAULT (sysutcdatetime()) FOR [fecha_creacion];
-GO
+ALTER TABLE plan_remodelacion
+  ADD CONSTRAINT DF_plan_remodelacion__creado_en
+  DEFAULT (SYSUTCDATETIME()) FOR creado_en;
 
-ALTER TABLE [dbo].[dispositivo_iot] WITH CHECK ADD FOREIGN KEY([id_proyecto])
-  REFERENCES [dbo].[proyecto]([id_proyecto]);
-GO
 
-ALTER TABLE [dbo].[documento] WITH CHECK ADD FOREIGN KEY([id_proyecto])
-  REFERENCES [dbo].[proyecto]([id_proyecto]);
-GO
+ALTER TABLE tarea
+  ADD DEFAULT (SYSUTCDATETIME()) FOR fecha_creacion;
+```
+---
 
-ALTER TABLE [dbo].[factura] WITH CHECK ADD FOREIGN KEY([id_pago])
-  REFERENCES [dbo].[pago]([id_pago]);
-GO
+## Claves foráneas
 
-ALTER TABLE [dbo].[incidencia] WITH CHECK ADD FOREIGN KEY([id_proyecto])
-  REFERENCES [dbo].[proyecto]([id_proyecto]);
-GO
+### Tabla `dispositivo_iot`
+```sql
+ALTER TABLE dispositivo_iot
+  ADD FOREIGN KEY (id_proyecto)
+  REFERENCES proyecto (id_proyecto);
+```
 
-ALTER TABLE [dbo].[notificacion] WITH CHECK ADD FOREIGN KEY([id_proyecto])
-  REFERENCES [dbo].[proyecto]([id_proyecto]);
-GO
+### Tabla `documento`
+```sql
+ALTER TABLE documento
+  ADD FOREIGN KEY (id_proyecto)
+  REFERENCES proyecto (id_proyecto);
+```
 
-ALTER TABLE [dbo].[notificacion] WITH CHECK ADD FOREIGN KEY([id_usuario])
-  REFERENCES [dbo].[usuario]([id_usuario]);
-GO
+### Tabla `factura`
+```sql
+ALTER TABLE factura
+  ADD FOREIGN KEY (id_pago)
+  REFERENCES pago (id_pago);
+```
 
-ALTER TABLE [dbo].[pago] WITH CHECK ADD FOREIGN KEY([id_proyecto])
-  REFERENCES [dbo].[proyecto]([id_proyecto]);
-GO
+### Tabla `incidencia`
+```sql
+ALTER TABLE incidencia
+  ADD FOREIGN KEY (id_proyecto)
+  REFERENCES proyecto (id_proyecto);
+```
 
-ALTER TABLE [dbo].[plan_remodelacion] WITH CHECK ADD
-  CONSTRAINT [FK_plan_remodelacion__propiedad] FOREIGN KEY([id_propiedad])
-  REFERENCES [dbo].[propiedad]([id_propiedad]);
-GO
-ALTER TABLE [dbo].[plan_remodelacion] CHECK CONSTRAINT [FK_plan_remodelacion__propiedad];
-GO
+### Tabla `notificacion`
+```sql
+ALTER TABLE notificacion
+  ADD FOREIGN KEY (id_proyecto)
+  REFERENCES proyecto (id_proyecto);
 
-ALTER TABLE [dbo].[presupuesto] WITH CHECK ADD FOREIGN KEY([id_proyecto])
-  REFERENCES [dbo].[proyecto]([id_proyecto]);
-GO
+ALTER TABLE notificacion
+  ADD FOREIGN KEY (id_usuario)
+  REFERENCES usuario (id_usuario);
+```
 
-ALTER TABLE [dbo].[presupuesto] WITH CHECK ADD FOREIGN KEY([id_proveedor])
-  REFERENCES [dbo].[proveedor]([id_proveedor]);
-GO
+### Tabla `pago`
+```sql
+ALTER TABLE pago
+  ADD FOREIGN KEY (id_proyecto)
+  REFERENCES proyecto (id_proyecto);
+```
 
-ALTER TABLE [dbo].[propiedad] WITH CHECK ADD
-  CONSTRAINT [FK_propiedad_propietario] FOREIGN KEY([id_propietario])
-  REFERENCES [dbo].[propietario]([id_propietario]);
-GO
-ALTER TABLE [dbo].[propiedad] CHECK CONSTRAINT [FK_propiedad_propietario];
-GO
+### Tabla `plan_remodelacion`
+```sql
+ALTER TABLE plan_remodelacion
+  ADD CONSTRAINT FK_plan_remodelacion__propiedad
+  FOREIGN KEY (id_propiedad)
+  REFERENCES propiedad (id_propiedad);
 
-ALTER TABLE [dbo].[propiedad] WITH CHECK ADD
-  CONSTRAINT [FK_propiedad_tipo_propietario] FOREIGN KEY([id_tipo_propietario])
-  REFERENCES [dbo].[tipo_propietario]([id_tipo_propietario]);
-GO
-ALTER TABLE [dbo].[propiedad] CHECK CONSTRAINT [FK_propiedad_tipo_propietario];
-GO
+ALTER TABLE plan_remodelacion
+  CHECK CONSTRAINT FK_plan_remodelacion__propiedad;
+```
 
-ALTER TABLE [dbo].[propietario] WITH CHECK ADD
-  CONSTRAINT [FK_propietario_tipo_propietario] FOREIGN KEY([id_tipo_propietario])
-  REFERENCES [dbo].[tipo_propietario]([id_tipo_propietario]);
-GO
-ALTER TABLE [dbo].[propietario] CHECK CONSTRAINT [FK_propietario_tipo_propietario];
-GO
+### Tabla `presupuesto`
+```sql
+ALTER TABLE presupuesto
+  ADD FOREIGN KEY (id_proyecto)
+  REFERENCES proyecto (id_proyecto);
 
-ALTER TABLE [dbo].[proyecto] WITH CHECK ADD FOREIGN KEY([id_propiedad])
-  REFERENCES [dbo].[propiedad]([id_propiedad]);
-GO
+ALTER TABLE presupuesto
+  ADD FOREIGN KEY (id_proveedor)
+  REFERENCES proveedor (id_proveedor);
+```
 
-ALTER TABLE [dbo].[proyecto] WITH CHECK ADD FOREIGN KEY([id_usuario])
-  REFERENCES [dbo].[usuario]([id_usuario]);
-GO
+### Tabla `propiedad`
+```sql
+ALTER TABLE propiedad
+  ADD CONSTRAINT FK_propiedad_propietario
+  FOREIGN KEY (id_propietario)
+  REFERENCES propietario (id_propietario);
 
-ALTER TABLE [dbo].[tarea] WITH CHECK ADD FOREIGN KEY([id_proyecto])
-  REFERENCES [dbo].[proyecto]([id_proyecto]);
-GO
+ALTER TABLE propiedad
+  CHECK CONSTRAINT FK_propiedad_propietario;
+
+ALTER TABLE propiedad
+  ADD CONSTRAINT FK_propiedad_tipo_propietario
+  FOREIGN KEY (id_tipo_propietario)
+  REFERENCES tipo_propietario (id_tipo_propietario);
+
+ALTER TABLE propiedad
+  CHECK CONSTRAINT FK_propiedad_tipo_propietario;
+```
+
+### Tabla `propietario`
+```sql
+ALTER TABLE propietario
+  ADD CONSTRAINT FK_propietario_tipo_propietario
+  FOREIGN KEY (id_tipo_propietario)
+  REFERENCES tipo_propietario (id_tipo_propietario);
+
+ALTER TABLE propietario
+  CHECK CONSTRAINT FK_propietario_tipo_propietario;
+```
+
+### Tabla `proyecto`
+```sql
+ALTER TABLE proyecto
+  ADD FOREIGN KEY (id_propiedad)
+  REFERENCES propiedad (id_propiedad);
+
+ALTER TABLE proyecto
+  ADD FOREIGN KEY (id_usuario)
+  REFERENCES usuario (id_usuario);
+```
+
+### Tabla `tarea`
+```sql
+ALTER TABLE tarea
+  ADD FOREIGN KEY (id_proyecto)
+  REFERENCES proyecto (id_proyecto);
+```
 
 
 
