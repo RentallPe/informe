@@ -174,7 +174,7 @@ A continuación, estadísticas de participación:
 
 ### 1.1.1. Descripción de la Startup
 
-DevDream es una startup dedicada al desarrollo de software, enfocada en encontrar soluciones innovadoras para los desafíos de remodelación y monitoreo de espacios comerciales mediante integración de IoT. Nos especializamos en diseñar productos a medida, trabajando codo a codo con nuestros clientes para entender sus necesidades y traducirlas en sistemas eficientes, escalables y de alto impacto.
+RentalPE es una startup dedicada al desarrollo de software, enfocada en encontrar soluciones innovadoras para los desafíos de remodelación y monitoreo de espacios comerciales mediante integración de IoT. Nos especializamos en diseñar productos a medida, trabajando codo a codo con nuestros clientes para entender sus necesidades y traducirlas en sistemas eficientes, escalables y de alto impacto.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
