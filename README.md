@@ -990,6 +990,23 @@ A continuación, se muestra y explica los Wireframes de nuestra aplicación Web.
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+- Iniciar sesion: Como usuario, quiero iniciar sesion
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200623710179358/Lluvia_de_ideas_en_equipo.png?ex=68d0e514&is=68cf9394&hm=809f601ac69cdcc75c254c54b63a0193df8b72288084f4252ae289beb2d96508&=&format=webp&quality=lossless&width=470&height=978)
+- Visualizacion de perfil, como un cliente, quiero visualizar mi perfil y poder editarlo
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200639619301406/Lluvia_de_ideas_en_equipo_-_Pagina_1_1.png?ex=68d0e517&is=68cf9397&hm=19779e93cba9cfc961d243f8830eec7d1781a2302652d5ab4ba27a17f470bc0e&=&format=webp&quality=lossless&width=871&height=978)
+- Alertas de la aplicación, como cliente, quiero tener notificaciones de los productos que tengo a la par de como va el estado de remodelación
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419208266847883294/Lluvia_de_ideas_en_equipo_-_Pagina_1_7.png?ex=68d0ec32&is=68cf9ab2&hm=aab98c8c6ce24532943e5b048cd218b1387fb7e34a8c9f0694627f7ea42da114&=&format=webp&quality=lossless&width=205&height=976)
+- Revision de cuenta, como cliente quiero poder ver el estado de mi cuenta en cada casa y poder pagar en ello
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200647634358402/Lluvia_de_ideas_en_equipo_-_Pagina_1_2.png?ex=68d0e519&is=68cf9399&hm=9832b77036618b11c4d597bd4150ef2c8947740821194ac371a38969e1a98dc7&=&format=webp&quality=lossless&width=656&height=978)
+- Consumo de enegia y agua, como cliente, quiero poder ver como va el consumo de mi casa a la par de poder dar un presupuesto
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200668547158146/Lluvia_de_ideas_en_equipo_-_Pagina_1_6.png?ex=68d0e51e&is=68cf939e&hm=ec4bba601c471d75de544f7555227b28a1a18b87611ab7a2894fd7dd71273190&=&format=webp&quality=lossless&width=556&height=977)
+- Propiedades, como usuario, quiero poder revisar mis propiedades y añadir nuevos
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200634036420740/Lluvia_de_ideas_en_equipo_-_Pagina_1.png?ex=68d0e516&is=68cf9396&hm=bbb03e3ca64b04735ce92200f8a6f08ad3afabceeefc3ea2d61140cd74f96367&=&format=webp&quality=lossless&width=876&height=978)
+- Soporte, como usuario, quiero poder crear una incidencia sobre un problema que estoy teniendo
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200653494059038/Lluvia_de_ideas_en_equipo_-_Pagina_1_3.png?ex=68d0e51b&is=68cf939b&hm=76f23f9e753e225cffd79af67205ad5def9227550c36b7d350615f2104f979e0&=&format=webp&quality=lossless&width=671&height=978)
+- Comprar nuevos objetos, como cliente quiero poder añadir mas objetos inteligentes en mi casa
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200663002550342/Lluvia_de_ideas_en_equipo_-_Pagina_1_5.png?ex=68d0e51d&is=68cf939d&hm=6838fd50863b5e8f4458cc25c205e521927dfd866ef78b6115ebd473e5be9f7c&=&format=webp&quality=lossless&width=544&height=978)
+
 Los Mockups que se mostrará en esta sección corresponden a como se veria en una web application, en las imagenes, se van a poder observar los elementos anteriormentes mencionados, es decir, la tipografia, imagenes, spacind, paleta de colores y entre otros
 
 - Inicio de la Aplicación: Menú principal al momento de abrir la pagina
