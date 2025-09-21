@@ -593,9 +593,47 @@ Para esta sección hemos tomado en cuenta dos User Persona que corresponden a lo
 
 ### 2.3.2. User Task Matrix
 
+## Segmento 1: Propietario de Local
+
+| **Tareas** | **Importancia** | **Frecuencia** |
+|-----------|----------------|---------------|
+| Cobrar el alquiler de los inquilinos | Alta | Mensual |
+| Verificar el estado del local (mantenimiento y limpieza) | Alta | Mensual |
+| Gestionar contratos de arrendamiento | Alta | Al inicio y renovación del contrato |
+| Solucionar problemas reportados por los inquilinos (fugas, daños) | Alta | Ocasional / Urgente |
+| Evaluar el mercado para ajustar precio de alquiler | Media | Semestral / Anual |
+| Garantizar que el local cumpla con normativas legales y de seguridad | Alta | Trimestral / Anual |
+| Coordinar con empresas de mantenimiento (limpieza, plomería, seguridad) | Media | Mensual |
+| Administrar pagos de impuestos del local | Alta | Anual |
+
+## Segmento 2: Propietario de Vivienda 
+
+| **Tareas** | **Importancia** | **Frecuencia** |
+|-----------|----------------|---------------|
+| Pagar los servicios básicos (agua, luz, gas, internet) | Alta | Mensual |
+| Hacer mantenimiento preventivo de la casa (pintura, reparaciones pequeñas) | Media | Trimestral / Semestral |
+| Evaluar mejoras en el hogar (remodelaciones, ampliaciones) | Media | Ocasional |
+| Comprar productos para el hogar (electrodomésticos, muebles) | Media | Ocasional |
+| Administrar el presupuesto familiar | Alta | Semanal |
+| Coordinar con proveedores de servicios (gasfiteros, electricistas, limpieza) | Media | Ocasional |
+| Garantizar la seguridad de la vivienda | Alta | Diaria |
+| Manejar pagos de impuestos de la propiedad | Alta | Anual |
+
+
 ### 2.3.3. User Journey Mapping
 
+Creamos los User Journey Maps con el objetivo de comprender la experiencia de nuestro cliente al utilizar nuestra aplicación. Por ende, cada paso que el cliente realiza se detalla minuciosamente, incluyendo el proceso, los obstáculos encontrados y los pensamientos o emociones que surgen a raíz de ello.
+
+**Segmento 1: Propietarios de Locales**
+<img width="1006" height="758" alt="EMPATIASEGMENTO1" src="https://github.com/user-attachments/assets/0bcf85c6-12a9-466c-a36d-8939fe83fb58" />
+
+**Segmento 2: Propietarios de Viviendas**
+
+<img width="1007" height="738" alt="EMPATIASEGMENTO2" src="https://github.com/user-attachments/assets/2aa9d00f-500c-4e0f-8f52-7369c945fc2f" />
+
+
 ### 2.3.4. Empathy Mapping
+
 
 ### 2.3.5. As-is Scenario Mapping
 
