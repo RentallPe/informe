@@ -158,12 +158,11 @@ A continuación, estadísticas de participación:
 
 ## Student Outcome
 
-| Criterio Específico                                                                                                                                  | Acciones Realizadas                                                                 | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | TB1: Arturo Saravia: Ayudé en la relización de la landing page y del documento  <br> <br> TB1: Braulio Torrejon: Apoyo de los mockups y wireframes y prototyping del capitulo 4  <br> <br>TB1 Leonardo Cumba: He desarrollado el capitulo 2, 4 y 5  <br><br> TB1 Gabriel Perez: He desarrollado el capitulo 3        | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Esto incluyó la realización de entrevistas, la elaboración de Statements y Hypothesis Statements como parte del proceso Lean UX, la creación de User Personas y el mapeo de la experiencia del usuario. Además, se realizó un análisis competitivo, se desarrollaron User Stories y se establecieron estrategias frente a competidores. Se utilizaron herramientas visuales como Lean UX Canvas y Style Guidelines, y se llevaron a cabo actividades como Empathy Mapping para comprender las necesidades de los usuarios. Todo esto se complementó con la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                                                                      | TB1: Arturo Saravia: proporcioné materiales y apoyo en la realización del documento <br> <br> TB1: Braulio Torrejon: Proporcione información sobre las herramientas a usar  <br> <br>TB1 Leonardo Cumba: He desarrollado el capitulo 2, 4 y 5  <br><br> TB1 Gabriel Perez: He desarrollado el capitulo 3  | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | TB1: Arturo Saravia: adjunté notas y compraré resultados con cada revisión  <br> <br> TB1: Braulio Torrejon: Ayude con la revisión del equipo de trabajo <br> <br>TB1 Leonardo Cumba: He desarrollado el capitulo 2, 4 y 5  <br><br> TB1 Gabriel Perez: He desarrollado el capitulo 3  | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-
+| Criterio Específico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | TB1: Arturo Saravia: Ayudé en la relización de la landing page y del documento <br> <br> TB1: Braulio Torrejon: Apoyo de los mockups y wireframes y prototyping del capitulo 4 <br> <br>TB1 Leonardo Cumba: He desarrollado el capitulo 2, 4 y 5 <br><br> TB1 Gabriel Perez: He desarrollado el capitulo 3<br><br>TB1 Sean Palomares: Apoye en la realizacion del capítulo 4, landing page, y web application wireframes | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Esto incluyó la realización de entrevistas, la elaboración de Statements y Hypothesis Statements como parte del proceso Lean UX, la creación de User Personas y el mapeo de la experiencia del usuario. Además, se realizó un análisis competitivo, se desarrollaron User Stories y se establecieron estrategias frente a competidores. Se utilizaron herramientas visuales como Lean UX Canvas y Style Guidelines, y se llevaron a cabo actividades como Empathy Mapping para comprender las necesidades de los usuarios. Todo esto se complementó con la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                                                                      | TB1: Arturo Saravia: proporcioné materiales y apoyo en la realización del documento <br> <br> TB1: Braulio Torrejon: Proporcione información sobre las herramientas a usar <br> <br>TB1 Leonardo Cumba: He desarrollado el capitulo 2, 4 y 5 <br><br> TB1 Gabriel Perez: He desarrollado el capitulo 3 <br><br> TB1 Sean Palomares: He logrado colaborar en el desarrollo de la landing page. Además de del capítulo 4.  | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | TB1: Arturo Saravia: adjunté notas y compraré resultados con cada revisión <br> <br> TB1: Braulio Torrejon: Ayude con la revisión del equipo de trabajo <br> <br>TB1 Leonardo Cumba: He desarrollado el capitulo 2, 4 y 5 <br><br> TB1 Gabriel Perez: He desarrollado el capitulo 3                                                                                                                                      | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realizacion de todos los capitulos del informe se pudo lograr y complementar para la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ---
 
@@ -177,13 +176,13 @@ RentalPE es una startup dedicada al desarrollo de software, enfocada en encontra
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Nombre Completo del integrante  | Descripcion de Carrera                                                                      | Fotografía                                                                                                                                                | Conocimientos y Habilidades a apuntar                                                                                            |
-| ------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-|                                 |                                                                                             |                                                                                                                                                           |                                                                                                                                  |
-| Perez Tuesta Gabriel            | Ingeniería de Software<br> 5to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas | <img width="609" height="811" alt="Screenshot 2025-09-19 234029" src="https://github.com/user-attachments/assets/09ce7d58-35a2-461d-b66d-28dd115a60a2" /> | - Conocimientos de lenguajes de programación html, css y Javascript.<br>- Contribución en equipo y responsabilidad.              |
-| Cumba Rengifo Leonardo Raul     | Ingeniería de Software<br> 5to Ciclo<br>2023-2<br>Universidad Peruana de Ciencias Aplicadas | ![Leonardo](Imagenes/perfil-integrante-leonardo.png)                                                                                                      | Estudiante de Ingeniería de Software que quiere enfocarse en backend o en DBA. En la actualidad me gustaria especialiarse en DBA |
-| Saravia Huaricancha Arturo Axel | Ingeniería de Software<br> 5to Ciclo<br>2023-1<br>Universidad Peruana de Ciencias Aplicadas | ![Arturo](Imagenes/arturo.jpg)                                                                                                                            | Estudiante de ing. de software que quiere dedicarse al desarrollo de juegos y apps web                                           |
-| Torrejon Navarro Braulio                     | Soy un estudiante de 5nto ciclo de la carrera de Ingenieria de Software. Tengo interes en lo que es aprender nuevas herramientas para proyectos personales.  | ![braulio](https://media.discordapp.net/attachments/1419200584992559239/1419232805501665340/image.png?ex=68d1030c&is=68cfb18c&hm=c94c94d5aa967496a56195264c3f6ccd1c9735e9edcd421dc6d9c3396c157e9d&=&format=webp&quality=lossless)                                                                                                                                                | Poseo conocimiento en los lenguajes de: C++, Python, C#, Genexus y estuve 1 año en practicas pre profesionales siendo QA, soy una persona que estoy listo a trabajar bajo presión y con mucho compañerismo.  |
+| Nombre Completo del integrante  | Descripcion de Carrera                                                                                                                                      | Fotografía                                                                                                                                                                                                                        | Conocimientos y Habilidades a apuntar                                                                                                                                                                        |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sean Farith Palomares Andrade   | Ingeniería de Software                                                                                                                                      | ![Sean](Imagenes/sean-palomares.png)                                                                                                                                                                                              | Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. <br> Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. |
+| Perez Tuesta Gabriel            | Ingeniería de Software<br> 5to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas                                                                 | <img width="609" height="811" alt="Screenshot 2025-09-19 234029" src="https://github.com/user-attachments/assets/09ce7d58-35a2-461d-b66d-28dd115a60a2" />                                                                         | - Conocimientos de lenguajes de programación html, css y Javascript.<br>- Contribución en equipo y responsabilidad.                                                                                          |
+| Cumba Rengifo Leonardo Raul     | Ingeniería de Software<br> 5to Ciclo<br>2023-2<br>Universidad Peruana de Ciencias Aplicadas                                                                 | ![Leonardo](Imagenes/perfil-integrante-leonardo.png)                                                                                                                                                                              | Estudiante de Ingeniería de Software que quiere enfocarse en backend o en DBA. En la actualidad me gustaria especialiarse en DBA                                                                             |
+| Saravia Huaricancha Arturo Axel | Ingeniería de Software<br> 5to Ciclo<br>2023-1<br>Universidad Peruana de Ciencias Aplicadas                                                                 | ![Arturo](Imagenes/arturo.jpg)                                                                                                                                                                                                    | Estudiante de ing. de software que quiere dedicarse al desarrollo de juegos y apps web                                                                                                                       |
+| Torrejon Navarro Braulio        | Soy un estudiante de 5nto ciclo de la carrera de Ingenieria de Software. Tengo interes en lo que es aprender nuevas herramientas para proyectos personales. | ![braulio](https://media.discordapp.net/attachments/1419200584992559239/1419232805501665340/image.png?ex=68d1030c&is=68cfb18c&hm=c94c94d5aa967496a56195264c3f6ccd1c9735e9edcd421dc6d9c3396c157e9d&=&format=webp&quality=lossless) | Poseo conocimiento en los lenguajes de: C++, Python, C#, Genexus y estuve 1 año en practicas pre profesionales siendo QA, soy una persona que estoy listo a trabajar bajo presión y con mucho compañerismo.  |
 
 ## 1.2 Solution Profile
 
@@ -208,6 +207,7 @@ En la fase previa al comienzo de la obra, al diseñar el proyecto. También se c
 La ausencia de planificación, la improvisación y la falta de conocimiento en cuanto a permisos y normativa legal pueden resultar en obras de ejecución deficiente, costes ocultos (10-15 % de imprevistos no contemplados) y riesgos legales o de seguridad. La integración de la tecnología de IoT (Internet de las Cosas) tiene el potencial de incrementar el valor de la propiedad en un 15 %, al tiempo que optimiza la eficiencia energética.
 
 ##### **where**
+
 Principalmente en Lima Metropolitana y las capitales regionales de mayor dinamismo comercial (Miraflores, San Isidro, Surco, Arequipa, Trujillo, Piura, entre otras), donde abundan restaurantes, tiendas, oficinas y viviendas destinadas a reventa o alquiler. Son zonas con alta rotación de locales, presiones de valorización inmobiliaria y normativas municipales estrictas; el mercado de remodelaciones es activo pero carece de servicios integrales que combinen planificación, gestión de obra y monitoreo IoT.
 
 ##### **How**
@@ -527,7 +527,7 @@ Resumen de la entrevista: Las respuestas indican que su mayor dolor está en la 
 ![img](https://media.discordapp.net/attachments/1419200584992559239/1419235235836723241/image.png?ex=68d10550&is=68cfb3d0&hm=fead00343bafb8b52830a76d128d3f91098ca1cd8e53b1ac6ca17508845abba8&=&format=webp&quality=lossless)
 
 **Timelapse:** [Inicio: 00:00, Fin: 04:00]
-**Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201711828_upc_edu_pe/EX11GPAnMvhAmiBZrqGizhIBwkXMzUUHZ_FLwu0I-MjqPg?e=OF4nJz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+\*\*Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201711828_upc_edu_pe/EX11GPAnMvhAmiBZrqGizhIBwkXMzUUHZ_FLwu0I-MjqPg?e=OF4nJz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Resumen de la Entrevista:**
 Las respuestas de Patricia indica de que le gustaria más seguridad en el lugar donde renta, donde pueda recibir notificaciones en su celular cuando alguien entre en su casa, tambien le gustaria poder recibir rapidamente tramites, lo que mayormente le gustaria poder tener un lugar donde puede revisar sus estados de luz y agua. En resumen, le gustaria seguridad en su hogar y poder verlo todo en su celular porque eso le ahorraria tiempo
@@ -615,30 +615,29 @@ Para esta sección hemos tomado en cuenta dos User Persona que corresponden a lo
 
 ## Segmento 1: Propietario de Local
 
-| **Tareas** | **Importancia** | **Frecuencia** |
-|-----------|----------------|---------------|
-| Cobrar el alquiler de los inquilinos | Alta | Mensual |
-| Verificar el estado del local (mantenimiento y limpieza) | Alta | Mensual |
-| Gestionar contratos de arrendamiento | Alta | Al inicio y renovación del contrato |
-| Solucionar problemas reportados por los inquilinos (fugas, daños) | Alta | Ocasional / Urgente |
-| Evaluar el mercado para ajustar precio de alquiler | Media | Semestral / Anual |
-| Garantizar que el local cumpla con normativas legales y de seguridad | Alta | Trimestral / Anual |
-| Coordinar con empresas de mantenimiento (limpieza, plomería, seguridad) | Media | Mensual |
-| Administrar pagos de impuestos del local | Alta | Anual |
+| **Tareas**                                                              | **Importancia** | **Frecuencia**                      |
+| ----------------------------------------------------------------------- | --------------- | ----------------------------------- |
+| Cobrar el alquiler de los inquilinos                                    | Alta            | Mensual                             |
+| Verificar el estado del local (mantenimiento y limpieza)                | Alta            | Mensual                             |
+| Gestionar contratos de arrendamiento                                    | Alta            | Al inicio y renovación del contrato |
+| Solucionar problemas reportados por los inquilinos (fugas, daños)       | Alta            | Ocasional / Urgente                 |
+| Evaluar el mercado para ajustar precio de alquiler                      | Media           | Semestral / Anual                   |
+| Garantizar que el local cumpla con normativas legales y de seguridad    | Alta            | Trimestral / Anual                  |
+| Coordinar con empresas de mantenimiento (limpieza, plomería, seguridad) | Media           | Mensual                             |
+| Administrar pagos de impuestos del local                                | Alta            | Anual                               |
 
-## Segmento 2: Propietario de Vivienda 
+## Segmento 2: Propietario de Vivienda
 
-| **Tareas** | **Importancia** | **Frecuencia** |
-|-----------|----------------|---------------|
-| Pagar los servicios básicos (agua, luz, gas, internet) | Alta | Mensual |
-| Hacer mantenimiento preventivo de la casa (pintura, reparaciones pequeñas) | Media | Trimestral / Semestral |
-| Evaluar mejoras en el hogar (remodelaciones, ampliaciones) | Media | Ocasional |
-| Comprar productos para el hogar (electrodomésticos, muebles) | Media | Ocasional |
-| Administrar el presupuesto familiar | Alta | Semanal |
-| Coordinar con proveedores de servicios (gasfiteros, electricistas, limpieza) | Media | Ocasional |
-| Garantizar la seguridad de la vivienda | Alta | Diaria |
-| Manejar pagos de impuestos de la propiedad | Alta | Anual |
-
+| **Tareas**                                                                   | **Importancia** | **Frecuencia**         |
+| ---------------------------------------------------------------------------- | --------------- | ---------------------- |
+| Pagar los servicios básicos (agua, luz, gas, internet)                       | Alta            | Mensual                |
+| Hacer mantenimiento preventivo de la casa (pintura, reparaciones pequeñas)   | Media           | Trimestral / Semestral |
+| Evaluar mejoras en el hogar (remodelaciones, ampliaciones)                   | Media           | Ocasional              |
+| Comprar productos para el hogar (electrodomésticos, muebles)                 | Media           | Ocasional              |
+| Administrar el presupuesto familiar                                          | Alta            | Semanal                |
+| Coordinar con proveedores de servicios (gasfiteros, electricistas, limpieza) | Media           | Ocasional              |
+| Garantizar la seguridad de la vivienda                                       | Alta            | Diaria                 |
+| Manejar pagos de impuestos de la propiedad                                   | Alta            | Anual                  |
 
 ### 2.3.3. User Journey Mapping
 
@@ -651,7 +650,6 @@ Creamos los User Journey Maps con el objetivo de comprender la experiencia de nu
 
 <img width="1007" height="738" alt="EMPATIASEGMENTO2" src="https://github.com/user-attachments/assets/2aa9d00f-500c-4e0f-8f52-7369c945fc2f" />
 
-
 ### 2.3.4. Empathy Mapping
 
 **Segmento 1: Propietarios de Locales**
@@ -661,9 +659,6 @@ Creamos los User Journey Maps con el objetivo de comprender la experiencia de nu
 **Segmento 2: Propietarios de Viviendas**
 
 <img width="766" height="869" alt="Screenshot 2025-09-21 025754" src="https://github.com/user-attachments/assets/be361f3c-4b2a-4ab2-9140-2dd273d31181" />
-
-
-
 
 ### 2.4 Ubiquitous Language
 
@@ -682,7 +677,6 @@ Creamos los User Journey Maps con el objetivo de comprender la experiencia de nu
 | **Incidencia**                 | Problema o desperfecto reportado durante el uso o remodelación de la propiedad.                        |
 | **Mantenimiento Preventivo**   | Acciones planificadas para evitar problemas futuros en la propiedad.                                   |
 | **ROI (Retorno de Inversión)** | Métrica para evaluar el beneficio de una remodelación frente al costo invertido.                       |
-
 
 # Capítulo III Especificación de requisitos
 
@@ -1096,96 +1090,175 @@ A continuación, se muestra y explica los Wireframes de nuestra aplicación Web.
 - Login wireframe
 
 <p align="center">
-  <img src="./Imagenes/login-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/login-wireframe.png" alt="login-wireframe"/>
 </p>
 
 - Register wireframe:
 
 <p align="center">
-  <img src="./Imagenes/register-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/register-wireframe.png" alt="register-wireframe"/>
 </p>
 
 - Dashboard wireframe:
 
 <p align="center">
-  <img src="./Imagenes/dashboard-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/dashboard-wireframe.png" alt="dashboard-wireframe"/>
 </p>
 
 - Alerts wireframe:
 
 <p align="center">
-  <img src="./Imagenes/alerts-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/alerts-wireframe.png" alt="alerts-wireframe"/>
 </p>
 
 - My properties wireframe:
 
 <p align="center">
-  <img src="./Imagenes/myproperties-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/myproperties-wireframe.png" alt="myproperties-wireframe"/>
 </p>
 
 - Account wireframe:
 
 <p align="center">
-  <img src="./Imagenes/profile-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/profile-wireframe.png" alt="profile-wireframe"/>
 </p>
 
 - Consumption wireframe:
 
 <p align="center">
-  <img src="./Imagenes/consumption-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/consumption-wireframe.png" alt="consumption-wireframe"/>
 </p>
 
 - Billing wireframe:
 
 <p align="center">
-  <img src="./Imagenes/billing-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/billing-wireframe.png" alt="billing-wireframe"/>
 </p>
 
 - Support wireframe:
 
 <p align="center">
-  <img src="./Imagenes/support-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/support-wireframe.png" alt="support-wireframe"/>
 </p>
 
 - New Project wireframe:
 
 <p align="center">
-  <img src="./Imagenes/newproject-wireframe.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/newproject-wireframe.png" alt="newproject-wireframe"/>
 </p>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-- Iniciar sesion: Como usuario, quiero iniciar sesion
+User goal:
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200623710179358/Lluvia_de_ideas_en_equipo.png?ex=68d0e514&is=68cf9394&hm=809f601ac69cdcc75c254c54b63a0193df8b72288084f4252ae289beb2d96508&=&format=webp&quality=lossless&width=470&height=978)
+- Iniciar sesion: Como usuario, quiero iniciar sesion
+- Task Flow:
+
+<p align="center">
+  <img src="./Imagenes/login-wireflow.webp" alt="login-wireflow"/>
+</p>
+
+- Wireflow:
+
+<p align="center">
+  <img src="./Imagenes/wireflow-1.png" alt="wireflow-1"/>
+</p>
 
 - Visualizacion de perfil, como un cliente, quiero visualizar mi perfil y poder editarlo
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200639619301406/Lluvia_de_ideas_en_equipo_-_Pagina_1_1.png?ex=68d0e517&is=68cf9397&hm=19779e93cba9cfc961d243f8830eec7d1781a2302652d5ab4ba27a17f470bc0e&=&format=webp&quality=lossless&width=871&height=978)
+- Task Flow:
+
+<p align="center">
+  <img src="./Imagenes/profile-wireflow.webp" alt="profile-wireflow"/>
+</p>
+
+- Wireflow:
+
+<p align="center">
+  <img src="./Imagenes/wireflow-2.png" alt="wireflow-2"/>
+</p>
 
 - Alertas de la aplicación, como cliente, quiero tener notificaciones de los productos que tengo a la par de como va el estado de remodelación
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419208266847883294/Lluvia_de_ideas_en_equipo_-_Pagina_1_7.png?ex=68d0ec32&is=68cf9ab2&hm=aab98c8c6ce24532943e5b048cd218b1387fb7e34a8c9f0694627f7ea42da114&=&format=webp&quality=lossless&width=205&height=976)
+- Task Flow:
+
+<p align="center">
+  <img src="./Imagenes/alert-wireflow.webp" alt="alert-wireflow"/>
+</p>
+
+- Wireflow:
+
+<p align="center">
+  <img src="./Imagenes/wireflow-3.png" alt="wireflow-3"/>
+</p>
 
 - Revision de cuenta, como cliente quiero poder ver el estado de mi cuenta en cada casa y poder pagar en ello
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200647634358402/Lluvia_de_ideas_en_equipo_-_Pagina_1_2.png?ex=68d0e519&is=68cf9399&hm=9832b77036618b11c4d597bd4150ef2c8947740821194ac371a38969e1a98dc7&=&format=webp&quality=lossless&width=656&height=978)
+- Task Flow:
+
+<p align="center">
+  <img src="./Imagenes/payments-wireflow.webp" alt="payments-wireflow"/>
+</p>
+
+- Wireflow:
+
+<p align="center">
+  <img src="./Imagenes/wireflow-4.png" alt="wireflow-4"/>
+</p>
 
 - Consumo de enegia y agua, como cliente, quiero poder ver como va el consumo de mi casa a la par de poder dar un presupuesto
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200668547158146/Lluvia_de_ideas_en_equipo_-_Pagina_1_6.png?ex=68d0e51e&is=68cf939e&hm=ec4bba601c471d75de544f7555227b28a1a18b87611ab7a2894fd7dd71273190&=&format=webp&quality=lossless&width=556&height=977)
+- Task Flow:
+
+<p align="center">
+  <img src="./Imagenes/consumption-wireflow.webp" alt="consumption-wireflow"/>
+</p>
+
+- Wireflow:
+
+<p align="center">
+  <img src="./Imagenes/wireflow-5.png" alt="wireflow-5"/>
+</p>
 
 - Propiedades, como usuario, quiero poder revisar mis propiedades y añadir nuevos
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200634036420740/Lluvia_de_ideas_en_equipo_-_Pagina_1.png?ex=68d0e516&is=68cf9396&hm=bbb03e3ca64b04735ce92200f8a6f08ad3afabceeefc3ea2d61140cd74f96367&=&format=webp&quality=lossless&width=876&height=978)
+- Task Flow:
+
+<p align="center">
+  <img src="./Imagenes/myproperties-wireflow.webp" alt="myproperties-wireflow"/>
+</p>
+
+- Wireflow:
+
+<p align="center">
+  <img src="./Imagenes/wireflow-6.png" alt="wireflow-6"/>
+</p>
 
 - Soporte, como usuario, quiero poder crear una incidencia sobre un problema que estoy teniendo
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200653494059038/Lluvia_de_ideas_en_equipo_-_Pagina_1_3.png?ex=68d0e51b&is=68cf939b&hm=76f23f9e753e225cffd79af67205ad5def9227550c36b7d350615f2104f979e0&=&format=webp&quality=lossless&width=671&height=978)
+- Task Flow:
+
+<p align="center">
+  <img src="./Imagenes/support-wireflow.webp" alt="support-wireflow"/>
+</p>
+
+- Wireflow:
+
+<p align="center">
+  <img src="./Imagenes/wireflow-7.png" alt="wireflow-7"/>
+</p>
 
 - Comprar nuevos objetos, como cliente quiero poder añadir mas objetos inteligentes en mi casa
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200663002550342/Lluvia_de_ideas_en_equipo_-_Pagina_1_5.png?ex=68d0e51d&is=68cf939d&hm=6838fd50863b5e8f4458cc25c205e521927dfd866ef78b6115ebd473e5be9f7c&=&format=webp&quality=lossless&width=544&height=978)
+<p align="center">
+  <img src="./Imagenes/newproject-wireflow.webp" alt="newproject-wireflow"/>
+</p>
+
+- Wireflow:
+
+<p align="center">
+  <img src="./Imagenes/wireflow-8.png" alt="wireflow-8"/>
+</p>
 
 #### 4.4.2. Web Applications Mock-ups.
 
@@ -1281,10 +1354,7 @@ link:
 
 https://miro.com/app/board/uXjVJHSrDkA=/?share_link_id=656042657802
 
-
 https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJRQVNRUFkyTXlXL1ZNZzNCNWtoV2FXRDl3WnFHV2Z2eUYrZCttWEJXZ0VqdThTQ05qTUcvZThsQTVOL0EwQlJwbEN0Y3NrQWV0WUZFVjBpZ1hGeHZnNjlhMjZ0cFh0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=994320381504
-
-
 
 #### 4.6.2. Software Architecture Context Diagram
 
