@@ -465,6 +465,9 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/EYRGg-zJ
 
 
 
+Resumen de la entrevista: Las respuestas indican que su mayor dolor está en la falta de control y visibilidad al operar el espacio: ruidos frecuentes, riesgos de seguridad y incidencias de servicios (p. ej., baños) que se atienden tarde; además, necesita recibos al instante para trámites y prefiere procesos rápidos y sencillos sin perder trazabilidad. Valora una solución que estandarice cotizaciones, centralice pagos y facturación, y ofrezca un panel en tiempo real con alertas (seguridad/consumo) y una bitácora de incidencias con responsables y SLA. Una plataforma como rentallPe cubriría estas brechas, reduciendo pérdidas, mejorando la coordinación con proveedores y acelerando el retorno de su inversión.
+
+
 
 
 #### Entrevista 2:
@@ -982,9 +985,386 @@ https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJR
 
 ### 4.8. Database Design
 
+CREATE DATABASE WorkSpaces;
+GO
+USE WorkSpaces;
+GO
+
+
+**Tabla: dispositivo_iot**
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[dispositivo_iot](
+  [id_dispositivo] [int] NOT NULL,
+  [id_proyecto]   [int] NOT NULL,
+   NOT NULL,
+   NOT NULL,
+  [instalado_en]  [datetime] NULL,
+  PRIMARY KEY CLUSTERED ([id_dispositivo] ASC)
+) ON [PRIMARY]
+GO
+
+**Tabla: documento**
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[documento](
+  [id_documento] [int] NOT NULL,
+  [id_proyecto]  [int] NOT NULL,
+   NOT NULL,
+   NOT NULL,
+  [creado_en]    [datetime] NOT NULL,
+  PRIMARY KEY CLUSTERED ([id_documento] ASC)
+) ON [PRIMARY]
+GO
+
+**Tabla: factura**
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[factura](
+  [id_factura]    [int] NOT NULL,
+  [id_pago]       [int] NOT NULL,
+   NOT NULL,
+  [fecha_emision] [date] NOT NULL,
+  [creada_en]     [datetime] NOT NULL,
+  PRIMARY KEY CLUSTERED ([id_factura] ASC)
+) ON [PRIMARY]
+GO
+
+
+**Tabla: incidencia**
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[incidencia](
+  [id_incidencia]  [int] NOT NULL,
+  [id_proyecto]    [int] NOT NULL,
+   NOT NULL,
+   NOT NULL,
+  [creada_en]      [datetime] NOT NULL,
+  [actualizada_en] [datetime] NULL,
+  PRIMARY KEY CLUSTERED ([id_incidencia] ASC)
+) ON [PRIMARY]
+GO
+
+
+**Tabla: notificacion**
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[notificacion](
+  [id_notificacion] [int] NOT NULL,
+  [id_usuario]      [int] NOT NULL,
+  [id_proyecto]     [int] NULL,
+   NOT NULL,
+  [creado_en]       [datetime] NOT NULL,
+  PRIMARY KEY CLUSTERED ([id_notificacion] ASC)
+) ON [PRIMARY]
+GO
+
+
+**Tabla: pago**
+
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[pago](
+  [id_pago]    [int] NOT NULL,
+  [id_proyecto][int] NOT NULL,
+  [monto]      [decimal](14,2) NOT NULL,
+  [fecha]      [datetime] NOT NULL,
+   NOT NULL,
+  [creado_en]  [datetime] NOT NULL,
+  PRIMARY KEY CLUSTERED ([id_pago] ASC)
+) ON [PRIMARY]
+GO
+
+
+
+**Tabla: plan_remodelacion**
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[plan_remodelacion](
+  [id_plan]        [int] NOT NULL,
+  [id_propiedad]   [int] NOT NULL,
+   NOT NULL,
+   NULL,
+  [fecha_inicio]   [datetime] NULL,
+  [fecha_fin]      [datetime] NULL,
+  [creado_en]      [datetime] NOT NULL,
+  CONSTRAINT [PK_plan_remodelacion] PRIMARY KEY CLUSTERED ([id_plan] ASC)
+) ON [PRIMARY]
+GO
+
+
+**Tabla: presupuesto**
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[presupuesto](
+  [id_presupuesto]     [int] NOT NULL,
+  [id_proyecto]        [int] NOT NULL,
+  [id_proveedor]       [int] NULL,
+  [monto]              [decimal](14,2) NOT NULL,
+  [tiempo_estimado_dias][int] NULL,
+  [creado_en]          [datetime] NOT NULL,
+  PRIMARY KEY CLUSTERED ([id_presupuesto] ASC)
+) ON [PRIMARY]
+GO
+
+
+**Tabla: propiedad**
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[propiedad](
+  [id_propiedad]     [int] NOT NULL,
+  [id_propietario]   [int] NOT NULL,
+   NOT NULL,
+   NOT NULL,
+   NULL,
+   NULL,
+   NULL,
+  [area_m2]          [decimal](10,2) NULL,
+  [antiguedad_anios] [smallint] NULL,
+   NOT NULL,
+  [creado_en]        [datetime] NOT NULL,
+  CONSTRAINT [PK_propiedad] PRIMARY KEY CLUSTERED ([id_propiedad] ASC)
+) ON [PRIMARY]
+GO
+
+
+**Tabla: propietario**
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[propietario](
+  [id_propietario]     [int] NOT NULL,
+   NOT NULL,
+   NOT NULL,
+   NULL,
+   NULL,
+   NULL,
+   NULL,
+   NULL,
+  [creado_en]          [datetime] NOT NULL,
+  CONSTRAINT [PK_propietario] PRIMARY KEY CLUSTERED ([id_propietario] ASC)
+) ON [PRIMARY]
+GO
+
+
+**Tabla: proveedor**
+
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[proveedor](
+  [id_proveedor] [int] NOT NULL,
+   NOT NULL,
+   NULL,
+  PRIMARY KEY CLUSTERED ([id_proveedor] ASC)
+) ON [PRIMARY]
+GO
+
+
+
+**Tabla: proyecto**
+
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[proyecto](
+  [id_proyecto]    [int] NOT NULL,
+  [id_propiedad]   [int] NOT NULL,
+  [id_usuario]     [int] NOT NULL,
+   NOT NULL,
+   NOT NULL,
+  [fecha_inicio]   [date] NULL,
+  [fecha_fin]      [date] NULL,
+  [fecha_creacion] [datetime] NOT NULL,
+  PRIMARY KEY CLUSTERED ([id_proyecto] ASC)
+) ON [PRIMARY]
+GO
+
+
+
+**Tabla: tarea**
+
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[tarea](
+  [id_tarea]     [int] IDENTITY(1,1) NOT NULL,
+  [id_proyecto]  [int] NOT NULL,
+   NOT NULL,
+   NULL,
+   NOT NULL,
+   NOT NULL,
+  PRIMARY KEY CLUSTERED ([id_tarea] ASC)
+) ON [PRIMARY]
+GO
+
+
+
+
+**Tabla: tipo_propietario**
+
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[tipo_propietario](
+   NOT NULL,
+   NOT NULL,
+  [creado_en]               [datetime] NOT NULL,
+  CONSTRAINT [PK_tipo_propietario] PRIMARY KEY CLUSTERED ([id_tipo_propietario] ASC)
+) ON [PRIMARY]
+GO
+
+
+
+**Tabla: usuario**
+
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[usuario](
+  [id_usuario]     [int] NOT NULL,
+   NOT NULL,
+   NOT NULL,
+   NULL,
+  [fecha_creacion] [datetime] NOT NULL,
+  PRIMARY KEY CLUSTERED ([id_usuario] ASC)
+) ON [PRIMARY]
+GO
+
+
+**Defaults y Relaciones**
+
+
+
+ALTER TABLE [dbo].[plan_remodelacion]
+  ADD CONSTRAINT [DF_plan_remodelacion__creado_en] DEFAULT (sysutcdatetime()) FOR [creado_en];
+GO
+
+ALTER TABLE [dbo].[tarea] ADD DEFAULT (sysutcdatetime()) FOR [fecha_creacion];
+GO
+
+ALTER TABLE [dbo].[dispositivo_iot] WITH CHECK ADD FOREIGN KEY([id_proyecto])
+  REFERENCES [dbo].[proyecto]([id_proyecto]);
+GO
+
+ALTER TABLE [dbo].[documento] WITH CHECK ADD FOREIGN KEY([id_proyecto])
+  REFERENCES [dbo].[proyecto]([id_proyecto]);
+GO
+
+ALTER TABLE [dbo].[factura] WITH CHECK ADD FOREIGN KEY([id_pago])
+  REFERENCES [dbo].[pago]([id_pago]);
+GO
+
+ALTER TABLE [dbo].[incidencia] WITH CHECK ADD FOREIGN KEY([id_proyecto])
+  REFERENCES [dbo].[proyecto]([id_proyecto]);
+GO
+
+ALTER TABLE [dbo].[notificacion] WITH CHECK ADD FOREIGN KEY([id_proyecto])
+  REFERENCES [dbo].[proyecto]([id_proyecto]);
+GO
+
+ALTER TABLE [dbo].[notificacion] WITH CHECK ADD FOREIGN KEY([id_usuario])
+  REFERENCES [dbo].[usuario]([id_usuario]);
+GO
+
+ALTER TABLE [dbo].[pago] WITH CHECK ADD FOREIGN KEY([id_proyecto])
+  REFERENCES [dbo].[proyecto]([id_proyecto]);
+GO
+
+ALTER TABLE [dbo].[plan_remodelacion] WITH CHECK ADD
+  CONSTRAINT [FK_plan_remodelacion__propiedad] FOREIGN KEY([id_propiedad])
+  REFERENCES [dbo].[propiedad]([id_propiedad]);
+GO
+ALTER TABLE [dbo].[plan_remodelacion] CHECK CONSTRAINT [FK_plan_remodelacion__propiedad];
+GO
+
+ALTER TABLE [dbo].[presupuesto] WITH CHECK ADD FOREIGN KEY([id_proyecto])
+  REFERENCES [dbo].[proyecto]([id_proyecto]);
+GO
+
+ALTER TABLE [dbo].[presupuesto] WITH CHECK ADD FOREIGN KEY([id_proveedor])
+  REFERENCES [dbo].[proveedor]([id_proveedor]);
+GO
+
+ALTER TABLE [dbo].[propiedad] WITH CHECK ADD
+  CONSTRAINT [FK_propiedad_propietario] FOREIGN KEY([id_propietario])
+  REFERENCES [dbo].[propietario]([id_propietario]);
+GO
+ALTER TABLE [dbo].[propiedad] CHECK CONSTRAINT [FK_propiedad_propietario];
+GO
+
+ALTER TABLE [dbo].[propiedad] WITH CHECK ADD
+  CONSTRAINT [FK_propiedad_tipo_propietario] FOREIGN KEY([id_tipo_propietario])
+  REFERENCES [dbo].[tipo_propietario]([id_tipo_propietario]);
+GO
+ALTER TABLE [dbo].[propiedad] CHECK CONSTRAINT [FK_propiedad_tipo_propietario];
+GO
+
+ALTER TABLE [dbo].[propietario] WITH CHECK ADD
+  CONSTRAINT [FK_propietario_tipo_propietario] FOREIGN KEY([id_tipo_propietario])
+  REFERENCES [dbo].[tipo_propietario]([id_tipo_propietario]);
+GO
+ALTER TABLE [dbo].[propietario] CHECK CONSTRAINT [FK_propietario_tipo_propietario];
+GO
+
+ALTER TABLE [dbo].[proyecto] WITH CHECK ADD FOREIGN KEY([id_propiedad])
+  REFERENCES [dbo].[propiedad]([id_propiedad]);
+GO
+
+ALTER TABLE [dbo].[proyecto] WITH CHECK ADD FOREIGN KEY([id_usuario])
+  REFERENCES [dbo].[usuario]([id_usuario]);
+GO
+
+ALTER TABLE [dbo].[tarea] WITH CHECK ADD FOREIGN KEY([id_proyecto])
+  REFERENCES [dbo].[proyecto]([id_proyecto]);
+GO
+
+
 
 ### 4.8.1. Database Diagrams
 
+<p align="center">
+  <img src="./Imagenes/Database Diagrams.jpg" alt="Database Diagrams.jpg""/>
+</p>
 
 
 
