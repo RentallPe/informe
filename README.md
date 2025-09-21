@@ -1669,8 +1669,24 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+| **Epic / Story ID** | **Título**                     | **Criterios de Aceptación**                                                                                                                        |
+| ------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US-01               | Visualización de servicios de remodelación | Dado que el usuario ingresa a la Landing Page, cuando accede a la sección de servicios, entonces visualiza los distintos planes de remodelación con su descripción y costos. |
+| US-02                | Visualización de sección de proyectos    | Dado que el usuario navega a la sección de proyectos, cuando hace scroll, entonces puede visualizar un listado con imágenes, descripciones y métricas de éxito de remodelaciones previas                               |
+| US-03               | Visualización de beneficios IoT          | Dado que el usuario accede a la sección de beneficios, cuando visualiza el contenido, entonces se muestran claramente las ventajas de integrar IoT (ahorro energético, seguridad, sostenibilidad).                    |
+| US-29               | Multilenguaje | Dado que el usuario selecciona un idioma distinto en el menú, cuando cambia la configuración, entonces toda la interfaz se traduce automáticamente (ES/EN).                                          |
+| US-50              | Acceso móvil optimizado | Dado que el usuario accede desde un dispositivo móvil, cuando navega por la Landing Page, entonces la visualización es responsive y adaptada a pantallas pequeñas.                                           |
 
+En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
 
+Enlace de la Landing Page: https://rentallpe.github.io/RentallPe/
+
+![Execution-evidence](Imagenes/land1.png)
+![Execution-evidence](Imagenes/land2.png)
+![Execution-evidence](Imagenes/land3.png)
+![Execution-evidence](Imagenes/land4.png)
+![Execution-evidence](Imagenes/land5.png)
+![Execution-evidence](Imagenes/land6.png)
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
