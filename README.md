@@ -637,8 +637,35 @@ Creamos los User Journey Maps con el objetivo de comprender la experiencia de nu
 
 ### 2.3.4. Empathy Mapping
 
+**Segmento 1: Propietarios de Locales**
 
-### 2.3.5. As-is Scenario Mapping
+<img width="767" height="846" alt="daad" src="https://github.com/user-attachments/assets/ab3c8850-0a1c-4c9f-9647-812f71e8c051" />
+
+**Segmento 2: Propietarios de Viviendas**
+
+<img width="766" height="869" alt="Screenshot 2025-09-21 025754" src="https://github.com/user-attachments/assets/be361f3c-4b2a-4ab2-9140-2dd273d31181" />
+
+
+
+
+### 2.4 Ubiquitous Language
+
+| **Término**                    | **Definición**                                                                                         |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Propietario de Vivienda**    | Persona que posee una casa o departamento y busca mantenerlo, remodelarlo o alquilarlo.                |
+| **Propietario de Local**       | Persona que posee un local comercial y busca optimizar su renta mediante remodelación o mantenimiento. |
+| **Propiedad**                  | Activo físico (casa, departamento o local) con atributos como dirección, área, estado y valor.         |
+| **Cotización**                 | Presupuesto estimado de remodelación, presentado por un contratista.                                   |
+| **Contrato**                   | Documento que formaliza la relación de alquiler o remodelación (incluye fechas y montos).              |
+| **Tarea de Mantenimiento**     | Actividad específica de reparación, pintura, plomería o remodelación.                                  |
+| **Contratista/Maestro**        | Persona o empresa encargada de ejecutar la obra o mantenimiento.                                       |
+| **Pago**                       | Registro de dinero entregado o recibido, ya sea para trabajos o alquileres.                            |
+| **Publicación**                | Acción de poner en oferta la propiedad para venta o alquiler.                                          |
+| **Avance de Obra**             | Reporte parcial del progreso de los trabajos realizados.                                               |
+| **Incidencia**                 | Problema o desperfecto reportado durante el uso o remodelación de la propiedad.                        |
+| **Mantenimiento Preventivo**   | Acciones planificadas para evitar problemas futuros en la propiedad.                                   |
+| **ROI (Retorno de Inversión)** | Métrica para evaluar el beneficio de una remodelación frente al costo invertido.                       |
+
 
 # Capítulo III Especificación de requisitos
 
