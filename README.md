@@ -1044,11 +1044,12 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
-https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1&t=CoYNhh9eglWbUtK6-1
+
 
 ### 4.5. Web Applications Prototyping
 
-
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419210193404825652/image.png?ex=68d0edfd&is=68cf9c7d&hm=7fcfe37e796756dbe37d64185e436aea9ae84b1a44a8911b85f543b30b9d029f&=&format=webp&quality=lossless&width=1399&height=874)
+https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1&t=CoYNhh9eglWbUtK6-1
 
 ### 4.6. Domain-Driven Software Architecture
 
