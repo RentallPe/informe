@@ -619,6 +619,11 @@ Gestión más formal de contratistas y remodelaciones.
 Organización clara de presupuestos y cronogramas.
 
 ## **2.3. Needfinding**
+### 2.3.1. User Personas
+### 2.3.2. User Task Matrix
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-is Scenario Mapping
 
 ### **2.3.1. User Personas**
 
@@ -899,27 +904,37 @@ Los SEO Tags y Meta Tags optimizan la visibilidad de RentalPe en motores de bús
 
 ##### **Landing Page**
 
-\<title\>RentalPE | Remodelación inteligente con IoT\</title\>  
-\<meta name="description" content="Descubre RentalPE, el servicio de remodelación de establecimientos comerciales y empresariales que integra tecnología IoT para mayor seguridad, control y sostenibilidad."\>  
-\<meta name="keywords" content="remodelación, IoT, establecimientos, empresas, comercios, seguridad, eficiencia, sostenibilidad"\>  
-\<meta name="author" content="RentalPE Team"\>  
-\<meta name="robots" content="index, follow"\>  
-\<meta property="og:title" content="RentalPE | Remodelación inteligente con IoT"\>  
-\<meta property="og:description" content="Moderniza tus espacios comerciales con remodelaciones seguras, eficientes y sostenibles gracias a la tecnología IoT."\>  
-\<meta property="og:image" content="https://www.rentalpe.com/assets/og-image.jpg"\>  
-\<meta property="og:url" content="https://www.rentalpe.com"\>
+```html
+<title>RentalPE | Remodelación inteligente con IoT</title>
 
-##### **Web Application**
+<meta name="description" content="Descubre RentalPE, el servicio de remodelación de establecimientos comerciales y empresariales que integra tecnología IoT para mayor seguridad, control y sostenibilidad." />
+<meta name="keywords" content="remodelación, IoT, establecimientos, empresas, comercios, seguridad, eficiencia, sostenibilidad" />
+<meta name="author" content="RentalPE Team" />
+<meta name="robots" content="index, follow" />
 
-\<title\>RentalPE | Plataforma de remodelación con IoT\</title\>  
-\<meta name="description" content="Administra y controla tu proceso de remodelación con RentalPE. Monitorea en tiempo real seguridad, condiciones ambientales y consumo energético gracias a IoT."\>  
-\<meta name="keywords" content="remodelación inteligente, IoT, control en tiempo real, monitoreo, sostenibilidad, energía, seguridad, administración de remodelaciones"\>  
-\<meta name="author" content="RentalPE Team"\>  
-\<meta name="robots" content="index, follow"\>  
-\<meta property="og:title" content="RentalPE | Plataforma de remodelación con IoT"\>  
-\<meta property="og:description" content="Optimiza la remodelación de tu establecimiento con datos en tiempo real para mayor control y eficiencia."\>  
-\<meta property="og:image" content="https://app.rentalpe.com/assets/og-app-image.jpg"\>  
-\<meta property="og:url" content="https://app.rentalpe.com"\>
+<meta property="og:title" content="RentalPE | Remodelación inteligente con IoT" />
+<meta property="og:description" content="Moderniza tus espacios comerciales con remodelaciones seguras, eficientes y sostenibles gracias a la tecnología IoT." />
+<meta property="og:image" content="https://www.rentalpe.com/assets/og-image.jpg" />
+<meta property="og:url" content="https://www.rentalpe.com" />
+```
+
+---
+
+## **Web Application SEO & Meta Tags**
+
+```html
+<title>RentalPE | Plataforma de remodelación con IoT</title>
+
+<meta name="description" content="Administra y controla tu proceso de remodelación con RentalPE. Monitorea en tiempo real seguridad, condiciones ambientales y consumo energético gracias a IoT." />
+<meta name="keywords" content="remodelación inteligente, IoT, control en tiempo real, monitoreo, sostenibilidad, energía, seguridad, administración de remodelaciones" />
+<meta name="author" content="RentalPE Team" />
+<meta name="robots" content="index, follow" />
+
+<meta property="og:title" content="RentalPE | Plataforma de remodelación con IoT" />
+<meta property="og:description" content="Optimiza la remodelación de tu establecimiento con datos en tiempo real para mayor control y eficiencia." />
+<meta property="og:image" content="https://app.rentalpe.com/assets/og-app-image.jpg" />
+<meta property="og:url" content="https://app.rentalpe.com" />
+```
 
 ## **4.2.4. Searching Systems**
 
