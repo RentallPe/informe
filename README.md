@@ -994,15 +994,23 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 
 - Inicio de la Aplicación: Menú principal al momento de abrir la pagina
 ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419200773262413844/image.png?ex=68d0e537&is=68cf93b7&hm=85731c9efdfca74dcdda69c26c254a5ff12bc2918c986f770c3cbcce508d639a&=&format=webp&quality=lossless)
+- Creacion de cuenta: Usuario crea su cuenta
 ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201011070931065/image.png?ex=68d0e570&is=68cf93f0&hm=83ac0b37eb7b362e1545b186053c46790c643011ced4b7630d191a464e8b134f&=&format=webp&quality=lossless)
+- Dashboard: pagina principal
 ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201150569287721/image.png?ex=68d0e591&is=68cf9411&hm=40c8ca18674fef40acf1da4115aec41309fc8539a756bee33e89a3879e2a1048&=&format=webp&quality=lossless)
+- Alertas: Alertas de la aplicación
 ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201513082978404/image.png?ex=68d0e5e8&is=68cf9468&hm=2c8d994a13f4550a5ada4154d9608d43b6521d8a027de4b239fb698dee6aaac5&=&format=webp&quality=lossless)
+- Mis propiedades: Las propiedades del usuario
 ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201587548655730/image.png?ex=68d0e5f9&is=68cf9479&hm=1229ac132b7b924b0592e7959e6411d9e64bd13529c4ede283869abe32b18113&=&format=webp&quality=lossless)
+- Mi perfil: El perfil del usuario
 ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201650744365169/image.png?ex=68d0e609&is=68cf9489&hm=516dd64eeab738538a2e69416600bd1f4ce4455e0b356482ae2df8d136a92a84&=&format=webp&quality=lossless)
+- Consumo: consumo del usuario
 ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201693941366804/image.png?ex=68d0e613&is=68cf9493&hm=ccc3097ab0ef3ddb2de00f878c9b50eec0ba66b64be520a005be55fb008ac1e5&=&format=webp&quality=lossless)
+- Cuenta: La cuenta del usuario
 ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201801114091540/image.png?ex=68d0e62c&is=68cf94ac&hm=9728f64a7f2e233023585b8dc87eb8b425efc42586973d8d6bdd188eb345bc46&=&format=webp&quality=lossless)
+- Soporte: El soporte donde se puede crear una incidencia
 ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201857615560745/image.png?ex=68d0e63a&is=68cf94ba&hm=cce75fe084cd336ff5176009482e1836c7fec025b02d01a2156a50838bb0f5f1&=&format=webp&quality=lossless)
-- 
+  
 
 
 #### 4.4.3. Web Applications User Flow Diagrams
