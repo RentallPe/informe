@@ -6,13 +6,17 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 
-## Carrera de Ingeniería de Software
+##  Ingeniería de Software
 
-### Aplicaciones Web (7468) — TB1
+## Ciclo 05
 
+## Aplicaciones Web -  7468
+
+## 
 **Profesor:** Ángel Augusto Velásquez Núñez  
+## INFORME DE TRABAJO FINAL
 **Startup:** RentallPE  
-**Sección:** 7468
+
 
 | Integrante                        | Código     |
 | --------------------------------- | ---------- |
@@ -37,7 +41,7 @@ _Septiembre 2025_
       <th>Versión</th><th>Fecha</th><th>Autor(es)</th><th>Descripción</th>
     </tr>
   </thead>
-  <tbody>
+  <body>
     <tr>
       <td><strong>1.0.0 (TB1)</strong></td>
       <td>10/09/2025</td>
@@ -50,7 +54,17 @@ _Septiembre 2025_
        <li>Torrejon Navarro, Braulio Rodrigo</li>
       </ul>
       </td>
-      <td>Primera versión del informe.</td>
+      <td>Capítulo I: Introducción.
+       <br>
+       Capítulo II: Requirements Elicitation & Analysis
+         <br>
+        Capítulo III: Requirements Specification
+        <br>
+        Capítulo IV: Product Design
+         <br>
+        Capítulo V: Product Implementation, Validation & Deployment
+      </td>
+      
     </tr>
   </tbody>
 </table>
