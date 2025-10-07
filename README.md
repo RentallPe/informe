@@ -479,6 +479,11 @@ Comparar la propuesta integral (remodelación + pagos/facturación + IoT/energí
 | ----------- | ----------------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | **Threats** | Incumbentes pueden empaquetar **IoT** con partners; presión de precios. | Saturación enterprise; ciclos de venta largos. | Competencia por bundles integrados (ecosistema Autodesk). | Plataformas todo-en-uno que fortalezcan **pagos** y finanzas en residencial. |
 
+# Strategy
+
+Las estrategias de **RentAllPE** se centran en consolidar una plataforma integral que combine la gestión de remodelaciones con el monitoreo inteligente mediante IoT. Para ello, se implementará un modelo de negocio premium que permita captar usuarios a través de funcionalidades básicas gratuitas (checklists, plantillas y guías) y fomentar su conversión hacia planes premium con asesoría personalizada y seguimiento avanzado. Paralelamente, se establecerán alianzas estratégicas con arquitectos, contratistas y proveedores de dispositivos inteligentes para ofrecer paquetes de servicios integrales. En el ámbito digital, se priorizará una estrategia de marketing basada en SEO, redes sociales y colaboraciones con inmobiliarias y ferreterías locales, con el fin de aumentar la visibilidad, reducir el costo de adquisición de clientes (CAC) y elevar el valor promedio por usuario (ARPU) en el mediano plazo.
+
+
 ## **2.2. Entrevistas**
 
 ### **2.2.1. Diseño de entrevistas**
