@@ -621,9 +621,11 @@ Organización clara de presupuestos y cronogramas.
 ### 2.3.1. User Personas
 
 Para esta sección hemos tomado en cuenta dos User Persona que corresponden a los dos segmentos objetivos nombrados anteriormente: los propietarios de inmuebles y los trabajadores independientes.
-<img width="677" height="883" alt="usslocal" src="https://github.com/user-attachments/assets/c0edc421-9692-4e8a-a83f-2cba008ea284" />
 
-<img width="672" height="870" alt="ussvivienda" src="https://github.com/user-attachments/assets/e2876895-eb51-4e67-9e5f-db089f2ef587" />
+<img width="1050" height="1810" alt="Sebastián Guzman (1)" src="https://github.com/user-attachments/assets/2cda6649-fe2a-44aa-9f9e-53bba5e8807e" />
+
+<img width="1050" height="2110" alt="Joseph Lopez" src="https://github.com/user-attachments/assets/91746cb1-ecfc-46e6-aba3-49c3d930df5e" />
+
 
 ### 2.3.2. User Task Matrix
 
