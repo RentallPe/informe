@@ -1576,31 +1576,31 @@ Concretamente, dividimos el sistema en **bounded contexts** bien delimitados —
 **Identity & Access Management BC**
 
 <p align="center">
-  <img src="./Imagenes/Event Identity & Access Management BC.png" alt="Event Identity & Access Management BC.png""/>
+  <img src="./Imagenes/Identity and access managment F.png" alt="Identity and access managment F.png""/>
 </p>
 
 **IoT Monitoring & Notifications BC**
 
 <p align="center">
- <img src="./Imagenes/Event IoT Monitoring & Notifications F BC.png" alt="Event IoT Monitoring & Notifications F BC.png""/>
+ <img src="./Imagenes/IoT Monitoring and Notifications F.png" alt="IoT Monitoring and Notifications F.png""/>
 </p>
 
 **Payment Management BC**
 
 <p align="center">
- <img src="./Imagenes/Event Payment Management BC.png" alt="Event Payment Management BC.png""/>
+ <img src="./Imagenes/Payment Management F.png" alt="Payment Management F.png""/>
 </p>
 
 **Profile & Preferences BC**
 
 <p align="center">
-  <img src="./Imagenes/Event Profile & Preferences BC.png" alt="Event Profile & Preferences BC.png""/>
+  <img src="./Imagenes/Profile and Preferences Managment F.png" alt="Profile and Preferences Managment F.png""/>
 </p>
 
 **Reports & Advanced Features BC**
 
 <p align="center">
-  <img src="./Imagenes/Event Reports & Advanced Features BC.png" alt="Event Reports & Advanced Features BC.png""/>
+  <img src="./Imagenes/Reports and Advanced Features F.png" alt="Reports and Advanced Features F.png""/>
 </p>
 
 link:
