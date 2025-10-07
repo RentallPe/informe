@@ -236,17 +236,11 @@ Los proyectos de remodelación necesitan un fondo de contingencia del 10-15 % de
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un plan detallado y de un diseño previo en el inicio de las obras. Esta situación resulta en sobrecostes que oscilan entre el 10 y el 15 % y retrasos que pueden prolongarse por semanas. Además, se evidencia la falta de una plataforma integral que permita monitorear de manera efectiva el avance, el presupuesto y la calidad de las obras. Esta carencia de un sistema de gestión eficiente conlleva a cambios en el alcance de las obras de manera dinámica y a la utilización de mano de obra informal. Los sujetos desconocen los procedimientos administrativos y autorizaciones municipales requeridos, lo que los expone a posibles sanciones y paralizaciones de obras. Aunque manifiestan interés en soluciones de IoT para la seguridad y la eficiencia energética, carecen de asesoramiento para la selección, instalación y conexión óptima de dispositivos inteligentes, lo que les impide aprovechar oportunidades de ahorro y plusvalía en sus inmuebles.
+Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un plan detallado y de un diseño previo en el inicio de las obras. Esta situación provoca sobrecostes que oscilan entre el 10 y el 15 % y retrasos que pueden prolongarse por semanas. Además, la falta de una plataforma integral para monitorear el avance, el presupuesto y la calidad de las obras genera cambios constantes en el alcance y fomenta la utilización de mano de obra informal.
+
+Asimismo, los usuarios desconocen los procedimientos administrativos y las autorizaciones municipales requeridas, exponiéndose a sanciones y paralizaciones. Aunque muestran interés en soluciones IoT para la seguridad y eficiencia energética, carecen de asesoramiento adecuado para su implementación, lo que limita el aprovechamiento de oportunidades de ahorro y plusvalía.
 
 #### 1.2.2.2. Lean UX Assumptions.
-
-### **Business Assumptions**
-
-- Existe un segmento considerable de propietarios de locales y viviendas dispuestos a pagar una suscripción o tarifa única por una plataforma integral de remodelación y monitoreo de IoT (Internet de las Cosas).
-- En el ámbito de la gestión de proyectos, se evidencia la necesidad de establecer alianzas estratégicas con actores claves del sector, tales como arquitectos, contratistas y proveedores de dispositivos IoT. Esta medida se presenta como una oportunidad para optimizar los recursos financieros y ofrecer paquetes de servicios más competitivos.
-- Se implementará un modelo freemium (listas de verificación y guías básicas gratuitas; asesoramiento y supervisión avanzados de pago) para facilitar la captación de usuarios y fomentar la conversión a planes premium.
-- Las campañas digitales, que incluyen SEO, redes sociales, alianzas con inmobiliarias y ferreterías, tienen como objetivo reducir el CAC en relación con el LTV estimado de cada cliente
-- La infraestructura en la nube y la automatización de procesos contribuirán a reducir los costos operativos, permitiendo márgenes saludables incluso con planes asequibles.
 
 ### **User Assumptions**
 
@@ -254,6 +248,64 @@ Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un 
 - Los usuarios quieren un panel unificado que muestre el progreso de la obra, los costes y las mediciones ambientales (temperatura, humedad, consumo) desde cualquier dispositivo. El texto es muy sencillo.
 - Los usuarios adoptarán las recomendaciones de dispositivos IoT (sensores, cámaras, actuadores) siempre y cuando se les proporcione una instrucción clara y detallada sobre qué instalar, dónde hacerlo y cómo proceder con la configuración.
 - Los usuarios emplearán las alertas y notificaciones (por ejemplo, recordatorios de inspecciones, cambios de alcance) como guía para la toma de decisiones oportunas y la prevención de imprevistos. Por favor, proceda con el proceso de acuerdo a las siguientes indicaciones.
+  
+### **User Outcome**
+
+-Los usuarios logran planificar y gestionar sus proyectos de remodelación con mayor precisión, reduciendo los errores y sobrecostes asociados a la falta de planificación.
+-Los usuarios pueden visualizar en tiempo real el avance, los costos y las condiciones ambientales del proyecto desde cualquier dispositivo, aumentando su control y confianza.
+-Los usuarios integran y configuran con éxito los dispositivos IoT recomendados, aprovechando sus beneficios en seguridad, eficiencia energética y sostenibilidad.
+-Los usuarios reaccionan proactivamente ante alertas y notificaciones, lo que reduce retrasos, evita imprevistos y mejora la toma de decisiones durante la obra.
+
+### **Business Assumptions**
+
+- Existe un segmento considerable de propietarios de locales y viviendas dispuestos a pagar una suscripción o tarifa única por una plataforma integral de remodelación y monitoreo de IoT (Internet de las Cosas).
+- En el ámbito de la gestión de proyectos, se evidencia la necesidad de establecer alianzas estratégicas con actores claves del sector, tales como arquitectos, contratistas y proveedores de dispositivos IoT. Esta medida se presenta como una oportunidad para optimizar los recursos financieros y ofrecer paquetes de servicios más competitivos.
+- Se implementará un modelo premium (listas de verificación y guías básicas gratuitas; asesoramiento y supervisión avanzados de pago) para facilitar la captación de usuarios y fomentar la conversión a planes premium.
+- Las campañas digitales, que incluyen SEO, redes sociales, alianzas con inmobiliarias y ferreterías, tienen como objetivo reducir el CAC en relación con el LTV estimado de cada cliente
+- La infraestructura en la nube y la automatización de procesos contribuirán a reducir los costos operativos, permitiendo márgenes saludables incluso con planes asequibles.
+
+
+### **Business Outcome**
+
+-Incremento del 10–20 % en la captación de propietarios de locales y viviendas durante los primeros seis meses gracias al modelo freemium y las campañas digitales.
+-Reducción del CAC (Costo de Adquisición de Cliente) en un 25 % mediante estrategias SEO, alianzas con inmobiliarias y promoción en redes sociales.
+-Conversión del 30 % de los usuarios gratuitos a planes premium durante el primer año de operación.
+-Incremento del margen operativo mediante la automatización de procesos y el uso de infraestructura en la nube, reduciendo los costos fijos en al menos un 15 %.
+-Establecimiento de al menos tres alianzas estratégicas con contratistas, arquitectos y proveedores IoT durante la fase inicial, fortaleciendo la oferta de valor y reduciendo tiempos de implementación.
+-Aumento del valor de vida del cliente (LTV) a través de renovaciones de suscripción, servicios complementarios y actualizaciones tecnológicas en IoT.
+-Mejora en la eficiencia del flujo de proyectos, reflejada en una reducción promedio del 20 % en tiempos de entrega y en incidencias reportadas por los usuarios.
+
+### **Feature Outcome**
+
+#### Flujo de planificación con plantillas y checklists automatizadas
+
+-Los propietarios completan la planificación inicial de su proyecto en un promedio de 3 días o menos.
+-El número de tareas imprevistas durante la ejecución se reduce en al menos 10 %.
+-El tiempo promedio de entrega del proyecto disminuye en 20 % respecto al promedio histórico.
+
+####Tablero unificado con seguimiento en tiempo real (avance, presupuesto, condiciones IoT)
+
+-Los usuarios consultan el tablero al menos 3 veces por semana.
+-El tiempo promedio de reacción ante desviaciones de presupuesto o avance se reduce en 30 %.
+-Se detecta una reducción del 30 % en los cambios de alcance no planificados.
+
+#### Módulo de recomendaciones para instalación de dispositivos IoT
+
+-50 % de los proyectos activos integran al menos un dispositivo IoT recomendado.
+-Los proyectos con IoT muestran una mejora del 15 % en consumo energético.
+-70 % de los usuarios califican la guía de instalación como “útil” o “muy útil”.
+
+#### Módulo de trámites municipales automatizados
+
+-80 % de los usuarios que inician obras registran sus permisos correctamente en la plataforma.
+-Las paralizaciones por sanciones disminuyen en más del 70 %.
+-Los usuarios completan el flujo de trámites en menos de 5 días hábiles.
+
+#### Planes Free y Premium
+
+-20 % de conversión de usuarios gratuitos a plan premium en los primeros tres meses.
+-75 % de retención de usuarios premium después del primer mes.
+-Incremento del 25 % en el ingreso promedio por usuario (ARPU).
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
@@ -262,6 +314,7 @@ Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un 
 - Creemos que si incluimos recomendaciones detalladas sobre qué dispositivos IoT instalar y cómo configurarlos, entonces al menos el 50 % de los usuarios incorporará soluciones inteligentes en su remodelación, mejorando la eficiencia energética en un 15 %.
 - Creemos que si integramos en la plataforma un módulo de trámites municipales con guías paso a paso y recordatorios automáticos, entonces disminuirá en un 80 % el inicio de obras sin permiso, evitando sanciones y paralizaciones.
 - Creemos que si ofrecemos un plan gratuito con funcionalidades básicas (checklists y tutoriales) y un plan premium con asesoría personalizada y monitoreo avanzado, entonces alcanzaremos una tasa de conversión del 20 % de usuarios free a paid dentro de los primeros tres meses.
+
 
 #### 1.2.2.4. Lean UX Canvas.
 
