@@ -823,9 +823,9 @@ Para el desarrollo de los Empathy Map hemos utilizado la información recopilada
 El mapa de impacto integra los hallazgos obtenidos a partir del análisis de entrevistas y la definición de los dos user personas, permitiendo visualizar cómo los objetivos del proyecto se relacionan con las necesidades, motivaciones y retos de cada uno.
 A través de esta herramienta, se identifican las acciones estratégicas que pueden generar un impacto positivo tanto en Joseph Lopez, quien busca optimizar la rentabilidad de su vivienda, como en el segundo perfil, orientado a mejorar su experiencia y confianza en los servicios ofrecidos.
 De esta manera, el mapa de impacto facilita una comprensión clara de qué soluciones aportan valor a cada tipo de usuario, guiando las decisiones de diseño hacia resultados más efectivos y centrados en las personas.
-
-![primer segmento](https://github.com/user-attachments/assets/3cca1103-74f1-45a2-b375-548126614b45)
-
+# Propietario de Vivienda
+![primero](Imagenes/impacto1.png)
+# Propietario de Local
 ![segundo](Imagenes/impacto2.png)
 
 ### 3.3 Product Backlog
