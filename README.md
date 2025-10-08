@@ -825,7 +825,8 @@ A través de esta herramienta, se identifican las acciones estratégicas que pue
 De esta manera, el mapa de impacto facilita una comprensión clara de qué soluciones aportan valor a cada tipo de usuario, guiando las decisiones de diseño hacia resultados más efectivos y centrados en las personas.
 
 ![primer segmento](https://github.com/user-attachments/assets/3cca1103-74f1-45a2-b375-548126614b45)
-![segundo segmento](https://github.com/user-attachments/assets/a94e4b1f-c730-4bff-b2ce-9502f993203d)
+
+![segundo](Imagenes/impacto2.png)
 
 ### 3.3 Product Backlog
 
