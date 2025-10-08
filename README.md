@@ -615,7 +615,7 @@ Las respuestas de Patricia indica de que le gustaria más seguridad en el lugar 
 **Distrito:** Miraflores
 
 **Screenshot de la Entrevista:**
-<img width="1162" height="868" alt="Screenshot 2025-09-20 130652" src="https://github.com/user-attachments/assets/20ba1d7c-ac9b-4def-88d6-5d3562277966" />
+![entrevistayoko](Imagenes/entrevistayoko.png)    
 
 **Timelapse:** [Inicio: 00:00, Fin: 04:00]
 **Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/EdE0G30LNsxFtmvA4sLmMjUBqM6Uyh9Ti4jvG6Ydb4OTXA?e=11wrVN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
