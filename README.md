@@ -1130,12 +1130,12 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 
 #### 4.3.2. Landing Page Mock-up
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200623710179358/Lluvia_de_ideas_en_equipo.png?ex=68e9f194&is=68e8a014&hm=edac92bb3c18277f7a440a096f2ad018f16e989404c7843f77ec84f325f4a031&=&format=webp&quality=lossless&width=470&height=978)
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200634036420740/Lluvia_de_ideas_en_equipo_-_Pagina_1.png?ex=68e9f196&is=68e8a016&hm=b5fd705d6aff69a1bf850c120174331def8264e7fe5a3b70155676b094d8c15d&=&format=webp&quality=lossless&width=876&height=978)
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200639619301406/Lluvia_de_ideas_en_equipo_-_Pagina_1_1.png?ex=68e9f197&is=68e8a017&hm=2238c31c7a9193afa1231562f644260a951836d3854075aa989d32bda4f19571&=&format=webp&quality=lossless&width=312&height=350)
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200647634358402/Lluvia_de_ideas_en_equipo_-_Pagina_1_2.png?ex=68e9f199&is=68e8a019&hm=a9d315429f668a37705ef6b254379db544148f98c48aabc7f61c238374f973c9&=&format=webp&quality=lossless&width=656&height=978)
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200663002550342/Lluvia_de_ideas_en_equipo_-_Pagina_1_5.png?ex=68e9f19d&is=68e8a01d&hm=cc2e4bc952eb9876dd0fdea95cfea34373960164f64c59ad77397a2c94fbb2b8&=&format=webp&quality=lossless&width=544&height=978)
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200668547158146/Lluvia_de_ideas_en_equipo_-_Pagina_1_6.png?ex=68e9f19e&is=68e8a01e&hm=d2bfbb4fc18cd54736d0815a585d4cdbc5ee0b3a2265e2c7636aa5b328947ac5&=&format=webp&quality=lossless&width=199&height=350)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220106684399719/image.png?ex=68ea03b9&is=68e8b239&hm=987dc069a056c8354f4770937e0ac57b67cc8172efdd430513c074f264710745&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220149612969995/image.png?ex=68ea03c3&is=68e8b243&hm=f8a624ad509e7f64a9e9134e040c5ec2262794219046588cd8ef166a54404d08&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220197499473960/image.png?ex=68ea03ce&is=68e8b24e&hm=0c764932d0051006f63e8f2faffcb83046269eee87460f0232176cbd9279062e&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220238934868078/image.png?ex=68ea03d8&is=68e8b258&hm=15237b6a4355da4b3c526dcf4aa780fa2c2c1ccd912a138f98cfd83910a7b563&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220276264173638/image.png?ex=68ea03e1&is=68e8b261&hm=fec6120bd951c472c9fe2f6508396e395bf72c8b8f3ed963b20b8169a90a6f6d&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220312586981388/image.png?ex=68ea03ea&is=68e8b26a&hm=26bb69d7e0a85828df39d18169f119861dc239876b93b0af16ccebf59fd1e346&=&format=webp&quality=lossless)
 
 ### 4.4. Web Applications UX/UI Design
 
