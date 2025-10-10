@@ -1888,9 +1888,10 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 | US31                | Resumen financiero                         | Dado que el usuario visualiza un proyecto, cuando accede al panel de resumen, entonces puede ver los totales de presupuesto, gasto y avance general del proyecto.                                                         |
 | US33                | Gestión de documentos                      | Dado que el usuario administra un proyecto, cuando sube documentos, entonces puede agregar, visualizar o eliminar archivos (PDF, imágenes) asociados al proyecto.                                                         |
 
-<img width="1851" height="913" alt="3433" src="https://github.com/user-attachments/assets/eabb2625-fa4e-43ad-818f-bc6cc2ec9a4b" />
-<img width="1847" height="921" alt="222" src="https://github.com/user-attachments/assets/d3818461-1c27-4b91-a7ca-990d97d338a2" />
-<img width="1868" height="919" alt="111" src="https://github.com/user-attachments/assets/0afbcb4d-49a1-4363-b9ac-f20ac16b9d9c" />
+![1](Imagenes/111.png)
+![2](Imagenes/3433.png)
+![3](Imagenes/222.png)
+
 
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
