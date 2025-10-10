@@ -2,7 +2,7 @@
   <img src="Imagenes/UPC_logo.png" alt="Logo UPC" width="200">
 </div>
 
-
+<div align="center">
 # Universidad Peruana de Ciencias Aplicadas
 
 ##  Ingeniería de Software
@@ -34,39 +34,12 @@ _Septiembre 2025_
 ## Registro de Versiones del Informe
 
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Versión</th><th>Fecha</th><th>Autor(es)</th><th>Descripción</th>
-    </tr>
-  </thead>
-  <body>
-    <tr>
-      <td><strong>1.0.0 (TB1)</strong></td>
-      <td>10/09/2025</td>
-      <td>
-          <ul>
-       <li>Saravia Huaricancha, Arturo Axel</li>
-       <li>Cumba Rengifo, Leonardo Raul</li>
-       <li>Palomares Andrade, Sean Farith</li>
-       <li>Perez Tuesta, Gabriel</li>
-       <li>Torrejon Navarro, Braulio Rodrigo</li>
-      </ul>
-      </td>
-      <td>Capítulo I: Introducción.
-       <br>
-       Capítulo II: Requirements Elicitation & Analysis
-         <br>
-        Capítulo III: Requirements Specification
-        <br>
-        Capítulo IV: Product Design
-         <br>
-        Capítulo V: Product Implementation, Validation & Deployment
-      </td>
-      
-    </tr>
-  </tbody>
-</table>
+  
+| **Versión** | **Fecha** | **Autor(es)** | **Descripción** |
+|--------------|------------|----------------|------------------|
+| **1.0.0 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
+| **2.0.0 (TP)** | 10/10/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo V: Sprint 2 |
+
 </div>
 
 ---
