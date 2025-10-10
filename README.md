@@ -883,7 +883,8 @@ Brindar a freelancers y emprendedores espacios flexibles de trabajo a través de
 
 ### **Logo**
 
-![Logo](https://media.discordapp.net/attachments/1410708960498946210/1416448769012142203/image.png?ex=68e9d1f6&is=68e88076&hm=f7fcb94679a7af2663c8a1992b0854c523a4cf6325ca1996ac939a2d81981611&=&format=webp&quality=lossless)
+![Logo](https://media.discordapp.net/attachments/1410708960498946210/1416448769012142203/image.png?ex=68e9d1f6&is=68e88076&hm=f7fcb94679a7af2663c8a1992b0854c523a4cf6325ca1996ac939a2d81981611&=&format=webp&quality=lossless)}
+
 Colores:
 
 El rojo cobrizo evoca energía y transformación, mientras que su variante más terrosa aporta estabilidad y sofisticación. Juntos, estos colores generan una atmósfera acogedora pero innovadora, ideal para conectar emocionalmente con usuarios que buscan actualizar sus espacios sin perder el sentido de hogar.
