@@ -2231,6 +2231,75 @@ Estructura de las ramas:
 
 - Gherkin es un lenguaje de dominio especializado usado en el desarrollo guiado por comportamiento (BDD), diseñado para mejorar la comunicación entre equipos de negocios y técnicos al abordar problemas específicos. Utiliza saltos de línea y palabras clave como "Given", "When", "Then" y "And" para mejorar la legibilidad y organización de los escenarios en BDD, facilitando una estructura clara y efectiva de diferentes tipos de casos.
 
+
+**C#**
+
+* Nombres
+
+PascalCase para clases/métodos/propiedades; kebab-case para variables y parámetros.
+
+Interfaces con I (IPaymentService), enums y miembros en PascalCase.
+
+* Arquitectura
+
+Capas: API (endpoints), Application (casos de uso), Domain (entidades/reglas), Infrastructure (EF Core/externos).
+
+Una clase pública por archivo; namespace file-scoped.
+
+* Async
+
+Métodos asíncronos terminan en Async; no usar .Result/.Wait(); pasar CancellationToken.
+
+* Inyección de dependencias
+
+Constructor Injection; registrar servicios en Program.cs o extensiones AddXyz().
+
+* API
+
+Endpoints REST con verbos correctos y rutas en kebab-case.
+
+No exponer entidades de dominio: usar DTOs (records) y mapeo.
+
+* Validación
+
+FluentValidation (o DataAnnotations) en DTOs de entrada.
+
+* EF Core
+
+Configuración con Fluent API en IEntityTypeConfiguration\<\>.
+
+AsNoTracking() para lecturas; transacciones cuando aplique.
+
+* Errores & Logging
+
+Middleware global que convierta excepciones en ProblemDetails.
+
+ILogger\<T\> con mensajes estructurados.
+
+* Seguridad
+
+Autenticación JWT y autorización por políticas/roles.
+
+CORS restringido; nunca secretos en código (usar User Secrets/KeyVault).
+
+* Código limpio
+
+var cuando el tipo es evidente; LINQ claro; comentarios breves y útiles.
+
+* Pruebas
+
+Unit tests (xUnit/NUnit \+ FluentAssertions) y de integración con WebApplicationFactory.
+
+* Commits/CI
+
+Commits semánticos feat/fix/refactor/test.
+
+Pipeline: build, tests, analizadores (Roslyn/StyleCop).
+
+
+
+
+
 ### 5.1.4. Software Deployment Configuration
 
 La landing page es una aplicación estática que se publica habitualmente mediante GitHub Pages. La configuración actual del repositorio respalda un despliegue directo desde la rama que actúe como producción.
@@ -2292,7 +2361,7 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 
 | User Story ID | Título                                     | Work-Item ID | Título de la tarea             | Descripción                                                          | Estimación (h) | Responsable                         |
 | ------------- | ------------------------------------------ | ------------ | ------------------------------ | -------------------------------------------------------------------- | -------------: | ----------------------------------- |
-| US01          | Visualización de servicios de remodelación | SB1-01       | Setup del proyecto FE          | Repo, Vite/React, Tailwind, ESLint, rutas públicas, CI básico.       |              5 | **Arturo Axel Saravia Huaricancha** |
+| US01          | Visualización de servicios de remodelación | SB1-01       | Setup del proyecto FE          | Repo, Vite/Vue 3,CSS,Vue Router (rutas públicas), CI básico (GitHub Actions).|5 | **Arturo Axel Saravia Huaricancha** |
 | US01          | Visualización de servicios de remodelación | SB1-02       | Navbar + Header responsivo     | Logo, menú, CTA “Solicitar cotización”, sticky y scroll active.      |              4 | **Braulio Rodrigo Cumba Rengifo**   |
 | US01          | Visualización de servicios de remodelación | SB1-03       | Sección “Servicios”            | Cards de tipos de remodelación con iconos e info breve.              |              4 | **Leonardo Raúl Palomares Andrade** |
 | US01          | Visualización de servicios de remodelación | SB1-04       | CTA principal (Hero)           | Hero con copy, imagen, CTAs “Ver proyectos” y “Pedir presupuesto”.   |              3 | **Sean Farith Pérez Tuesta**        |
