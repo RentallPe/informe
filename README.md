@@ -1,4 +1,4 @@
-<p align="center">
+<img width="3677" height="1198" alt="image" src="https://github.com/user-attachments/assets/5ce110d1-d3bd-4b6e-8bd6-3ed25da3ce8c" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/e70e1f4a-04f6-4950-8b2f-2bb14fc038d5" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/3c35a12a-511e-4222-bb25-7ce6db16ecf5" /><img width="7363" height="2616" alt="image" src="https://github.com/user-attachments/assets/d2a82ae3-faab-4a68-8f9a-fe45888ee6ea" /><p align="center">
   <img src="Imagenes\UPC_logo.png"
        alt="Logo UPC" width="200">
 </p>
@@ -1348,23 +1348,23 @@ User goal:
 Los Mockups que se mostrará en esta sección corresponden a como se veria en una web application, en las imagenes, se van a poder observar los elementos anteriormentes mencionados, es decir, la tipografia, imagenes, spacind, paleta de colores y entre otros
 
 - Inicio de la Aplicación: Menú principal al momento de abrir la pagina
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419200773262413844/image.png?ex=68d0e537&is=68cf93b7&hm=85731c9efdfca74dcdda69c26c254a5ff12bc2918c986f770c3cbcce508d639a&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217639552847923/Lluvia_de_ideas_en_equipo_-_Pagina_1_8.png?ex=68ea016d&is=68e8afed&hm=b6c0c5e28fc72590853f137c982b5fcf66ae43a6646014055ea1234f6e609887&=&format=webp&quality=lossless&width=1872&height=383)
 - Creacion de cuenta: Usuario crea su cuenta
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201011070931065/image.png?ex=68d0e570&is=68cf93f0&hm=83ac0b37eb7b362e1545b186053c46790c643011ced4b7630d191a464e8b134f&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217656376197210/Lluvia_de_ideas_en_equipo_-_Pagina_1_9.png?ex=68ea0171&is=68e8aff1&hm=b914473cd0a5b5612e3e3b3e228b21484b3cc724d7fe2a7248a3185d8e56a4c4&=&format=webp&quality=lossless&width=550&height=111)
 - Dashboard: pagina principal
   ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201150569287721/image.png?ex=68d0e591&is=68cf9411&hm=40c8ca18674fef40acf1da4115aec41309fc8539a756bee33e89a3879e2a1048&=&format=webp&quality=lossless)
 - Alertas: Alertas de la aplicación
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201437510013050/image.png?ex=68d0e5d6&is=68cf9456&hm=de471c8c08acb05e976baebeb7cd0aecf669ec09e94ec7ee07efa651fa9b106b&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419218739760730152/Lluvia_de_ideas_en_equipo_-_Pagina_1_13.png?ex=68ea0273&is=68e8b0f3&hm=8a6104bc2f9cd2d28f77138201982cff9a3854a2e62a40ef871489047e43cff7&=&format=webp&quality=lossless&width=1872&height=610)
 - Mis propiedades: Las propiedades del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201513082978404/image.png?ex=68d0e5e8&is=68cf9468&hm=2c8d994a13f4550a5ada4154d9608d43b6521d8a027de4b239fb698dee6aaac5&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217680484794438/Lluvia_de_ideas_en_equipo_-_Pagina_1_12.png?ex=68ea0176&is=68e8aff6&hm=c4b79ad9af09b4ecd3425187ec2cff0d834a4b0ec426ede408e4cd4a7b3f346d&=&format=webp&quality=lossless&width=1872&height=810)
 - Mi perfil: El perfil del usuario
   ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201587548655730/image.png?ex=68d0e5f9&is=68cf9479&hm=1229ac132b7b924b0592e7959e6411d9e64bd13529c4ede283869abe32b18113&=&format=webp&quality=lossless)
 - Consumo: consumo del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201650744365169/image.png?ex=68d0e609&is=68cf9489&hm=516dd64eeab738538a2e69416600bd1f4ce4455e0b356482ae2df8d136a92a84&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217667012821022/Lluvia_de_ideas_en_equipo_-_Pagina_1_10.png?ex=68ea0173&is=68e8aff3&hm=4ebfc01b4492d557afd29fbf40f93003976ee4417396527d4531d1b7a6d05b60&=&format=webp&quality=lossless&width=1872&height=665)
 - Cuenta: La cuenta del usuario
   ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201693941366804/image.png?ex=68d0e613&is=68cf9493&hm=ccc3097ab0ef3ddb2de00f878c9b50eec0ba66b64be520a005be55fb008ac1e5&=&format=webp&quality=lossless)
 - Soporte: El soporte donde se puede crear una incidencia
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201801114091540/image.png?ex=68d0e62c&is=68cf94ac&hm=9728f64a7f2e233023585b8dc87eb8b425efc42586973d8d6bdd188eb345bc46&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217672008241182/Lluvia_de_ideas_en_equipo_-_Pagina_1_11.png?ex=68ea0174&is=68e8aff4&hm=88bdd3ff28c921773f59c34e9a0851688c4cfb9fe124e5138f7f96b2774c648d&=&format=webp&quality=lossless&width=1872&height=290)
 - Nuevo proyecto: Usuario quiere adquirr mas camaras o mas productos
   ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201857615560745/image.png?ex=68d0e63a&is=68cf94ba&hm=cce75fe084cd336ff5176009482e1836c7fec025b02d01a2156a50838bb0f5f1&=&format=webp&quality=lossless)
 
