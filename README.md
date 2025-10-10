@@ -2424,10 +2424,39 @@ Se realizó el despliegue de la **landing page** del proyecto _AgeCare_, marcand
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo por todo el equipo.
 
 
-##### 5.2.2. Sprint 2##### 
-##### 5.2.2.1.Sprint Planning 2.##### 
-##### 5.2.2.2. Aspect Leaders and Collaborators.##### 
-##### 5.2.2.3.Sprint Backlog 2.##### 
+##### 5.2.2. Sprint 2 
+
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 2.
+
+##### 5.2.2.1.Sprint Planning 2.
+
+El Sprint Planning 2 es una reunión esencial para iniciar el segundo sprint de un proyecto, donde el equipo entrega la primera version funcional de la applicacion, con la parte de autenticacion, gestion de perfil y CRUDs principales.
+
+| Sprint \# | Sprint 2 |
+| ----- | ----- |
+| **Date** | 2025-09-09 |
+| **Time** | 9:00 PM |
+| **Location** | Virtual – Meet |
+| **Prepared By** | Arturo Saravia |
+| **Attendees (to planning meeting)** | Arturo Axel Saravia Huaricancha, Cumba Rengifo, Leonardo Raúl Palomares Andrade, Sean Farith Pérez Tuesta, Gabriel Torrejón Navarro, Braulio Rodrigo |
+| **Sprint n \- 2 Review Summary** | Se completó la **landing page** (servicios, proyectos, beneficios IoT), **testimonios**, **contacto**, **multilenguaje** y **diseño responsive**. Se integró analítica básica y se definió paleta/estilos. Se entregó demo pública y feedback inicial. |
+| **Sprint n \- 2 Retrospective Summary** | Mantener DoD y revisiones por pares. Mejorar estimaciones y desglose de tareas. Acordado **branching “feature/**”\*\*, convención de commits y PR template. Se añadirán checks de CI (lint & tests) antes del merge. |
+| **Sprint 2 Goal** | Entregar la **primera versión funcional de la web application** con **autenticación** (registro/login/logout), **gestión de perfil**, y **CRUDs principales**: Propiedades, Proyectos, Presupuestos y Tareas. Incluir validaciones, paginación básica, mensajes de error/éxito y **seed data**. Dejar conectado el **notificador** (mock) y una vista inicial de **dashboard** (tablas/listas). |
+| **Sprint 2 Velocity** | 18 Story Points (referencia mantenida). |
+| **Sum of Story Points** | 18 |
+
+
+##### 5.2.2.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----------------------------------- | --------------- | ------------------- |
+| Arturo Axel Saravia Huaricancha     | thunder053      | L                   |
+| Cumba Rengifo, Leonardo Raúl        | LeonardoC72     | C                   |
+| Palomares Andrade, Sean Farith      | Sean6513201     | C                   |
+| Pérez Tuesta, Gabriel               | Gabyoko         | C                   |
+| Braulio Rodrigo                     | BraulioTN       | C                   |
+
+##### 5.2.2.3.Sprint Backlog 2. 
 
 | User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -2451,17 +2480,20 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 
 
 
-##### 5.2.2.4.Development Evidence for Sprint Review.##### 
+##### 5.2.2.4.Development Evidence for Sprint Review.
+En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes del equipo en la construcción del frontend web application.
+<p align="center">
+<img width="672" height="166" alt="sprint 2" src="https://github.com/user-attachments/assets/8846b6c3-bb2b-46d1-919f-a7dc1f743d9b" />
+</p>
+
+##### 5.2.2.5.Execution Evidence for Sprint Review. 
 
 
-##### 5.2.2.5.Execution Evidence for Sprint Review.##### 
+##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
+##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
-##### 5.2.2.6.Services Documentation Evidence for Sprint Review.##### 
-
-##### 5.2.2.7.Software Deployment Evidence for Sprint Review.##### 
-
-##### 5.2.2.8.Team Collaboration Insights during Sprint.##### 
+##### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 
 
