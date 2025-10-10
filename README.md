@@ -2359,28 +2359,26 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 
 Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
 
-| User Story ID | Título                                     | Work-Item ID | Título de la tarea             | Descripción                                                          | Estimación (h) | Responsable                         |
-| ------------- | ------------------------------------------ | ------------ | ------------------------------ | -------------------------------------------------------------------- | -------------: | ----------------------------------- |
-| US01          | Visualización de servicios de remodelación | SB1-01       | Setup del proyecto FE          | Repo, Vite/Vue 3,CSS,Vue Router (rutas públicas), CI básico (GitHub Actions).|5 | **Arturo Axel Saravia Huaricancha** |
-| US01          | Visualización de servicios de remodelación | SB1-02       | Navbar + Header responsivo     | Logo, menú, CTA “Solicitar cotización”, sticky y scroll active.      |              4 | **Braulio Rodrigo Cumba Rengifo**   |
-| US01          | Visualización de servicios de remodelación | SB1-03       | Sección “Servicios”            | Cards de tipos de remodelación con iconos e info breve.              |              4 | **Leonardo Raúl Palomares Andrade** |
-| US01          | Visualización de servicios de remodelación | SB1-04       | CTA principal (Hero)           | Hero con copy, imagen, CTAs “Ver proyectos” y “Pedir presupuesto”.   |              3 | **Sean Farith Pérez Tuesta**        |
-| US02          | Visualización de sección de proyectos      | SB1-05       | Sección “Proyectos destacados” | Grid con 6 proyectos, hover con métricas y link a detalle.           |              4 | **Gabriel Torrejón Navarro**        |
-| US02          | Visualización de sección de proyectos      | SB1-06       | Carrusel/slider de casos       | Carrusel con flechas y autoplay accesible.                           |              3 | **Arturo Axel Saravia Huaricancha** |
-| US03          | Visualización de beneficios IoT            | SB1-07       | Sección “Beneficios IoT”       | Tres bloques (energía, ambiente, seguridad) con iconografía.         |              3 | **Braulio Rodrigo Cumba Rengifo**   |
-| US03          | Visualización de beneficios IoT            | SB1-08       | Micro-interacciones            | Animaciones al hacer scroll (AOS/Framer Motion).                     |              3 | **Leonardo Raúl Palomares Andrade** |
-| US10          | Dejar opiniones                            | SB1-09       | Sección “Testimonios”          | Tarjetas con foto, nombre, rating y comentario.                      |              3 | **Sean Farith Pérez Tuesta**        |
-| US24          | Calificación del servicio                  | SB1-10       | Componente de rating           | Estrellas accesibles y promedio mostrado en testimonios.             |              3 | **Gabriel Torrejón Navarro**        |
-| US29          | Multilenguaje                              | SB1-11       | Infra de i18n (ES/EN)          | i18next, JSONs, selector de idioma en navbar.                        |              4 | **Arturo Axel Saravia Huaricancha** |
-| US29          | Multilenguaje                              | SB1-12       | Traducción de secciones        | Hero, servicios, proyectos, beneficios y footer.                     |              3 | **Braulio Rodrigo Cumba Rengifo**   |
-| US49          | Modo oscuro                                | SB1-13       | Toggle Dark Mode               | Toggle con persistencia (localStorage, prefers-color).               |              3 | **Leonardo Raúl Palomares Andrade** |
-| US50          | Acceso móvil optimizado                    | SB1-14       | Responsive XS–XL               | Mobile-first, touch targets, tipografía y grids.                     |              5 | **Sean Farith Pérez Tuesta**        |
-| US01/02/03    | SEO y Open Graph                           | SB1-15       | Metadatos y SEO básico         | Title/description por ruta, OG tags, sitemap, robots.txt.            |              3 | **Gabriel Torrejón Navarro**        |
-| US01          | Form “Pedir presupuesto” (mock)            | SB1-16       | Form lead simple               | Nombre, email, tipo de obra; validaciones y toast de enviado (mock). |              4 | **Arturo Axel Saravia Huaricancha** |
-| US01/02       | Performance inicial                        | SB1-17       | Optimización de imágenes       | Lazy loading, srcset y compresión.                                   |              3 | **Braulio Rodrigo Cumba Rengifo**   |
-| US01–US50     | Accesibilidad                              | SB1-18       | A11y base                      | Semántica, contraste, focus visible, roles/aria, teclado.            |              3 | **Leonardo Raúl Palomares Andrade** |
-| US01/02/03    | Analytics                                  | SB1-19       | Etiquetado de eventos          | Pageviews y eventos de CTA con capa de datos (mock).                 |              3 | **Sean Farith Pérez Tuesta**        |
-| US01–US50     | Deploy                                     | SB1-20       | Despliegue y preview           | Pipeline a Vercel/Netlify, dominios y previews por PR.               |              3 | **Gabriel Torrejón Navarro**        |
+| User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| US01 | Visualización de servicios de remodelación | SB1-01 | Setup del proyecto FE | Repo, **Vite/Vue 3**, Tailwind, ESLint+Prettier, Vue Router (rutas públicas), CI básico (GH Actions). | 5 | **Arturo Axel Saravia Huaricancha** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-02 | Arquitectura de carpetas | Definir estructura `/src` (components, views, assets, composables) y convenciones de nombres. | 3 | **Cumba Rengifo** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-03 | Header & Navbar | Componente con logo, navegación anclada a secciones, estado sticky. | 4 | **Leonardo Raúl** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-04 | Sección **Hero** | Titular, subtítulo, imagen/ilustración y CTA primario “Empieza tu remodelación”. | 4 | **Palomares Andrade** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-05 | Sección **Servicios** | Grid con tipos de remodelación, iconografía y breve descripción. | 4 | **Sean Farith** | Done |
+| US03 | Visualización de beneficios IoT | SB1-06 | Sección **Beneficios IoT** | Explicar monitoreo, alertas y ahorro; mini-cards con KPIs de ejemplo. | 4 | **Pérez Tuesta, Gabriel** | In-Process |
+| US02 | Visualización de proyectos | SB1-07 | Sección **Proyectos** | Galería con 4–6 proyectos (imagen, título, resultado/beneficio). | 4 | **Torrejón Navarro, Braulio Rodrigo** | In-Process |
+| US10 | Testimonios | SB1-08 | Sección **Testimonios** | Carrusel simple con 3 testimonios (texto \+ nombre/rol). | 3 | **Cumba Rengifo** | To-Do |
+| US01 | Visualización de servicios de remodelación | SB1-09 | CTA / Contacto | Bloque con llamada a la acción y botones a contacto/formulario futuro. | 3 | **Leonardo Raúl** | To-Do |
+| US01 | Visualización de servicios de remodelación | SB1-10 | Footer | Enlaces, redes, aviso legal básico. | 3 | **Palomares Andrade** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-11 | **Responsive** (sm/md/lg) | Ajustes de diseño con Tailwind para mobile-first y tablets/escritorio. | 4 | **Sean Farith** | In-Process |
+| EP01 | Estándares FE | SB1-12 | Accesibilidad básica | Etiquetas semánticas, `alt` en imágenes, contraste, focus visible y orden de tabulación. | 3 | **Pérez Tuesta, Gabriel** | To-Do |
+| EP03 | Contenido | SB1-13 | Copys y microcopy | Redacción breve y clara para cada sección de la landing. | 3 | **Arturo Axel Saravia Huaricancha** | Done |
+| EP03 | Estilo visual | SB1-14 | Sistema de estilos | Tokens (colores, tipografías), espaciados y componentes base (botón, card). | 3 | **Torrejón Navarro, Braulio Rodrigo** | Done |
+| EP01 | Calidad | SB1-15 | Linter & Pre-commit | ESLint/Prettier configurados \+ hooks con Husky (formateo y lint antes de commit). | 3 | **Cumba Rengifo** | Done |
+| EP01 | DevOps | SB1-16 | **Deploy** preview | Despliegue a **Vercel/Netlify** con pipeline automático (preview por PR). | 3 | **Leonardo Raúl** | In-Process |
+| EP01 | Calidad | SB1-17 | Pruebas básicas UI | Smoke tests manuales, checklist de navegación y enlaces, sin E2E todavía. | 3 | **Palomares Andrade** | To-Do |
+| EP01 | Gestión | SB1-18 | Tareas de pulido | Corrección de pequeños bugs visuales, tiempos de carga y mejoras de UX. | 3 | **Equipo** | To-Do |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -2424,6 +2422,60 @@ Se realizó el despliegue de la **landing page** del proyecto _AgeCare_, marcand
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo por todo el equipo.
+
+
+##### 5.2.2. Sprint 2##### 
+##### 5.2.2.1.Sprint Planning 2.##### 
+##### 5.2.2.2. Aspect Leaders and Collaborators.##### 
+##### 5.2.2.3.Sprint Backlog 2.##### 
+
+| User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| US07 | Personalización de perfil | SB2-01 | Módulo **Auth** \+ guardas | Vistas de Login/Logout, sesión en Pinia, protección de rutas privadas, persistencia en `localStorage`. | 6 | **Arturo Axel Saravia Huaricancha** | Done |
+| US30 | Filtrado de proyectos | SB2-02 | Tabla reutilizable (DataTable) | Componente genérico con paginación, orden y filtros; slots para acciones (editar/eliminar/ver). | 5 | **Cumba Rengifo** | Done |
+| US09 | Historial de proyectos | SB2-03 | CRUD **Proyectos** (UI) | Lista, crear, editar, eliminar y detalles; validaciones con VeeValidate/Yup; uso de DataTable. | 6 | **Leonardo Raúl** | Done |
+| US33 | Gestión de documentos | SB2-04 | Documentos por proyecto | Subir (PDF/JPG/PNG), listar y eliminar documentos asociados a un proyecto; previsualización básica. | 5 | **Palomares Andrade** | Done |
+| — | Entidad base | SB2-05 | CRUD **Propiedades** (UI) | ABM de propiedades (dirección, metraje, estado); relación con propietario/usuario; formulario y tabla. | 6 | **Sean Farith** | Done |
+| US14 | Comparación de presupuestos | SB2-06 | CRUD **Presupuestos** (UI) | Alta/edición con monto, proveedor y tiempo estimado; estado; adjuntar documento de cotización. | 5 | **Pérez Tuesta, Gabriel** | Done |
+| — | Catálogo | SB2-07 | CRUD **Proveedores** (UI) | Listado, creación/edición y baja; contacto y rubro. | 4 | **Torrejón Navarro, Braulio Rodrigo** | Done |
+| EP05 | Calidad | SB2-08 | Servicio **API** único | Cliente Axios/Fetch con interceptores, baseURL, manejo de `401/403/500`, `retry` simple, tipado de respuestas. | 4 | **Arturo Axel Saravia Huaricancha** | Done |
+| EP05 | UX | SB2-09 | Notificaciones y manejo de errores | Toaster global (success/error/info), mapeo de mensajes del backend, estados vacíos/errores en tablas. | 3 | **Cumba Rengifo** | Done |
+| EP01 | Estado | SB2-10 | **Pinia** stores por módulo | Stores para proyectos, propiedades, presupuestos y proveedores; acciones async y caché simple. | 4 | **Leonardo Raúl** | Done |
+| US31 | Resumen financiero | SB2-11 | Panel básico del proyecto | Cards con totales (presupuesto, gasto), conteo de documentos y avance por tareas (placeholder). | 3 | **Palomares Andrade** | In-Process |
+| US28 | Configuración de notificaciones | SB2-12 | Preferencias de usuario | Vista simple para activar/desactivar emails/push (persistencia en backend cuando esté disponible). | 3 | **Sean Farith** | To-Do |
+| EP01 | Accesibilidad | SB2-13 | A11y en formularios | Labels, `aria-*`, mensajes de error accesibles, foco gestionado tras navegar/modales. | 3 | **Pérez Tuesta, Gabriel** | Done |
+| EP01 | DevOps | SB2-14 | Despliegue continuo | Actualizar pipeline (preview por PR \+ deploy main), variables de entorno para API URL y feature flags. | 3 | **Torrejón Navarro, Braulio Rodrigo** | Done |
+| EP01 | Pruebas | SB2-15 | Smoke tests de CRUDs | Casos manuales y checklists: crear/editar/eliminar en cada entidad \+ verificación de guardas/estado. | 3 | **Equipo** | In-Process |
+| US18 | Registro de incidencias (opcional en S2) | SB2-16 | Backlog preparado | Boceto de UI y rutas para próximas iteraciones; definición de modelo y endpoints esperados. | 3 | **Equipo** | To-Do |
+
+
+
+
+##### 5.2.2.4.Development Evidence for Sprint Review.##### 
+
+
+##### 5.2.2.5.Execution Evidence for Sprint Review.##### 
+
+
+##### 5.2.2.6.Services Documentation Evidence for Sprint Review.##### 
+
+##### 5.2.2.7.Software Deployment Evidence for Sprint Review.##### 
+
+##### 5.2.2.8.Team Collaboration Insights during Sprint.##### 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Conclusiones
 
