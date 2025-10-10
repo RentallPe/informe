@@ -1,5 +1,4 @@
-
-<img src="Imagenes\UPC_logo.png"
+   <img src="Imagenes\UPC_logo.png"
        alt="Logo UPC" width="200">
 </p>
 <div align="center">
@@ -597,7 +596,7 @@ Resumen de la entrevista: Las respuestas indican que su mayor dolor está en la 
 
 **Screenshot de la Entrevista:**
 
-![img](<img width="805" height="450" alt="image" src="https://github.com/user-attachments/assets/1c0d7eb9-85d3-488f-9f8c-9ccfdfe902e7" />
+![img](https://media.discordapp.net/attachments/1419200584992559239/1419235235836723241/image.png?ex=68ea11d0&is=68e8c050&hm=eb46185921c805942288fc7b08b548b4092e0ffd948a3780ee4f42dd79f80de1&=&format=webp&quality=lossless
 )
 
 **Timelapse:** [Inicio: 00:00, Fin: 04:00]
