@@ -2022,7 +2022,7 @@ La creación de la documentación de Web Services mediante OpenAPI/Swagger se pr
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Se realizó el despliegue de la **landing page** del proyecto _AgeCare_, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
+Se realizó el despliegue de la **landing page** del proyecto _RentallPe_, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2103,12 +2103,15 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
+Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend web application, se implementaron endpoints con funcionalidades relacionadas con servicios web o APIs RESTful.
+
 ##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Se realizó el despliegue de la web frontend application del proyecto RentallPe, marcando el primer paso hacia la publicación progresiva de los productos del sistema. 
 
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
 
-
-
+Para este sprint, las tareas de desarrollo, implementación y documentación de la web application se distribuyó entre los integrantes del equipo. La implementación, desarrollo y despliegue fue llevado a cabo por todo el equipo.
 
 
 
