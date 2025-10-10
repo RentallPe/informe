@@ -1672,13 +1672,15 @@ https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJR
 #### 4.6.2. Software Architecture Context Diagram
 
 <p align="center">
-  <img src="./Imagenes/Context Diagram.png" alt="Context Diagram.png""/>
+  <img width="595" height="679" alt="1" src="https://github.com/user-attachments/assets/b51367b4-70bf-404d-b2d2-66c1239a8c3a" />
+
 </p>
 
 #### 4.6.3. Software Architecture Container Diagrams
 
 <p align="center">
-  <img src="./Imagenes/Container Diagrams.png" alt="Container Diagrams.png""/>
+  <img width="978" height="1050" alt="2" src="https://github.com/user-attachments/assets/159862c9-e67f-40f5-9d94-18e50f9281ad" />
+
 </p>
 
 #### 4.6.4. Software Architecture Components Diagrams
@@ -1686,31 +1688,36 @@ https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJR
 **Identity & Access Management BC**
 
 <p align="center">
-  <img src="./Imagenes/Componet Identity & Access Management BC.png" alt="Componet Identity & Access Management BC.png""/>
+<img width="865" height="659" alt="3" src="https://github.com/user-attachments/assets/acdd7077-a4be-468e-9fc7-08f8ada1ef90" />
+
 </p>
 
 **IoT Monitoring & Notifications BC**
 
 <p align="center">
-  <img src="./Imagenes/Componet IoT Monitoring & Notifications BC.png" alt="Componet IoT Monitoring & Notifications BC.png""/>
+ <img width="571" height="668" alt="4" src="https://github.com/user-attachments/assets/00e20c29-8084-43a3-aff4-d5179eef3704" />
+
 </p>
 
 **Payment Management BC**
 
 <p align="center">
-  <img src="./Imagenes/Componet Payment Management BC.png" alt="Componet Payment Management BC.png""/>
+ <img width="891" height="566" alt="5" src="https://github.com/user-attachments/assets/51fd730b-9808-4d5c-a979-3d2a5f19a6a7" />
+
 </p>
 
 **Profile & Preferences BC**
 
 <p align="center">
-  <img src="./Imagenes/Componet Profile & Preferences BC.png" alt="Componet Profile & Preferences BC.png""/>
+  <img width="641" height="664" alt="6" src="https://github.com/user-attachments/assets/6355a4db-9648-45ad-a2b6-d748a6600dd7" />
+
 </p>
 
 **Reports & Advanced Features BC**
 
 <p align="center">
-  <img src="./Imagenes/Componet Reports & Advanced Features BC.png" alt="Componet Reports & Advanced Features BC.png""/>
+  <img width="432" height="657" alt="7" src="https://github.com/user-attachments/assets/ff1ef07d-f338-4cec-bbac-85c61d0271d1" />
+
 </p>
 
 ### 4.7. Software Object-Oriented Design
