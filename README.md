@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-# Universidad Peruana de Ciencias Aplicadas
+Universidad Peruana de Ciencias Aplicadas
 
 ##  Ingeniería de Software
 
