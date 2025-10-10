@@ -1121,21 +1121,21 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 
 #### 4.3.1. Landing Page Wireframe
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219787929882634/image.png?ex=68d0f6ed&is=68cfa56d&hm=bac6d500398f81344b7d9d6eaced10feec8f8b4b12dced1fe878dc6f17339bad&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219836613169172/image.png?ex=68d0f6f8&is=68cfa578&hm=7cb088e3334884b389b897a76459c528ea50013b777906a796df1d490150ded3&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219887879880825/image.png?ex=68d0f705&is=68cfa585&hm=cfb5781b5ad3a0194e4378f72f79a5f3d05e20c5f31c20a9d39c3ec45e421ebe&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219919450669266/image.png?ex=68d0f70c&is=68cfa58c&hm=297cd69b6684113bb459b9d5c888ee6d79e7ddb78fd6dac1200b9c68d5e7b85a&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219957861974117/image.png?ex=68d0f715&is=68cfa595&hm=96019ee49658682f6bff86731f2d5a8d61ddb490b17579f1c781214f3e9ad307&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220031006445588/image.png?ex=68d0f727&is=68cfa5a7&hm=7fbb873ca7632af51832d391c8187717c4eb8b2aafa9e562bdef621f5864021b&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219787929882634/image.png?ex=68ea036d&is=68e8b1ed&hm=d0f8e01a1799ca593029c97779e6c420f87514c995af9f4dc520e3490b554165&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219836613169172/image.png?ex=68ea0378&is=68e8b1f8&hm=af42debc970f2615600fd1a8d7b2fd67edd4fc11946bce5d2543e6b45304b004&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219887879880825/image.png?ex=68ea0385&is=68e8b205&hm=39c1ff9551e910b91cd34420df275df85898dc7d3e9e6033643fb7fc8f52eecb&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219919450669266/image.png?ex=68ea038c&is=68e8b20c&hm=9d6e2a4372d2bdb7b42f56c1df92b76e1f136eb1849ec8c7f38dc3118917dd46&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219957861974117/image.png?ex=68ea0395&is=68e8b215&hm=6ff4b416ea66ca233cdd9db6f7c1327686ab686e9891d88e15bb7f16534d1bf6&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220031006445588/image.png?ex=68ea03a7&is=68e8b227&hm=c8db9107f36f90366a3196043e1648231a7593cf5557579ea798fc0856b5e988&=&format=webp&quality=lossless)
 
 #### 4.3.2. Landing Page Mock-up
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220106684399719/image.png?ex=68d0f739&is=68cfa5b9&hm=e093273b66746e092eef7fb4fe6972ae9c4bc01ecf49e5ca91656aa71da907fe&=&format=webp&quality=lossless&width=538&height=350)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220149612969995/image.png?ex=68d0f743&is=68cfa5c3&hm=75a734905fb5d23ef351e112ba73db2f19d0061e0ee6931cf2d79c5361ac32c9&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220197499473960/image.png?ex=68d0f74e&is=68cfa5ce&hm=a2ca3cf183a85127395e1a872beaa9865d840c5f1d3b8c0179e6d2b51b5cb8ea&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220238934868078/image.png?ex=68d0f758&is=68cfa5d8&hm=6ad45c42b5d5fc083787dda1dabdc8525b14f83f498851df5cd192016126ef71&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220276264173638/image.png?ex=68d0f761&is=68cfa5e1&hm=89713f23c421f33d38927db2f2036eb79fb285c85ab8b61b34931431e0cd6032&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220312586981388/image.png?ex=68d0f76a&is=68cfa5ea&hm=3f8c96984f1591673b6e2978e55d7abcfd1610ef0af2fe75070f9da2d39a4bee&=&format=webp&quality=lossless)
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200623710179358/Lluvia_de_ideas_en_equipo.png?ex=68e9f194&is=68e8a014&hm=edac92bb3c18277f7a440a096f2ad018f16e989404c7843f77ec84f325f4a031&=&format=webp&quality=lossless&width=470&height=978)
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200634036420740/Lluvia_de_ideas_en_equipo_-_Pagina_1.png?ex=68e9f196&is=68e8a016&hm=b5fd705d6aff69a1bf850c120174331def8264e7fe5a3b70155676b094d8c15d&=&format=webp&quality=lossless&width=876&height=978)
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200639619301406/Lluvia_de_ideas_en_equipo_-_Pagina_1_1.png?ex=68e9f197&is=68e8a017&hm=2238c31c7a9193afa1231562f644260a951836d3854075aa989d32bda4f19571&=&format=webp&quality=lossless&width=312&height=350)
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200647634358402/Lluvia_de_ideas_en_equipo_-_Pagina_1_2.png?ex=68e9f199&is=68e8a019&hm=a9d315429f668a37705ef6b254379db544148f98c48aabc7f61c238374f973c9&=&format=webp&quality=lossless&width=656&height=978)
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200663002550342/Lluvia_de_ideas_en_equipo_-_Pagina_1_5.png?ex=68e9f19d&is=68e8a01d&hm=cc2e4bc952eb9876dd0fdea95cfea34373960164f64c59ad77397a2c94fbb2b8&=&format=webp&quality=lossless&width=544&height=978)
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419200668547158146/Lluvia_de_ideas_en_equipo_-_Pagina_1_6.png?ex=68e9f19e&is=68e8a01e&hm=d2bfbb4fc18cd54736d0815a585d4cdbc5ee0b3a2265e2c7636aa5b328947ac5&=&format=webp&quality=lossless&width=199&height=350)
 
 ### 4.4. Web Applications UX/UI Design
 
