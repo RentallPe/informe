@@ -1,4 +1,4 @@
-<img width="805" height="450" alt="image" src="https://github.com/user-attachments/assets/7d2463fc-35dd-4729-9922-734310d6f081" /><img width="805" height="450" alt="image" src="https://github.com/user-attachments/assets/f48d5172-81f0-4a23-ab4e-773c639915e8" /><img width="6205" height="1256" alt="image" src="https://github.com/user-attachments/assets/9930effa-e826-4981-9be6-36ff4442aa32" /><img width="6325" height="1294" alt="image" src="https://github.com/user-attachments/assets/b1665a02-4702-449c-89d7-098678781751" /><img width="946" height="616" alt="image" src="https://github.com/user-attachments/assets/0b14cc5d-db4f-4cf8-a516-e5ca926dd521" /><img width="951" height="612" alt="image" src="https://github.com/user-attachments/assets/aaa8f861-130c-4cb4-bc2f-a47c28549262" /><img width="955" height="615" alt="image" src="https://github.com/user-attachments/assets/0c6bdd4d-1c28-4df5-8add-ba5e3c17cb5b" /><img width="3677" height="1198" alt="image" src="https://github.com/user-attachments/assets/5ce110d1-d3bd-4b6e-8bd6-3ed25da3ce8c" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/e70e1f4a-04f6-4950-8b2f-2bb14fc038d5" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/3c35a12a-511e-4222-bb25-7ce6db16ecf5" /><img width="7363" height="2616" alt="image" src="https://github.com/user-attachments/assets/d2a82ae3-faab-4a68-8f9a-fe45888ee6ea" /><p align="center">
+<img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/bda8acc2-5277-49ef-9a1a-8153b46a57e4" /><img width="7363" height="2616" alt="image" src="https://github.com/user-attachments/assets/2fbac918-3ca6-46ae-b50c-11cca9c437e2" /><img width="805" height="450" alt="image" src="https://github.com/user-attachments/assets/7d2463fc-35dd-4729-9922-734310d6f081" /><img width="805" height="450" alt="image" src="https://github.com/user-attachments/assets/f48d5172-81f0-4a23-ab4e-773c639915e8" /><img width="6205" height="1256" alt="image" src="https://github.com/user-attachments/assets/9930effa-e826-4981-9be6-36ff4442aa32" /><img width="6325" height="1294" alt="image" src="https://github.com/user-attachments/assets/b1665a02-4702-449c-89d7-098678781751" /><img width="946" height="616" alt="image" src="https://github.com/user-attachments/assets/0b14cc5d-db4f-4cf8-a516-e5ca926dd521" /><img width="951" height="612" alt="image" src="https://github.com/user-attachments/assets/aaa8f861-130c-4cb4-bc2f-a47c28549262" /><img width="955" height="615" alt="image" src="https://github.com/user-attachments/assets/0c6bdd4d-1c28-4df5-8add-ba5e3c17cb5b" /><img width="3677" height="1198" alt="image" src="https://github.com/user-attachments/assets/5ce110d1-d3bd-4b6e-8bd6-3ed25da3ce8c" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/e70e1f4a-04f6-4950-8b2f-2bb14fc038d5" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/3c35a12a-511e-4222-bb25-7ce6db16ecf5" /><img width="7363" height="2616" alt="image" src="https://github.com/user-attachments/assets/d2a82ae3-faab-4a68-8f9a-fe45888ee6ea" /><p align="center">
   <img src="Imagenes\UPC_logo.png"
        alt="Logo UPC" width="200">
 </p>
@@ -1380,7 +1380,7 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 - US07 - Personalización de Perfil
 Como usuario, quiero personalizar mi perfil (nombre, preferencias de comunicación, idioma), para adaptar la plataforma a mis necesidades. <br>
 
-![imagen](<img width="6205" height="1256" alt="image" src="https://github.com/user-attachments/assets/b9fc2a09-f903-4516-8318-eceaf69d70d2" />
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217656376197210/Lluvia_de_ideas_en_equipo_-_Pagina_1_9.png?ex=68ea0171&is=68e8aff1&hm=b914473cd0a5b5612e3e3b3e228b21484b3cc724d7fe2a7248a3185d8e56a4c4&=&format=webp&quality=lossless&width=1872&height=379
 )
 
 - US05 US17 US34 Como usuario, quiero recibir alertas en tiempo real si ocurre una falla o un consumo excesivo, para tomar medidas inmediatas. <br>
@@ -1392,13 +1392,13 @@ Como usuario, quiero personalizar mi perfil (nombre, preferencias de comunicaci�
 - US04 – Monitoreo de consumo energético 
 Como usuario, quiero visualizar en un panel el consumo energético de mi local remodelado, para optimizar el uso de recursos. <br>
 
-![imagen](<img width="7363" height="2616" alt="image" src="https://github.com/user-attachments/assets/e06acde4-42db-43f6-ba07-71b409367d04" />
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217667012821022/Lluvia_de_ideas_en_equipo_-_Pagina_1_10.png?ex=68ea0173&is=68e8aff3&hm=4ebfc01b4492d557afd29fbf40f93003976ee4417396527d4531d1b7a6d05b60&=&format=webp&quality=lossless&width=1872&height=665
 )
 
 - US09 – Historial de proyectos
 Como cliente, quiero visualizar un historial de todas mis remodelaciones, para revisar qué servicios contraté y los resultados obtenidos.  <br>
 
-![imagen](<img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/13739db7-93f3-431b-8c53-d962c8c5f40a" />
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217680484794438/Lluvia_de_ideas_en_equipo_-_Pagina_1_12.png?ex=68ea0176&is=68e8aff6&hm=c4b79ad9af09b4ecd3425187ec2cff0d834a4b0ec426ede408e4cd4a7b3f346d&=&format=webp&quality=lossless&width=1872&height=810
 )
 
 - US18 – Registro de incidencias,
@@ -1411,7 +1411,7 @@ Como cliente, quiero reportar incidencias durante la remodelación (retrasos, pr
 
 ### 4.5. Web Applications Prototyping
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419210193404825652/image.png?ex=68d0edfd&is=68cf9c7d&hm=7fcfe37e796756dbe37d64185e436aea9ae84b1a44a8911b85f543b30b9d029f&=&format=webp&quality=lossless&width=1399&height=874)
+![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419210193404825652/image.png?ex=68e9fa7d&is=68e8a8fd&hm=6b7b1a274f39640350611ef41470de2a5cb025c76de531acaac6f0f3c34960e3&=&format=webp&quality=lossless&width=1399&height=874)
 https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1&t=CoYNhh9eglWbUtK6-1
 
 ### 4.6. Domain-Driven Software Architecture
