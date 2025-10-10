@@ -1997,9 +1997,11 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 
 En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes del equipo en la construcción del frontend estático de la Landing Page.
 
-<p align="center">
-  <img src="./Imagenes/final2.png" alt="Development Evidence for Sprint Review.png""/>
-</p>
+| Repository                  | Branch | Commit Id | Commit Message                              | Commit Message Body | Commited on (Date) |
+|------------------------------|---------|------------|----------------------------------------------|---------------------|--------------------|
+| RentallPe/informe            | Main    | fa174eb    | Update README.md                             | -                   | 10/10/2025         |
+| RentallPe/RentallPe      | Main    | cdf5feb    | fix: logo redirection area  | Fixed the logo redirection area from the authentication pages               | 20/09/2025         |
+
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -2102,9 +2104,13 @@ link del trello: https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI348438
 
 ##### 5.2.2.4.Development Evidence for Sprint Review.
 En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes del equipo en la construcción del frontend web application.
-<p align="center">
-<img width="672" height="166" alt="sprint 2" src="https://github.com/user-attachments/assets/8846b6c3-bb2b-46d1-919f-a7dc1f743d9b" />
-</p>
+
+
+| Repository                  | Branch | Commit Id | Commit Message                              | Commit Message Body | Commited on (Date) |
+|------------------------------|---------|------------|----------------------------------------------|---------------------|--------------------|
+| RentallPe/informe            | Main    | fa174eb    | Update README.md                             | -                   | 10/10/2025         |
+| RentallPe/RentallPe-app      | Main    | a2f9b48    | Merge pull request #3 from RentallPe/Arturo  | -                   | 09/10/2025         |
+
 
 ##### 5.2.2.5.Execution Evidence for Sprint Review. 
 
