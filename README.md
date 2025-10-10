@@ -1,4 +1,4 @@
-<img width="3677" height="1198" alt="image" src="https://github.com/user-attachments/assets/5ce110d1-d3bd-4b6e-8bd6-3ed25da3ce8c" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/e70e1f4a-04f6-4950-8b2f-2bb14fc038d5" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/3c35a12a-511e-4222-bb25-7ce6db16ecf5" /><img width="7363" height="2616" alt="image" src="https://github.com/user-attachments/assets/d2a82ae3-faab-4a68-8f9a-fe45888ee6ea" /><p align="center">
+<img width="805" height="450" alt="image" src="https://github.com/user-attachments/assets/7d2463fc-35dd-4729-9922-734310d6f081" /><img width="805" height="450" alt="image" src="https://github.com/user-attachments/assets/f48d5172-81f0-4a23-ab4e-773c639915e8" /><img width="6205" height="1256" alt="image" src="https://github.com/user-attachments/assets/9930effa-e826-4981-9be6-36ff4442aa32" /><img width="6325" height="1294" alt="image" src="https://github.com/user-attachments/assets/b1665a02-4702-449c-89d7-098678781751" /><img width="946" height="616" alt="image" src="https://github.com/user-attachments/assets/0b14cc5d-db4f-4cf8-a516-e5ca926dd521" /><img width="951" height="612" alt="image" src="https://github.com/user-attachments/assets/aaa8f861-130c-4cb4-bc2f-a47c28549262" /><img width="955" height="615" alt="image" src="https://github.com/user-attachments/assets/0c6bdd4d-1c28-4df5-8add-ba5e3c17cb5b" /><img width="3677" height="1198" alt="image" src="https://github.com/user-attachments/assets/5ce110d1-d3bd-4b6e-8bd6-3ed25da3ce8c" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/e70e1f4a-04f6-4950-8b2f-2bb14fc038d5" /><img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/3c35a12a-511e-4222-bb25-7ce6db16ecf5" /><img width="7363" height="2616" alt="image" src="https://github.com/user-attachments/assets/d2a82ae3-faab-4a68-8f9a-fe45888ee6ea" /><p align="center">
   <img src="Imagenes\UPC_logo.png"
        alt="Logo UPC" width="200">
 </p>
@@ -597,7 +597,8 @@ Resumen de la entrevista: Las respuestas indican que su mayor dolor está en la 
 
 **Screenshot de la Entrevista:**
 
-![img](https://media.discordapp.net/attachments/1419200584992559239/1419235235836723241/image.png?ex=68d10550&is=68cfb3d0&hm=fead00343bafb8b52830a76d128d3f91098ca1cd8e53b1ac6ca17508845abba8&=&format=webp&quality=lossless)
+![img](<img width="805" height="450" alt="image" src="https://github.com/user-attachments/assets/1c0d7eb9-85d3-488f-9f8c-9ccfdfe902e7" />
+)
 
 **Timelapse:** [Inicio: 00:00, Fin: 04:00]
 \*\*Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201711828_upc_edu_pe/EX11GPAnMvhAmiBZrqGizhIBwkXMzUUHZ_FLwu0I-MjqPg?e=OF4nJz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -1348,25 +1349,25 @@ User goal:
 Los Mockups que se mostrará en esta sección corresponden a como se veria en una web application, en las imagenes, se van a poder observar los elementos anteriormentes mencionados, es decir, la tipografia, imagenes, spacind, paleta de colores y entre otros
 
 - Inicio de la Aplicación: Menú principal al momento de abrir la pagina
-  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217639552847923/Lluvia_de_ideas_en_equipo_-_Pagina_1_8.png?ex=68ea016d&is=68e8afed&hm=b6c0c5e28fc72590853f137c982b5fcf66ae43a6646014055ea1234f6e609887&=&format=webp&quality=lossless&width=1872&height=383)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419200773262413844/image.png?ex=68e9f1b7&is=68e8a037&hm=9afdc17e146dca5938e15e591637ad62af745654a5c21b8f9cc5690a4f40180f&=&format=webp&quality=lossless)
 - Creacion de cuenta: Usuario crea su cuenta
-  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217656376197210/Lluvia_de_ideas_en_equipo_-_Pagina_1_9.png?ex=68ea0171&is=68e8aff1&hm=b914473cd0a5b5612e3e3b3e228b21484b3cc724d7fe2a7248a3185d8e56a4c4&=&format=webp&quality=lossless&width=550&height=111)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201011070931065/image.png?ex=68e9f1f0&is=68e8a070&hm=a91d7083af80089d6729644969e857499b582c8bcb6c4b6056b3cf56c9cf9216&=&format=webp&quality=lossless)
 - Dashboard: pagina principal
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201150569287721/image.png?ex=68d0e591&is=68cf9411&hm=40c8ca18674fef40acf1da4115aec41309fc8539a756bee33e89a3879e2a1048&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201150569287721/image.png?ex=68e9f211&is=68e8a091&hm=2a8a6e7516d87d9b6850dd3404c996b605e3987cb9135ba2246f3763a870b3cf&=&format=webp&quality=lossless)
 - Alertas: Alertas de la aplicación
-  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419218739760730152/Lluvia_de_ideas_en_equipo_-_Pagina_1_13.png?ex=68ea0273&is=68e8b0f3&hm=8a6104bc2f9cd2d28f77138201982cff9a3854a2e62a40ef871489047e43cff7&=&format=webp&quality=lossless&width=1872&height=610)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201437510013050/image.png?ex=68e9f256&is=68e8a0d6&hm=7f7bcbe14320e63bbcc4b16f300b913e2addf0b8b6b25d95c33d87d6e6bfbed9&=&format=webp&quality=lossless)
 - Mis propiedades: Las propiedades del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217680484794438/Lluvia_de_ideas_en_equipo_-_Pagina_1_12.png?ex=68ea0176&is=68e8aff6&hm=c4b79ad9af09b4ecd3425187ec2cff0d834a4b0ec426ede408e4cd4a7b3f346d&=&format=webp&quality=lossless&width=1872&height=810)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201513082978404/image.png?ex=68e9f268&is=68e8a0e8&hm=0ebd9bbd8da0a9c753ea4e5768e1cab7ef0d1583ce248df4f236b4c7cb428fce&=&format=webp&quality=lossless)
 - Mi perfil: El perfil del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201587548655730/image.png?ex=68d0e5f9&is=68cf9479&hm=1229ac132b7b924b0592e7959e6411d9e64bd13529c4ede283869abe32b18113&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201587548655730/image.png?ex=68e9f279&is=68e8a0f9&hm=af722c7db64a8d52d4ce833fa644959706e309fbe49853bfa85cdf19ffa7bda7&=&format=webp&quality=lossless)
 - Consumo: consumo del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217667012821022/Lluvia_de_ideas_en_equipo_-_Pagina_1_10.png?ex=68ea0173&is=68e8aff3&hm=4ebfc01b4492d557afd29fbf40f93003976ee4417396527d4531d1b7a6d05b60&=&format=webp&quality=lossless&width=1872&height=665)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201650744365169/image.png?ex=68e9f289&is=68e8a109&hm=b7a099ca4298b324d65473a1e683b325c52d955983985e2830e92bb08bd6c71f&=&format=webp&quality=lossless)
 - Cuenta: La cuenta del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201693941366804/image.png?ex=68d0e613&is=68cf9493&hm=ccc3097ab0ef3ddb2de00f878c9b50eec0ba66b64be520a005be55fb008ac1e5&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201693941366804/image.png?ex=68e9f293&is=68e8a113&hm=685d10d0b3f7d4b5bc5aad3194dca5af2ccddd744149ff33082f72b0c1e9fbde&=&format=webp&quality=lossless)
 - Soporte: El soporte donde se puede crear una incidencia
-  ![Image](https://media.discordapp.net/attachments/1419200584992559239/1419217672008241182/Lluvia_de_ideas_en_equipo_-_Pagina_1_11.png?ex=68ea0174&is=68e8aff4&hm=88bdd3ff28c921773f59c34e9a0851688c4cfb9fe124e5138f7f96b2774c648d&=&format=webp&quality=lossless&width=1872&height=290)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201801114091540/image.png?ex=68e9f2ac&is=68e8a12c&hm=a26306729d31e4f53388712f008d1af86b4f4709539bc3262cbe7cf4cf6caf34&=&format=webp&quality=lossless)
 - Nuevo proyecto: Usuario quiere adquirr mas camaras o mas productos
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201857615560745/image.png?ex=68d0e63a&is=68cf94ba&hm=cce75fe084cd336ff5176009482e1836c7fec025b02d01a2156a50838bb0f5f1&=&format=webp&quality=lossless)
+  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201857615560745/image.png?ex=68e9f2ba&is=68e8a13a&hm=b117fa07523ab1163f17e9313fa9c07f6809834f81291961b7f6507b1ea8a7fe&=&format=webp&quality=lossless)
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
@@ -1374,31 +1375,38 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 
 - Iniciar sesion: Como usuario, quiero iniciar sesion
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217639552847923/Lluvia_de_ideas_en_equipo_-_Pagina_1_8.png?ex=68d0f4ed&is=68cfa36d&hm=ce5e2b0778a28f65a3c6d7e19b8c5dceab76597f8173b25deb3222480046021f&=&format=webp&quality=lossless&width=1872&height=383)
+![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217639552847923/Lluvia_de_ideas_en_equipo_-_Pagina_1_8.png?ex=68ea016d&is=68e8afed&hm=b6c0c5e28fc72590853f137c982b5fcf66ae43a6646014055ea1234f6e609887&=&format=webp&quality=lossless&width=1872&height=383)
 
 - US07 - Personalización de Perfil
 Como usuario, quiero personalizar mi perfil (nombre, preferencias de comunicación, idioma), para adaptar la plataforma a mis necesidades. <br>
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217656376197210/Lluvia_de_ideas_en_equipo_-_Pagina_1_9.png?ex=68d0f4f1&is=68cfa371&hm=3fd703c9f6a91551ba363b3267d9d39436523e0502ec479f9888d4d67d28ba7e&=&format=webp&quality=lossless&width=1872&height=379)
+![imagen](<img width="6205" height="1256" alt="image" src="https://github.com/user-attachments/assets/b9fc2a09-f903-4516-8318-eceaf69d70d2" />
+)
 
 - US05 US17 US34 Como usuario, quiero recibir alertas en tiempo real si ocurre una falla o un consumo excesivo, para tomar medidas inmediatas. <br>
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419218739760730152/Lluvia_de_ideas_en_equipo_-_Pagina_1_13.png?ex=68d0f5f3&is=68cfa473&hm=a6388ff1a9e7a0eaea8b38a49153e33221a17e0b23d10191f0d78a57e5abb8c0&=&format=webp&quality=lossless&width=1872&height=610)
+![imagen](<img width="3677" height="1198" alt="image" src="https://github.com/user-attachments/assets/18b676a3-e883-4071-a85f-8a7b71365014" />
+
+)
 
 - US04 – Monitoreo de consumo energético 
 Como usuario, quiero visualizar en un panel el consumo energético de mi local remodelado, para optimizar el uso de recursos. <br>
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217667012821022/Lluvia_de_ideas_en_equipo_-_Pagina_1_10.png?ex=68d0f4f3&is=68cfa373&hm=4d7b1885526911260a5e056c81048686bc43358d4cae59c4b5ef0051507c3ab4&=&format=webp&quality=lossless&width=1872&height=665)
+![imagen](<img width="7363" height="2616" alt="image" src="https://github.com/user-attachments/assets/e06acde4-42db-43f6-ba07-71b409367d04" />
+)
 
 - US09 – Historial de proyectos
 Como cliente, quiero visualizar un historial de todas mis remodelaciones, para revisar qué servicios contraté y los resultados obtenidos.  <br>
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217680484794438/Lluvia_de_ideas_en_equipo_-_Pagina_1_12.png?ex=68d0f4f6&is=68cfa376&hm=4d3fdeb9c91258c0193b2e3042f6ef2297774526c0bb576b7bac4df54f2b0286&=&format=webp&quality=lossless&width=1872&height=810)
+![imagen](<img width="5830" height="2524" alt="image" src="https://github.com/user-attachments/assets/13739db7-93f3-431b-8c53-d962c8c5f40a" />
+)
 
 - US18 – Registro de incidencias,
 Como cliente, quiero reportar incidencias durante la remodelación (retrasos, problemas de calidad), para que el equipo pueda solucionarlas rápidamente. <br>
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217672008241182/Lluvia_de_ideas_en_equipo_-_Pagina_1_11.png?ex=68d0f4f4&is=68cfa374&hm=09a6fe69310acc9934a249a8d3b5ffa45550949d4298f4b695ed2bf91b139804&=&format=webp&quality=lossless&width=1872&height=290)
+![imagen](<img width="7955" height="1232" alt="image" src="https://github.com/user-attachments/assets/43d077ba-1e55-45e1-beb4-f4b3bf17acd1" />
+
+)
 
 
 ### 4.5. Web Applications Prototyping
