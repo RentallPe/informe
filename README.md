@@ -951,7 +951,6 @@ Se implementarán animaciones sutiles para mostrar imágenes y textos informativ
 
 La estructura de la aplicación RentallPe está pensada para conectar a empresarios y propietarios con nuestro servicio de remodelación inteligente con tecnología IoT se estructura de manera clara y eficiente para optimizar la experiencia tanto de los usuarios como de los especialistas que implementan las mejoras. A continuación se detalla cómo se organiza la plataforma en términos de navegación, funcionalidades y flujos de usuario.
 
-<div align="center"><img src="imagenes/organization-system.png" alt="organization system"></div>
 
 ### **4.2.2. Labeling Systems**
 
