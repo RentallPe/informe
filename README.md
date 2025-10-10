@@ -1903,6 +1903,17 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 
 ##### 5.2.2.5.Execution Evidence for Sprint Review. 
 
+| **Epic / Story ID** | **Título**                                 | **Criterios de Aceptación**                                                                                                                                                                                                 |
+| ------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US07                | Personalización de perfil                  | Dado que el usuario tiene una cuenta activa, cuando accede a su perfil, entonces puede editar sus datos personales y preferencias, con validación de sesión y persistencia local.                                          |
+| US09                | Historial de proyectos                     | Dado que el usuario accede al panel de proyectos, cuando revisa su historial, entonces puede visualizar, editar o eliminar proyectos previos, con detalles y validaciones adecuadas.                                      |
+| US14                | Comparación de presupuestos                | Dado que el usuario gestiona presupuestos, cuando selecciona varios, entonces puede compararlos en monto, proveedor y tiempo estimado.                                                                                    |
+| US18                | Registro de incidencias (opcional)         | Dado que el usuario detecta un problema, cuando lo reporta en la sección de incidencias, entonces el sistema guarda su registro con estado pendiente.                                                                     |
+| US28                | Configuración de notificaciones            | Dado que el usuario desea controlar sus alertas, cuando cambia las preferencias, entonces el sistema actualiza la configuración de notificaciones (email/push).                                                           |
+| US30                | Filtrado de proyectos                      | Dado que el usuario gestiona múltiples proyectos, cuando utiliza los filtros, entonces la tabla muestra solo los resultados que coinciden con los criterios seleccionados.                                                |
+| US31                | Resumen financiero                         | Dado que el usuario visualiza un proyecto, cuando accede al panel de resumen, entonces puede ver los totales de presupuesto, gasto y avance general del proyecto.                                                         |
+| US33                | Gestión de documentos                      | Dado que el usuario administra un proyecto, cuando sube documentos, entonces puede agregar, visualizar o eliminar archivos (PDF, imágenes) asociados al proyecto.                                                         |
+
 
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
