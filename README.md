@@ -1728,12 +1728,11 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 
 #### **5.2.1.3. Sprint Backlog 1\.**
 
-<p align="center">
-  <img src="./Imagenes/SprintBacklog2.png" alt="SprintBacklog2.png""/>
-</p>
+![WhatsApp Image 2025-10-29 at 18 06 15_d20dc717](https://github.com/user-attachments/assets/14cfd242-92c6-40f5-943b-b1fc4c4d646b)
+
 
 link:
-https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe
+https://trello.com/b/G021XE9y/rentallpe
 
 
 Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
