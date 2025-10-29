@@ -1796,6 +1796,12 @@ La creación de la documentación de Web Services mediante OpenAPI/Swagger se pr
 
 Se realizó el despliegue de la **landing page** del proyecto _RentallPe_, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
 
+Link: https://rentallpe.github.io/RentallPe/
+
+Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+
+![WhatsApp Image 2025-10-29 at 14 09 25_33292e04](https://github.com/user-attachments/assets/84c27f42-7cce-425c-bc7b-bd70252e18df)
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo por todo el equipo.
