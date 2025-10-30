@@ -1437,52 +1437,70 @@ https://miro.com/welcomeonboard/UzZBdHBUZmdvb2hhTnVzajFjTFlHa0tFU3hScHFiRDFaVUJR
 
 #### 4.6.2. Software Architecture Context Diagram
 
+Podemos ver como se muestra la posición del sistema RentallPe dentro de su entorno, incluyendo sus interacciones con otros sistemas y usuarios externos.
+
 <p align="center">
-  <img width="595" height="679" alt="1" src="https://github.com/user-attachments/assets/b51367b4-70bf-404d-b2d2-66c1239a8c3a" />
+
+<img width="2350" height="2800" alt="structurizr-107884-c1_context" src="https://github.com/user-attachments/assets/28779809-3f88-4c24-913a-5d5a07f7996a" />
+
 
 </p>
 
 #### 4.6.3. Software Architecture Container Diagrams
 
+Veremos como se desglosa las aplicaciones, servicios y bases de datos que forman el sistema de RentallPe
+
 <p align="center">
-  <img width="978" height="1050" alt="2" src="https://github.com/user-attachments/assets/159862c9-e67f-40f5-9d94-18e50f9281ad" />
+
+<img width="4570" height="4828" alt="structurizr-107884-c2_containers" src="https://github.com/user-attachments/assets/6099ed70-258c-4f84-8fbe-466829f55520" />
 
 </p>
 
 #### 4.6.4. Software Architecture Components Diagrams
 
+Veremos como se muestra las relaciones internas entre los elementos dentro de cada contenedor de RentallPe
+
 **Identity & Access Management BC**
 
 <p align="center">
-<img width="865" height="659" alt="3" src="https://github.com/user-attachments/assets/acdd7077-a4be-468e-9fc7-08f8ada1ef90" />
+
+<img width="3140" height="2500" alt="structurizr-107884-c3_iam" src="https://github.com/user-attachments/assets/5907278b-5d24-4a0c-96a7-6187dc63b07d" />
+
 
 </p>
 
 **IoT Monitoring & Notifications BC**
 
 <p align="center">
- <img width="571" height="668" alt="4" src="https://github.com/user-attachments/assets/00e20c29-8084-43a3-aff4-d5179eef3704" />
+
+<img width="2634" height="3100" alt="structurizr-107884-c3_iot" src="https://github.com/user-attachments/assets/8e29fd13-c7e8-4ade-a229-1ae60191648b" />
+
 
 </p>
 
 **Payment Management BC**
 
 <p align="center">
- <img width="891" height="566" alt="5" src="https://github.com/user-attachments/assets/51fd730b-9808-4d5c-a979-3d2a5f19a6a7" />
+
+<img width="4528" height="3100" alt="structurizr-107884-c3_payments" src="https://github.com/user-attachments/assets/bd6d2720-5c18-410a-9afb-5760c079f5e7" />
+
 
 </p>
 
 **Profile & Preferences BC**
 
 <p align="center">
-  <img width="641" height="664" alt="6" src="https://github.com/user-attachments/assets/6355a4db-9648-45ad-a2b6-d748a6600dd7" />
+
+<img width="2370" height="2500" alt="structurizr-107884-c3_profile" src="https://github.com/user-attachments/assets/d47dda2e-420a-46a0-a803-b34e39eda6b7" />
 
 </p>
 
 **Reports & Advanced Features BC**
 
 <p align="center">
-  <img width="432" height="657" alt="7" src="https://github.com/user-attachments/assets/ff1ef07d-f338-4cec-bbac-85c61d0271d1" />
+
+<img width="1640" height="2500" alt="structurizr-107884-c3_reports" src="https://github.com/user-attachments/assets/0def2423-1b79-464d-bdde-80a08a8eb052" />
+
 
 </p>
 
