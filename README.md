@@ -1747,7 +1747,7 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 #### **5.2.1.3. Sprint Backlog 1\.**
 
 <p align="center">
-  <img src="./Imagenes/Sprint1F.png" alt="Sprint2F.png""/>
+  <img src="./Imagenes/Spint1F.png" alt="Spint1F.png""/>
 </p>
 
 link:
