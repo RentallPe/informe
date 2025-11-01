@@ -1730,7 +1730,7 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 | Attendees (to planning meeting)     | Arturo Axel Saravia Huaricancha, Cumba Rengifo, Leonardo Raúl, Palomares Andrade, Sean Farith, Pérez Tuesta, Gabriel y Torrejón Navarro, Braulio Rodrigo                                                                                                                                                                |
 | Sprint n \- 1 Review Summary        | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                                                              |
 | Sprint n \- 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                                                              |
-| Sprint 1 Goal                       | Desarrollar la landing page de la aplicación como primer componente del front-end, con el objetivo de ofrecer una presentación inicial atractiva y funcional del producto a los usuarios potenciales. El cumplimiento del objetivo se validará mediante el aumento en el número de visitas a la página, superando el índice establecido como referencia de éxito. |
+| Sprint 1 Goal                       | Nuestro propósito es diseñar y entregar una primera versión de la landing page para nuestra plataforma de gestión de propiedades, basada en entrevistas con Propietarios de locales comerciales y Propietarios de viviendas con fines de reventa o alquiler. Creemos que esto aportará claridad y valor inicial a los usuarios potenciales, comunicando el propósito del producto y la visión del equipo. Esto se confirmará cuando los visitantes puedan comprender fácilmente los beneficios de la plataforma y muestren interés en conocer más o contactarnos a través de la landing page. |
 | Sprint 1 Velocity                   | Nuestro equipo puede aceptar hasta 18 Story Points.                                                                                                                                                                                                                                                                     |
 | Sum of Story Points                 | La suma de Story Points atendidos es de 15\.                                                                                                                                                                                                                                                                            |
 
@@ -1746,8 +1746,9 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 
 #### **5.2.1.3. Sprint Backlog 1\.**
 
-![WhatsApp Image 2025-10-29 at 18 06 15_d20dc717](https://github.com/user-attachments/assets/14cfd242-92c6-40f5-943b-b1fc4c4d646b)
-
+<p align="center">
+  <img src="./Imagenes/Sprint1F.png" alt="Sprint2F.png""/>
+</p>
 
 link:
 https://trello.com/b/G021XE9y/rentallpe
@@ -1845,7 +1846,7 @@ El Sprint Planning 2 es una reunión esencial para iniciar el segundo sprint de 
 | **Attendees (to planning meeting)** | Arturo Axel Saravia Huaricancha, Cumba Rengifo, Leonardo Raúl Palomares Andrade, Sean Farith Pérez Tuesta, Gabriel Torrejón Navarro, Braulio Rodrigo |
 | **Sprint n \- 2 Review Summary** | Se completó la **landing page** (servicios, proyectos, beneficios IoT), **testimonios**, **contacto**, **multilenguaje** y **diseño responsive**. Se integró analítica básica y se definió paleta/estilos. Se entregó demo pública y feedback inicial. |
 | **Sprint n \- 2 Retrospective Summary** | Mantener DoD y revisiones por pares. Mejorar estimaciones y desglose de tareas. Acordado **branching “feature/**”\*\*, convención de commits y PR template. Se añadirán checks de CI (lint & tests) antes del merge. |
-| **Sprint 2 Goal** | Entregar la **primera versión funcional de la web application** con **autenticación** (registro/login/logout), **gestión de perfil**, y **CRUDs principales**: Propiedades, Proyectos, Presupuestos y Tareas. Incluir validaciones, paginación básica, mensajes de error/éxito y **seed data**. Dejar conectado el **notificador** (mock) y una vista inicial de **dashboard** (tablas/listas). |
+| **Sprint 2 Goal** | Nuestro propósito es implementar el frontend parcial de la aplicación RentallPE utilizando Vue.js y PrimeVue, desarrollando los bounded contexts core (Identity & Access Management BC, IoT Monitoring & Notifications BC,Payment Management BC,Profile & Preferences BC y Reports & Advanced Features BC) con una Fake API para simular funcionalidades backend. Creemos que esto aportará una aplicación web funcional que valide la experiencia de usuario y demuestre las capacidades del sistema. |
 | **Sprint 2 Velocity** | 18 Story Points (referencia mantenida). |
 | **Sum of Story Points** | 18 |
 
@@ -1865,7 +1866,7 @@ El Sprint Planning 2 es una reunión esencial para iniciar el segundo sprint de 
 
 
 <p align="center">
-  <img src="./Imagenes/SprintBacklog2.png" alt="SprintBacklog2.png""/>
+  <img src="./Imagenes/Sprint2F.png" alt="Sprint2F.png""/>
 </p>
 link del trello: https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe
 
