@@ -169,7 +169,7 @@ RentalPE es una startup dedicada al desarrollo de software, enfocada en encontra
 | Perez Tuesta Gabriel            | Ingeniería de Software<br> 5to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas                                                                 |  ![Gabriel](Imagenes/yoko.png)                                                                         | - Conocimientos de lenguajes de programación html, css y Javascript.<br>- Contribución en equipo y responsabilidad.                                                                                          |
 | Cumba Rengifo Leonardo Raul     | Ingeniería de Software<br> 5to Ciclo<br>2023-2<br>Universidad Peruana de Ciencias Aplicadas                                                                 | ![Leonardo](Imagenes/perfil-integrante-leonardo.png)                                                                                                                                                                              | Estudiante de Ingeniería de Software que quiere enfocarse en backend o en DBA. En la actualidad me gustaria especialiarse en DBA                                                                             |
 | Saravia Huaricancha Arturo Axel | Ingeniería de Software<br> 5to Ciclo<br>2023-1<br>Universidad Peruana de Ciencias Aplicadas                                                                 | ![Arturo](Imagenes/arturo.jpg)                                                                                                                                                                                                    | Estudiante de ing. de software que quiere dedicarse al desarrollo de juegos y apps web                                                                                                                       |
-| Torrejon Navarro Braulio        | Soy un estudiante de 5nto ciclo de la carrera de Ingenieria de Software. Tengo interes en lo que es aprender nuevas herramientas para proyectos personales. | ![braulio](https://media.discordapp.net/attachments/1419200584992559239/1419232805501665340/image.png?ex=68d1030c&is=68cfb18c&hm=c94c94d5aa967496a56195264c3f6ccd1c9735e9edcd421dc6d9c3396c157e9d&=&format=webp&quality=lossless) | Poseo conocimiento en los lenguajes de: C++, Python, C#, Genexus y estuve 1 año en practicas pre profesionales siendo QA, soy una persona que estoy listo a trabajar bajo presión y con mucho compañerismo.  |
+| Torrejon Navarro Braulio        | Soy un estudiante de 5nto ciclo de la carrera de Ingenieria de Software. Tengo interes en lo que es aprender nuevas herramientas para proyectos personales. |   ![Image](Imagenes/capitulo4/Braulio.png) | Poseo conocimiento en los lenguajes de: C++, Python, C#, Genexus y estuve 1 año en practicas pre profesionales siendo QA, soy una persona que estoy listo a trabajar bajo presión y con mucho compañerismo.  |
 
 ## 1.2 Solution Profile
 
@@ -569,8 +569,7 @@ Resumen de la entrevista: Las respuestas indican que su mayor dolor está en la 
 
 **Screenshot de la Entrevista:**
 
-![img](https://media.discordapp.net/attachments/1419200584992559239/1419235235836723241/image.png?ex=68ea11d0&is=68e8c050&hm=eb46185921c805942288fc7b08b548b4092e0ffd948a3780ee4f42dd79f80de1&=&format=webp&quality=lossless
-)
+  ![Image](Imagenes/capitulo4/entrevista.png)
 
 **Timelapse:** [Inicio: 00:00, Fin: 04:00]
 \*\*Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201711828_upc_edu_pe/EX11GPAnMvhAmiBZrqGizhIBwkXMzUUHZ_FLwu0I-MjqPg?e=OF4nJz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -1125,22 +1124,21 @@ La **Landing Page** presenta un diseño limpio con un menú fijo superior.
 
 #### 4.3.1. Landing Page Wireframe
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219787929882634/image.png?ex=68ea036d&is=68e8b1ed&hm=d0f8e01a1799ca593029c97779e6c420f87514c995af9f4dc520e3490b554165&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219836613169172/image.png?ex=68ea0378&is=68e8b1f8&hm=af42debc970f2615600fd1a8d7b2fd67edd4fc11946bce5d2543e6b45304b004&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219887879880825/image.png?ex=68ea0385&is=68e8b205&hm=39c1ff9551e910b91cd34420df275df85898dc7d3e9e6033643fb7fc8f52eecb&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219919450669266/image.png?ex=68ea038c&is=68e8b20c&hm=9d6e2a4372d2bdb7b42f56c1df92b76e1f136eb1849ec8c7f38dc3118917dd46&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419219957861974117/image.png?ex=68ea0395&is=68e8b215&hm=6ff4b416ea66ca233cdd9db6f7c1327686ab686e9891d88e15bb7f16534d1bf6&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220031006445588/image.png?ex=68ea03a7&is=68e8b227&hm=c8db9107f36f90366a3196043e1648231a7593cf5557579ea798fc0856b5e988&=&format=webp&quality=lossless)
+![imagen](Imagenes/capitulo4/wireframelanding1.png)
+![imagen](Imagenes/capitulo4/wireframelanding2.png)
+![imagen](Imagenes/capitulo4/wireframelanding3.png)
+![imagen](Imagenes/capitulo4/wireframelanding4.png)
+![imagen](Imagenes/capitulo4/wireframelanding5.png)
+![imagen](Imagenes/capitulo4/wireframelanding6.png)
 
 #### 4.3.2. Landing Page Mock-up
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220106684399719/image.png?ex=68ea03b9&is=68e8b239&hm=987dc069a056c8354f4770937e0ac57b67cc8172efdd430513c074f264710745&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220149612969995/image.png?ex=68ea03c3&is=68e8b243&hm=f8a624ad509e7f64a9e9134e040c5ec2262794219046588cd8ef166a54404d08&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220197499473960/image.png?ex=68ea03ce&is=68e8b24e&hm=0c764932d0051006f63e8f2faffcb83046269eee87460f0232176cbd9279062e&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220238934868078/image.png?ex=68ea03d8&is=68e8b258&hm=15237b6a4355da4b3c526dcf4aa780fa2c2c1ccd912a138f98cfd83910a7b563&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220276264173638/image.png?ex=68ea03e1&is=68e8b261&hm=fec6120bd951c472c9fe2f6508396e395bf72c8b8f3ed963b20b8169a90a6f6d&=&format=webp&quality=lossless)
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419220312586981388/image.png?ex=68ea03ea&is=68e8b26a&hm=26bb69d7e0a85828df39d18169f119861dc239876b93b0af16ccebf59fd1e346&=&format=webp&quality=lossless)
-
+![imagen](Imagenes/capitulo4/mockuplanding1.png)
+![imagen](Imagenes/capitulo4/mockuplanding2.png)
+![imagen](Imagenes/capitulo4/mockuplanding3.png)
+![imagen](Imagenes/capitulo4/mockuplanding4.png)
+![imagen](Imagenes/capitulo4/mockuplanding5.png)
+![imagen](Imagenes/capitulo4/mockuplanding6.png)
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
@@ -1325,25 +1323,25 @@ User goal:
 Los Mockups que se mostrará en esta sección corresponden a como se veria en una web application, en las imagenes, se van a poder observar los elementos anteriormentes mencionados, es decir, la tipografia, imagenes, spacind, paleta de colores y entre otros
 
 - Inicio de la Aplicación: Menú principal al momento de abrir la pagina
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419200773262413844/image.png?ex=68e9f1b7&is=68e8a037&hm=9afdc17e146dca5938e15e591637ad62af745654a5c21b8f9cc5690a4f40180f&=&format=webp&quality=lossless)
+  ![Image](Imagenes/capitulo4/1-1inicio.png)
 - Creacion de cuenta: Usuario crea su cuenta
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201011070931065/image.png?ex=68e9f1f0&is=68e8a070&hm=a91d7083af80089d6729644969e857499b582c8bcb6c4b6056b3cf56c9cf9216&=&format=webp&quality=lossless)
+  ![Image](Imagenes/capitulo4/1-2creacion.png)
 - Dashboard: pagina principal
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201150569287721/image.png?ex=68e9f211&is=68e8a091&hm=2a8a6e7516d87d9b6850dd3404c996b605e3987cb9135ba2246f3763a870b3cf&=&format=webp&quality=lossless)
+ ![Image](Imagenes/capitulo4/1-3dashboard.png)
 - Alertas: Alertas de la aplicación
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201437510013050/image.png?ex=68e9f256&is=68e8a0d6&hm=7f7bcbe14320e63bbcc4b16f300b913e2addf0b8b6b25d95c33d87d6e6bfbed9&=&format=webp&quality=lossless)
+ ![Image](Imagenes/capitulo4/1-4alertas.png)
 - Mis propiedades: Las propiedades del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201513082978404/image.png?ex=68e9f268&is=68e8a0e8&hm=0ebd9bbd8da0a9c753ea4e5768e1cab7ef0d1583ce248df4f236b4c7cb428fce&=&format=webp&quality=lossless)
+ ![Image](Imagenes/capitulo4/1-6profile.png)
 - Mi perfil: El perfil del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201587548655730/image.png?ex=68e9f279&is=68e8a0f9&hm=af722c7db64a8d52d4ce833fa644959706e309fbe49853bfa85cdf19ffa7bda7&=&format=webp&quality=lossless)
+  ![Image](Imagenes/capitulo4/1-6profile.png)
 - Consumo: consumo del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201650744365169/image.png?ex=68e9f289&is=68e8a109&hm=b7a099ca4298b324d65473a1e683b325c52d955983985e2830e92bb08bd6c71f&=&format=webp&quality=lossless)
+  ![Image](Imagenes/capitulo4/1-7consumo.png)
 - Cuenta: La cuenta del usuario
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201693941366804/image.png?ex=68e9f293&is=68e8a113&hm=685d10d0b3f7d4b5bc5aad3194dca5af2ccddd744149ff33082f72b0c1e9fbde&=&format=webp&quality=lossless)
+ ![Image](Imagenes/capitulo4/1-8cuenta.png)
 - Soporte: El soporte donde se puede crear una incidencia
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201801114091540/image.png?ex=68e9f2ac&is=68e8a12c&hm=a26306729d31e4f53388712f008d1af86b4f4709539bc3262cbe7cf4cf6caf34&=&format=webp&quality=lossless)
+  ![Image](Imagenes/capitulo4/1-9soporte.png)
 - Nuevo proyecto: Usuario quiere adquirr mas camaras o mas productos
-  ![Image](https://media.discordapp.net/attachments/1419200584992559238/1419201857615560745/image.png?ex=68e9f2ba&is=68e8a13a&hm=b117fa07523ab1163f17e9313fa9c07f6809834f81291961b7f6507b1ea8a7fe&=&format=webp&quality=lossless)
+  ![Image](Imagenes/capitulo4/1-10proyecto.png)
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
@@ -1351,13 +1349,12 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 
 - Iniciar sesion: Como usuario, quiero iniciar sesion
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217639552847923/Lluvia_de_ideas_en_equipo_-_Pagina_1_8.png?ex=68ea016d&is=68e8afed&hm=b6c0c5e28fc72590853f137c982b5fcf66ae43a6646014055ea1234f6e609887&=&format=webp&quality=lossless&width=1872&height=383)
+  ![Image](Imagenes/capitulo4/iniciarsesion.png)
 
 - US07 - Personalización de Perfil
 Como usuario, quiero personalizar mi perfil (nombre, preferencias de comunicación, idioma), para adaptar la plataforma a mis necesidades. <br>
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217656376197210/Lluvia_de_ideas_en_equipo_-_Pagina_1_9.png?ex=68ea0171&is=68e8aff1&hm=b914473cd0a5b5612e3e3b3e228b21484b3cc724d7fe2a7248a3185d8e56a4c4&=&format=webp&quality=lossless&width=1872&height=379
-)
+  ![Image](Imagenes/capitulo4/Editarperfil.png)
 
 - US05 US17 US34 Como usuario, quiero recibir alertas en tiempo real si ocurre una falla o un consumo excesivo, para tomar medidas inmediatas. <br>
 
@@ -1368,15 +1365,12 @@ Como usuario, quiero personalizar mi perfil (nombre, preferencias de comunicaci�
 - US04 – Monitoreo de consumo energético 
 Como usuario, quiero visualizar en un panel el consumo energético de mi local remodelado, para optimizar el uso de recursos. <br>
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217667012821022/Lluvia_de_ideas_en_equipo_-_Pagina_1_10.png?ex=68ea0173&is=68e8aff3&hm=4ebfc01b4492d557afd29fbf40f93003976ee4417396527d4531d1b7a6d05b60&=&format=webp&quality=lossless&width=1872&height=665
-)
+  ![Image](Imagenes/capitulo4/4consumo.png)
 
 - US09 – Historial de proyectos
 Como cliente, quiero visualizar un historial de todas mis remodelaciones, para revisar qué servicios contraté y los resultados obtenidos.  <br>
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559239/1419217680484794438/Lluvia_de_ideas_en_equipo_-_Pagina_1_12.png?ex=68ea0176&is=68e8aff6&hm=c4b79ad9af09b4ecd3425187ec2cff0d834a4b0ec426ede408e4cd4a7b3f346d&=&format=webp&quality=lossless&width=1872&height=810
-)
-
+  ![Image](Imagenes/capitulo4/propíedades.png)
 - US18 – Registro de incidencias,
 Como cliente, quiero reportar incidencias durante la remodelación (retrasos, problemas de calidad), para que el equipo pueda solucionarlas rápidamente. <br>
 
@@ -1387,7 +1381,7 @@ Como cliente, quiero reportar incidencias durante la remodelación (retrasos, pr
 
 ### 4.5. Web Applications Prototyping
 
-![imagen](https://media.discordapp.net/attachments/1419200584992559238/1419210193404825652/image.png?ex=68e9fa7d&is=68e8a8fd&hm=6b7b1a274f39640350611ef41470de2a5cb025c76de531acaac6f0f3c34960e3&=&format=webp&quality=lossless&width=1399&height=874)
+ ![Image](Imagenes/capitulo4/figma.png)
 https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1&t=CoYNhh9eglWbUtK6-1
 
 ### 4.6. Domain-Driven Software Architecture
