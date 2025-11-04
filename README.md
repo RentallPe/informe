@@ -886,21 +886,21 @@ Brindar a freelancers y emprendedores espacios flexibles de trabajo a través de
 
 ### **Logo**
 
-![Logo](https://media.discordapp.net/attachments/1410708960498946210/1416448769012142203/image.png?ex=68e9d1f6&is=68e88076&hm=f7fcb94679a7af2663c8a1992b0854c523a4cf6325ca1996ac939a2d81981611&=&format=webp&quality=lossless)}
+![Logo](Imagenes/capitulo4/logo.JPG)}
 
 Colores:
 
 El rojo cobrizo evoca energía y transformación, mientras que su variante más terrosa aporta estabilidad y sofisticación. Juntos, estos colores generan una atmósfera acogedora pero innovadora, ideal para conectar emocionalmente con usuarios que buscan actualizar sus espacios sin perder el sentido de hogar.
 
-| ![Rojo](https://media.discordapp.net/attachments/1410708960498946210/1417627452712161381/image.png?ex=68ea2732&is=68e8d5b2&hm=9fd9880a7bd1196af6dc4bbdb69db4aed82eed4b771d389211e9f002542c50c7&=&format=webp&quality=lossless)  | Copper Red\- Hex: \#FF6D6C\- RGB: (255, 109, 108\)\- CMYK: (0, 57, 58, 0\)          | \- HSV: 1° 58% 100%\- HSL: 1° 100% 71%\- RAL: 3022\- Pantone: 172 C                |
+| ![Logo](Imagenes/capitulo4/hex1.JPG)  | Copper Red\- Hex: \#FF6D6C\- RGB: (255, 109, 108\)\- CMYK: (0, 57, 58, 0\)          | \- HSV: 1° 58% 100%\- HSL: 1° 100% 71%\- RAL: 3022\- Pantone: 172 C                |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| ![Rojo2](https://media.discordapp.net/attachments/1410708960498946210/1417627703502311556/image.png?ex=68ea276e&is=68e8d5ee&hm=90fadf1f49eee0707c2049015464b8652de0d7e73b91fb73bceb60b682cb62f3&=&format=webp&quality=lossless) | Copper\- **Hex**: \#CA766D\- **RGB**: (202, 118, 109\)\- **CMYK**: (0, 42, 46, 21\) | \- **HSV**: 6° 46% 79%\- **HSL**: 6° 45% 61%\- **RAL**: 3012\- **Pantone**: 7584 C |
+| ![Rojo2](Imagenes/capitulo4/hex2.JPG) | Copper\- **Hex**: \#CA766D\- **RGB**: (202, 118, 109\)\- **CMYK**: (0, 42, 46, 21\) | \- **HSV**: 6° 46% 79%\- **HSL**: 6° 45% 61%\- **RAL**: 3012\- **Pantone**: 7584 C |
 
 #### **Tipografía:**
 
 La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar Roboto Flex, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas.
 
-![Tipografia](https://media.discordapp.net/attachments/1410708960498946210/1417628019522015384/image.png?ex=68ea27ba&is=68e8d63a&hm=32bb8a69a85d1234621a8181673cff415fd3fa4407df4cee06cc3ec9d4e97acf&=&format=webp&quality=lossless)
+![Tipografia](Imagenes/capitulo4/roboto-flex-741x415-1eaed9dacc.jpg)
 
 #### **Spacing:**
 
