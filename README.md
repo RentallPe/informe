@@ -1331,7 +1331,7 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 - Alertas: Alertas de la aplicación
  ![Image](Imagenes/capitulo4/1-4alertas.png)
 - Mis propiedades: Las propiedades del usuario
- ![Image](Imagenes/capitulo4/1-6profile.png)
+ ![Image](Imagenes/capitulo4/1-5propiedades.png)
 - Mi perfil: El perfil del usuario
   ![Image](Imagenes/capitulo4/1-6profile.png)
 - Consumo: consumo del usuario
