@@ -1494,9 +1494,15 @@ Veremos como se muestra las relaciones internas entre los elementos dentro de ca
 <p align="center">
 
 <img width="1640" height="2500" alt="structurizr-107884-c3_reports" src="https://github.com/user-attachments/assets/0def2423-1b79-464d-bdde-80a08a8eb052" />
+</p>
 
+**Space Management BC**
+<p align="center">
+  
+![WhatsApp Image 2025-11-04 at 22 32 28_5abaf677](https://github.com/user-attachments/assets/9fbb082d-3e5a-4306-8e0e-f499c0d823be)
 
 </p>
+
 
 ### 4.7. Software Object-Oriented Design
 
