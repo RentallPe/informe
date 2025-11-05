@@ -1423,6 +1423,10 @@ Concretamente, dividimos el sistema en **bounded contexts** bien delimitados —
   <img src="./Imagenes/Reports and Advanced Features F.png" alt="Reports and Advanced Features F.png""/>
 </p>
 
+**Space Management BC**
+<p align="center">
+<img width="1132" height="851" alt="image" src="https://github.com/user-attachments/assets/5df79e90-4139-442a-80e8-5ea07253a621" />
+</p>
 link:
 
 https://miro.com/app/board/uXjVJHSrDkA=/?share_link_id=656042657802
