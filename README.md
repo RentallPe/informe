@@ -1936,14 +1936,115 @@ Se realizó el despliegue de la web frontend application del proyecto RentallPe,
 
 Para este sprint, las tareas de desarrollo, implementación y documentación de la web application se distribuyó entre los integrantes del equipo. La implementación, desarrollo y despliegue fue llevado a cabo por todo el equipo.
 
+#### 5.2.3. Sprint 3
+
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 1.
+
+##### 5.2.3.1. Sprint Planning 3
+
+El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
+
+| Sprint \#                           | Sprint 1                                                                                                                                                                                                                                                                                                                |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Date                                | 2025-09-02                                                                                                                                                                                                                                                                                                              |
+| Time                                | 9:00 PM                                                                                                                                                                                                                                                                                                                 |
+| Location                            | Virtual \- Meet                                                                                                                                                                                                                                                                                                         |
+| Prepared By                         | Arturo Saravia                                                                                                                                                                                                                                                                                                          |
+| Attendees (to planning meeting)     | Arturo Axel Saravia Huaricancha, Cumba Rengifo, Leonardo Raúl, Palomares Andrade, Sean Farith, Pérez Tuesta, Gabriel y Torrejón Navarro, Braulio Rodrigo                                                                                                                                                                |
+| Sprint n \- 1 Review Summary        | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                                                              |
+| Sprint n \- 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                                                              |
+| Sprint 1 Goal                       | Nuestro propósito es diseñar y entregar una primera versión de la landing page para nuestra plataforma de gestión de propiedades, basada en entrevistas con Propietarios de locales comerciales y Propietarios de viviendas con fines de reventa o alquiler. Creemos que esto aportará claridad y valor inicial a los usuarios potenciales, comunicando el propósito del producto y la visión del equipo. Esto se confirmará cuando los visitantes puedan comprender fácilmente los beneficios de la plataforma y muestren interés en conocer más o contactarnos a través de la landing page. |
+| Sprint 1 Velocity                   | Nuestro equipo puede aceptar hasta 18 Story Points.                                                                                                                                                                                                                                                                     |
+| Sum of Story Points                 | La suma de Story Points atendidos es de 15\.                                                                                                                                                                                                                                                                            |
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----------------------------------- | --------------- | ------------------- |
+| Arturo Axel Saravia Huaricancha     | thunder053      | L                   |
+| Cumba Rengifo, Leonardo Raúl        | LeonardoC72     | C                   |
+| Palomares Andrade, Sean Farith      | Sean6513201     | C                   |
+| Pérez Tuesta, Gabriel               | Gabyoko         | C                   |
+| Braulio Rodrigo                     | BraulioTN       | C                   |
+
+#### **5.2.3.3. Sprint Backlog 3\.**
+
+<p align="center">
+  <img src="./Imagenes/Spint1F.png" alt="Spint1F.png""/>
+</p>
+
+link:
+https://trello.com/b/G021XE9y/rentallpe
+
+
+Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+
+| User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| US01 | Visualización de servicios de remodelación | SB1-01 | Setup del proyecto FE | Repo, **Vite/Vue 3**, Tailwind, ESLint+Prettier, Vue Router (rutas públicas), CI básico (GH Actions). | 5 | **Arturo Axel Saravia Huaricancha** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-02 | Arquitectura de carpetas | Definir estructura `/src` (components, views, assets, composables) y convenciones de nombres. | 3 | **Cumba Rengifo** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-03 | Header & Navbar | Componente con logo, navegación anclada a secciones, estado sticky. | 4 | **Leonardo Raúl** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-04 | Sección **Hero** | Titular, subtítulo, imagen/ilustración y CTA primario “Empieza tu remodelación”. | 4 | **Palomares Andrade** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-05 | Sección **Servicios** | Grid con tipos de remodelación, iconografía y breve descripción. | 4 | **Sean Farith** | Done |
+| US03 | Visualización de beneficios IoT | SB1-06 | Sección **Beneficios IoT** | Explicar monitoreo, alertas y ahorro; mini-cards con KPIs de ejemplo. | 4 | **Pérez Tuesta, Gabriel** | In-Process |
+| US02 | Visualización de proyectos | SB1-07 | Sección **Proyectos** | Galería con 4–6 proyectos (imagen, título, resultado/beneficio). | 4 | **Torrejón Navarro, Braulio Rodrigo** | In-Process |
+| US10 | Testimonios | SB1-08 | Sección **Testimonios** | Carrusel simple con 3 testimonios (texto \+ nombre/rol). | 3 | **Cumba Rengifo** | To-Do |
+| US01 | Visualización de servicios de remodelación | SB1-09 | CTA / Contacto | Bloque con llamada a la acción y botones a contacto/formulario futuro. | 3 | **Leonardo Raúl** | To-Do |
+| US01 | Visualización de servicios de remodelación | SB1-10 | Footer | Enlaces, redes, aviso legal básico. | 3 | **Palomares Andrade** | Done |
+| US01 | Visualización de servicios de remodelación | SB1-11 | **Responsive** (sm/md/lg) | Ajustes de diseño con Tailwind para mobile-first y tablets/escritorio. | 4 | **Sean Farith** | In-Process |
+| EP01 | Estándares FE | SB1-12 | Accesibilidad básica | Etiquetas semánticas, `alt` en imágenes, contraste, focus visible y orden de tabulación. | 3 | **Pérez Tuesta, Gabriel** | To-Do |
+| EP03 | Contenido | SB1-13 | Copys y microcopy | Redacción breve y clara para cada sección de la landing. | 3 | **Arturo Axel Saravia Huaricancha** | Done |
+| EP03 | Estilo visual | SB1-14 | Sistema de estilos | Tokens (colores, tipografías), espaciados y componentes base (botón, card). | 3 | **Torrejón Navarro, Braulio Rodrigo** | Done |
+| EP01 | Calidad | SB1-15 | Linter & Pre-commit | ESLint/Prettier configurados \+ hooks con Husky (formateo y lint antes de commit). | 3 | **Cumba Rengifo** | Done |
+| EP01 | DevOps | SB1-16 | **Deploy** preview | Despliegue a **Vercel/Netlify** con pipeline automático (preview por PR). | 3 | **Leonardo Raúl** | In-Process |
+| EP01 | Calidad | SB1-17 | Pruebas básicas UI | Smoke tests manuales, checklist de navegación y enlaces, sin E2E todavía. | 3 | **Palomares Andrade** | To-Do |
+| EP01 | Gestión | SB1-18 | Tareas de pulido | Corrección de pequeños bugs visuales, tiempos de carga y mejoras de UX. | 3 | **Equipo** | To-Do |
+
+##### 5.2.3.4. Development Evidence for Sprint Review
+
+En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes del equipo en la construcción del frontend estático de la Landing Page.
+
+| Repository                  | Branch | Commit Id | Commit Message                              | Commit Message Body | Commited on (Date) |
+|------------------------------|---------|------------|----------------------------------------------|---------------------|--------------------|
+| RentallPe/informe            | Main    | fa174eb    | Update README.md                             | -                   | 10/10/2025         |
+| RentallPe/RentallPe      | Main    | cdf5feb    | fix: logo redirection area  | Fixed the logo redirection area from the authentication pages               | 20/09/2025         |
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+| **Epic / Story ID** | **Título**                                 | **Criterios de Aceptación**                                                                                                                                                                        |
+| ------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US-01               | Visualización de servicios de remodelación | Dado que el usuario ingresa a la Landing Page, cuando accede a la sección de servicios, entonces visualiza los distintos planes de remodelación con su descripción y costos.                       |
+| US-02               | Visualización de sección de proyectos      | Dado que el usuario navega a la sección de proyectos, cuando hace scroll, entonces puede visualizar un listado con imágenes, descripciones y métricas de éxito de remodelaciones previas           |
+| US-03               | Visualización de beneficios IoT            | Dado que el usuario accede a la sección de beneficios, cuando visualiza el contenido, entonces se muestran claramente las ventajas de integrar IoT (ahorro energético, seguridad, sostenibilidad). |
+| US-29               | Multilenguaje                              | Dado que el usuario selecciona un idioma distinto en el menú, cuando cambia la configuración, entonces toda la interfaz se traduce automáticamente (ES/EN).                                        |
+| US-50               | Acceso móvil optimizado                    | Dado que el usuario accede desde un dispositivo móvil, cuando navega por la Landing Page, entonces la visualización es responsive y adaptada a pantallas pequeñas.                                 |
+
+En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
+
+Enlace de la Landing Page: https://rentallpe.github.io/RentallPe/
 
 
 
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page del proyecto WorkStation. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
 
+La creación de la documentación de Web Services mediante OpenAPI/Swagger se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
 
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Se realizó el despliegue de la **landing page** del proyecto _RentallPe_, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
 
+Link: https://rentallpe.github.io/RentallPe/
+
+Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+
+![WhatsApp Image 2025-10-29 at 14 09 25_33292e04](https://github.com/user-attachments/assets/84c27f42-7cce-425c-bc7b-bd70252e18df)
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo por todo el equipo.
 
 
 
