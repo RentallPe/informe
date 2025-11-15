@@ -1974,7 +1974,7 @@ Para este sprint, las tareas de desarrollo, implementación y documentación de 
 
 #### 5.2.3. Sprint 3
 
-En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 1.
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 3.
 
 ##### 5.2.3.1. Sprint Planning 3
 
@@ -2067,19 +2067,12 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 
 | Repository                  | Branch | Commit Id | Commit Message                              | Commit Message Body | Commited on (Date) |
 |------------------------------|---------|------------|----------------------------------------------|---------------------|--------------------|
-| RentallPe/informe            | Main    | fa174eb    | Update README.md                             | -                   | 10/10/2025         |
-| RentallPe/RentallPe      | Main    | cdf5feb    | fix: logo redirection area  | Fixed the logo redirection area from the authentication pages               | 20/09/2025         |
-
+| RentallPe/RentallPe-backend  | Main    | 73c33f5    | Update EF Core migrations for AppDbContext schema changes                             | Removed previous migration files and added new migration '20251115051034_InitialAppDbContext' to reflect updated database schema. Updated AppDbContextModelSnapshot and related project files to match the new schema, which now includes additional monitoring, payment, and notification entities.                   | 14/11/2025         |
+| RentallPe/RentallPe-backend  | Main    | d1ea485| Merge branch 'feature/Space-Management'  | # Conflicts: #	RentalPeAPI/Migrations/AppDbContextModelSnapshot.cs #	RentalPeAPI/Program.cs #	RentalPeAPI/Properties/launchSettings.json #	RentalPeAPI/RentalPeAPI.csproj # RentalPeAPI/Shared/Infrastructure/Persistence/EFC/Configuration/AppDbContext.cs              | 13/11/2025         |
+| RentallPe/RentallPe-backend  | Main    | 6e2421b    | feat: fix BC user an program.cs  | -              | 12/11/2025         |
+| RentallPe/RentallPe-backend  | feature/Profile-and-Preferences    | d16f277    | Profile-domain  | -               | 14/09/2025         |
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
-
-| **Epic / Story ID** | **Título**                                 | **Criterios de Aceptación**                                                                                                                                                                        |
-| ------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US-01               | Visualización de servicios de remodelación | Dado que el usuario ingresa a la Landing Page, cuando accede a la sección de servicios, entonces visualiza los distintos planes de remodelación con su descripción y costos.                       |
-| US-02               | Visualización de sección de proyectos      | Dado que el usuario navega a la sección de proyectos, cuando hace scroll, entonces puede visualizar un listado con imágenes, descripciones y métricas de éxito de remodelaciones previas           |
-| US-03               | Visualización de beneficios IoT            | Dado que el usuario accede a la sección de beneficios, cuando visualiza el contenido, entonces se muestran claramente las ventajas de integrar IoT (ahorro energético, seguridad, sostenibilidad). |
-| US-29               | Multilenguaje                              | Dado que el usuario selecciona un idioma distinto en el menú, cuando cambia la configuración, entonces toda la interfaz se traduce automáticamente (ES/EN).                                        |
-| US-50               | Acceso móvil optimizado                    | Dado que el usuario accede desde un dispositivo móvil, cuando navega por la Landing Page, entonces la visualización es responsive y adaptada a pantallas pequeñas.                                 |
 
 En este punto presentamos la evidencia de ejecución del backend del Sprint Backlog 3.
 
@@ -2094,6 +2087,72 @@ En este punto presentamos la evidencia de ejecución del backend del Sprint Back
 
 Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del Backend done se implementaron endpoints y funcionalidades relacionadas con servicios web o APIs RESTful.
 
+### Authentication Endpoints
+
+* **POST** /api/users/register: Registro de nuevos usuarios
+* **POST** /api/users/login: Inicio de sesión de usuarios
+
+---
+
+### Space Endpoints
+
+* **POST** /api/v1/space: Crear nuevo espacio
+* **GET** /api/v1/space: Obtener todos los espacios (listado)
+* **GET** /api/v1/space/{id}: Obtener espacio específico
+* **PUT** /api/v1/space/{id}: Actualizar espacio existente
+* **DELETE** /api/v1/space/{id}: Eliminar espacio existente
+
+---
+
+### Payments Endpoints
+
+* **POST** /api/v1/payments: Crear un nuevo pago (inicializar)
+* **GET** /api/v1/payments/{id}: Obtener pago por ID
+* **GET** /api/v1/payments: Obtener pagos por query (filtros/búsqueda)
+* **POST** /api/v1/payments/{id}/initiate: Iniciar un pago
+* **POST** /api/v1/payments/{id}/confirm: Confirmar un pago
+* **POST** /api/v1/payments/{id}/cancel: Cancelar un pago
+* **POST** /api/v1/payments/{id}/refund: Reembolsar un pago
+
+---
+
+### Projects Endpoints
+
+* **POST** /api/v1/monitoring/projects: Registrar nuevo proyecto de monitoreo
+* **GET** /api/v1/monitoring/projects/{id}: Obtener proyecto específico
+
+---
+
+### Readings Endpoints
+
+* **POST** /api/v1/monitoring/readings: Ingestar (crear) lecturas de sensores
+
+---
+
+### Tasks Endpoints
+
+* **POST** /api/v2/monitoring/tasks: Crear nueva tarea de monitoreo
+* **GET** /api/v2/monitoring/tasks/{id}: Obtener tarea específica
+
+---
+
+### IoTDevices Endpoints
+
+* **POST** /api/v1/monitoring/io-t-devices: Registrar nuevo dispositivo IoT
+* **GET** /api/v1/monitoring/io-t-devices/project/{projectId}: Obtener dispositivos por proyecto
+
+---
+
+### Incidents Endpoints
+
+* **GET** /api/v1/monitoring/incidents/project/{projectId}: Obtener incidentes por proyecto
+* **PATCH** /api/v1/monitoring/incidents/{id}/acknowledge: Reconocer (Acknowledge) un incidente
+
+---
+
+### Notifications Endpoints
+
+* **GET** /api/v1/monitoring/notifications/project/{projectId}: Obtener notificaciones por proyecto
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
