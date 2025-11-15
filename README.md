@@ -1978,7 +1978,7 @@ En esta sección se registra el avance del producto y las acciones colaborativas
 
 ##### 5.2.3.1. Sprint Planning 3
 
-El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
+El Sprint Planning 3 es una reunión esencial para iniciar el tercer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la version inicial del backend, asegurando una presentación efectiva del producto.
 
 | Sprint \#                           | Sprint 1                                                                                                                                                                                                                                                                                                                |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2005,7 +2005,10 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 #### **5.2.3.3. Sprint Backlog 3\.**
 
 <p align="center">
-  <img src="./Imagenes/Spint1F.png" alt="Spint1F.png""/>
+
+![WhatsApp Image 2025-11-15 at 00 15 22_70b6e08e](https://github.com/user-attachments/assets/4aa7e53d-9f47-4c17-b955-b449f095cd98)
+
+  
 </p>
 
 link:
@@ -2078,31 +2081,28 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 | US-29               | Multilenguaje                              | Dado que el usuario selecciona un idioma distinto en el menú, cuando cambia la configuración, entonces toda la interfaz se traduce automáticamente (ES/EN).                                        |
 | US-50               | Acceso móvil optimizado                    | Dado que el usuario accede desde un dispositivo móvil, cuando navega por la Landing Page, entonces la visualización es responsive y adaptada a pantallas pequeñas.                                 |
 
-En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
+En este punto presentamos la evidencia de ejecución del backend del Sprint Backlog 3.
 
-Enlace de la Landing Page: https://rentallpe.github.io/RentallPe/
+<img width="1200" height="766" alt="swager" src="https://github.com/user-attachments/assets/ee617a62-abdb-435d-bf94-a8915ab104b6" />
+
+
+<img width="1338" height="854" alt="swagerrr" src="https://github.com/user-attachments/assets/58b27329-bf6a-487f-9537-3bd60717f5f6" />
 
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page del proyecto WorkStation. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
+Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del Backend done se implementaron endpoints y funcionalidades relacionadas con servicios web o APIs RESTful.
 
-La creación de la documentación de Web Services mediante OpenAPI/Swagger se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
+
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-Se realizó el despliegue de la **landing page** del proyecto _RentallPe_, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
 
-Link: https://rentallpe.github.io/RentallPe/
-
-Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
-
-![WhatsApp Image 2025-10-29 at 14 09 25_33292e04](https://github.com/user-attachments/assets/84c27f42-7cce-425c-bc7b-bd70252e18df)
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
-Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo por todo el equipo.
+
 
 
 
