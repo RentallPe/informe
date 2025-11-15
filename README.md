@@ -1772,7 +1772,7 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 | Sprint n \- 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                                                              |
 | Sprint 1 Goal                       | Nuestro propósito es diseñar y entregar una primera versión de la landing page para nuestra plataforma de gestión de propiedades, basada en entrevistas con Propietarios de locales comerciales y Propietarios de viviendas con fines de reventa o alquiler. Creemos que esto aportará claridad y valor inicial a los usuarios potenciales, comunicando el propósito del producto y la visión del equipo. Esto se confirmará cuando los visitantes puedan comprender fácilmente los beneficios de la plataforma y muestren interés en conocer más o contactarnos a través de la landing page. |
 | Sprint 1 Velocity                   | Nuestro equipo puede aceptar hasta 18 Story Points.                                                                                                                                                                                                                                                                     |
-| Sum of Story Points                 | La suma de Story Points atendidos es de 15\.                                                                                                                                                                                                                                                                            |
+| Sum of Story Points                 | La suma de Story Points atendidos es de 18\.                                                                                                                                                                                                                                                                            |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -1887,8 +1887,8 @@ El Sprint Planning 2 es una reunión esencial para iniciar el segundo sprint de 
 | **Sprint n \- 2 Review Summary** | Se completó la **landing page** (servicios, proyectos, beneficios IoT), **testimonios**, **contacto**, **multilenguaje** y **diseño responsive**. Se integró analítica básica y se definió paleta/estilos. Se entregó demo pública y feedback inicial. |
 | **Sprint n \- 2 Retrospective Summary** | Mantener DoD y revisiones por pares. Mejorar estimaciones y desglose de tareas. Acordado **branching “feature/**”\*\*, convención de commits y PR template. Se añadirán checks de CI (lint & tests) antes del merge. |
 | **Sprint 2 Goal** | Nuestro propósito es implementar el frontend parcial de la aplicación RentallPE utilizando Vue.js y PrimeVue, desarrollando los bounded contexts core (Identity & Access Management BC, IoT Monitoring & Notifications BC,Payment Management BC,Profile & Preferences BC y Reports & Advanced Features BC) con una Fake API para simular funcionalidades backend. Creemos que esto aportará una aplicación web funcional que valide la experiencia de usuario y demuestre las capacidades del sistema. |
-| **Sprint 2 Velocity** | 18 Story Points (referencia mantenida). |
-| **Sum of Story Points** | 18 |
+| **Sprint 2 Velocity** | X Story Points (referencia mantenida). |
+| **Sum of Story Points** | X |
 
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators.
@@ -1982,16 +1982,16 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 
 | Sprint \#                           | Sprint 1                                                                                                                                                                                                                                                                                                                |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Date                                | 2025-09-02                                                                                                                                                                                                                                                                                                              |
-| Time                                | 9:00 PM                                                                                                                                                                                                                                                                                                                 |
+| Date                                | 2025-11-11                                                                                                                                                                                                                                                                                                              |
+| Time                                | 11:00 PM                                                                                                                                                                                                                                                                                                                 |
 | Location                            | Virtual \- Meet                                                                                                                                                                                                                                                                                                         |
 | Prepared By                         | Arturo Saravia                                                                                                                                                                                                                                                                                                          |
 | Attendees (to planning meeting)     | Arturo Axel Saravia Huaricancha, Cumba Rengifo, Leonardo Raúl, Palomares Andrade, Sean Farith, Pérez Tuesta, Gabriel y Torrejón Navarro, Braulio Rodrigo                                                                                                                                                                |
-| Sprint n \- 1 Review Summary        | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                                                              |
-| Sprint n \- 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                                                              |
-| Sprint 1 Goal                       | Nuestro propósito es diseñar y entregar una primera versión de la landing page para nuestra plataforma de gestión de propiedades, basada en entrevistas con Propietarios de locales comerciales y Propietarios de viviendas con fines de reventa o alquiler. Creemos que esto aportará claridad y valor inicial a los usuarios potenciales, comunicando el propósito del producto y la visión del equipo. Esto se confirmará cuando los visitantes puedan comprender fácilmente los beneficios de la plataforma y muestren interés en conocer más o contactarnos a través de la landing page. |
-| Sprint 1 Velocity                   | Nuestro equipo puede aceptar hasta 18 Story Points.                                                                                                                                                                                                                                                                     |
-| Sum of Story Points                 | La suma de Story Points atendidos es de 15\.                                                                                                                                                                                                                                                                            |
+| Sprint n \- 2 Review Summary        | Hemos Corregido la parte de frontend y la documentacion.                                                                                                                                                                                                                                                              |
+| Sprint n \- 2 Retrospective Summary |Hemos Corregido la parte de frontend y la documentacion .                                                                                                                                                                                                                                                              |
+| Sprint 3 Goal                       |Nuestro propósito es entregar la primera versión funcional del backend de RentallPE, implementado como un solo Backend API modular por Bounded Context (IAM, Profile & Preferences, Space Management, Combo/Catalog Management, Monitoring, Payment –con PSP/Notifier/IoT simulados– y Reports básico). En este sprint construiremos los endpoints REST y la persistencia en PostgreSQL (migraciones/seed), aplicando DDD (entidades/agregados), validaciones, autenticación JWT y autorización por roles, además de paginación/filtrado/orden. Publicaremos documentación OpenAPI/Swagger, prepararemos pruebas unitarias y de integración esenciales, y un pipeline CI (lint + tests + build). El frontend del Sprint 2 debe consumir estos servicios de forma estable. |
+| Sprint 3 Velocity                   | Nuestro equipo puede aceptar hasta XX Story Points.                                                                                                                                                                                                                                                                     |
+| Sum of Story Points                 | La suma de Story Points atendidos es de XX\.                                                                                                                                                                                                                                                                            |
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators
 
@@ -1999,7 +1999,6 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 | ----------------------------------- | --------------- | ------------------- |
 | Arturo Axel Saravia Huaricancha     | thunder053      | L                   |
 | Cumba Rengifo, Leonardo Raúl        | LeonardoC72     | C                   |
-| Palomares Andrade, Sean Farith      | Sean6513201     | C                   |
 | Pérez Tuesta, Gabriel               | Gabyoko         | C                   |
 | Braulio Rodrigo                     | BraulioTN       | C                   |
 
@@ -2013,28 +2012,51 @@ link:
 https://trello.com/b/G021XE9y/rentallpe
 
 
-Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+Para el tercer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+
+
 
 | User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| US01 | Visualización de servicios de remodelación | SB1-01 | Setup del proyecto FE | Repo, **Vite/Vue 3**, Tailwind, ESLint+Prettier, Vue Router (rutas públicas), CI básico (GH Actions). | 5 | **Arturo Axel Saravia Huaricancha** | Done |
-| US01 | Visualización de servicios de remodelación | SB1-02 | Arquitectura de carpetas | Definir estructura `/src` (components, views, assets, composables) y convenciones de nombres. | 3 | **Cumba Rengifo** | Done |
-| US01 | Visualización de servicios de remodelación | SB1-03 | Header & Navbar | Componente con logo, navegación anclada a secciones, estado sticky. | 4 | **Leonardo Raúl** | Done |
-| US01 | Visualización de servicios de remodelación | SB1-04 | Sección **Hero** | Titular, subtítulo, imagen/ilustración y CTA primario “Empieza tu remodelación”. | 4 | **Palomares Andrade** | Done |
-| US01 | Visualización de servicios de remodelación | SB1-05 | Sección **Servicios** | Grid con tipos de remodelación, iconografía y breve descripción. | 4 | **Sean Farith** | Done |
-| US03 | Visualización de beneficios IoT | SB1-06 | Sección **Beneficios IoT** | Explicar monitoreo, alertas y ahorro; mini-cards con KPIs de ejemplo. | 4 | **Pérez Tuesta, Gabriel** | In-Process |
-| US02 | Visualización de proyectos | SB1-07 | Sección **Proyectos** | Galería con 4–6 proyectos (imagen, título, resultado/beneficio). | 4 | **Torrejón Navarro, Braulio Rodrigo** | In-Process |
-| US10 | Testimonios | SB1-08 | Sección **Testimonios** | Carrusel simple con 3 testimonios (texto \+ nombre/rol). | 3 | **Cumba Rengifo** | To-Do |
-| US01 | Visualización de servicios de remodelación | SB1-09 | CTA / Contacto | Bloque con llamada a la acción y botones a contacto/formulario futuro. | 3 | **Leonardo Raúl** | To-Do |
-| US01 | Visualización de servicios de remodelación | SB1-10 | Footer | Enlaces, redes, aviso legal básico. | 3 | **Palomares Andrade** | Done |
-| US01 | Visualización de servicios de remodelación | SB1-11 | **Responsive** (sm/md/lg) | Ajustes de diseño con Tailwind para mobile-first y tablets/escritorio. | 4 | **Sean Farith** | In-Process |
-| EP01 | Estándares FE | SB1-12 | Accesibilidad básica | Etiquetas semánticas, `alt` en imágenes, contraste, focus visible y orden de tabulación. | 3 | **Pérez Tuesta, Gabriel** | To-Do |
-| EP03 | Contenido | SB1-13 | Copys y microcopy | Redacción breve y clara para cada sección de la landing. | 3 | **Arturo Axel Saravia Huaricancha** | Done |
-| EP03 | Estilo visual | SB1-14 | Sistema de estilos | Tokens (colores, tipografías), espaciados y componentes base (botón, card). | 3 | **Torrejón Navarro, Braulio Rodrigo** | Done |
-| EP01 | Calidad | SB1-15 | Linter & Pre-commit | ESLint/Prettier configurados \+ hooks con Husky (formateo y lint antes de commit). | 3 | **Cumba Rengifo** | Done |
-| EP01 | DevOps | SB1-16 | **Deploy** preview | Despliegue a **Vercel/Netlify** con pipeline automático (preview por PR). | 3 | **Leonardo Raúl** | In-Process |
-| EP01 | Calidad | SB1-17 | Pruebas básicas UI | Smoke tests manuales, checklist de navegación y enlaces, sin E2E todavía. | 3 | **Palomares Andrade** | To-Do |
-| EP01 | Gestión | SB1-18 | Tareas de pulido | Corrección de pequeños bugs visuales, tiempos de carga y mejoras de UX. | 3 | **Equipo** | To-Do |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |--------|
+| US53 | Registro de usuario | SB3-01 | Diseñar contrato y validaciones de registro | Definir POST **/api/v1/auth/register** (OpenAPI), esquema User, reglas (email único, password ≥ 8, política de nombres), mensajes de error y códigos HTTP. | 4 | Arturo Axel Saravia Huaricancha | Done  |
+| US53 | Registro de usuario | SB3-02 | Implementar endpoint y pruebas | Servicio de registro con **hash** (BCrypt), persistencia, DTO/mapper, pruebas unitarias de dominio y de controlador; Postman para flujo feliz y errores. | 6 | Cumba Rengifo Leonardo Raúl | Done |
+| US54 | Autenticación de usuario | SB3-03 | Diseñar login y esquema JWT | Definir POST **/api/v1/auth/login**, payload/response, expiración/refresh, cabeceras, errores (401/403). | 4 | Pérez Tuesta, Gabriel | Done  |
+| US54 | Autenticación de usuario | SB3-04 | Implementar login y middleware | Generar **JWT**/Refresh, guardar **refresh token** (revocable), middleware de autorización por rol, pruebas unitarias/integración. | 6 | Torrejón Navarro, Braulio Rodrigo | Done  |
+| US55 | Creación de Espacio | SB3-05 | Modelado de Space y reglas | Entidad **Space** (nombre, tipo, capacidad, precio, dirección, imágenes), validaciones (precio\>0, capacidad\>0), errores 422\. | 4 | Arturo Axel Saravia Huaricancha | Done  |
+| US55 | Creación de Espacio | SB3-06 | Implementar POST /api/v1/space | Controlador/servicio/repositorio, auditoría (ownerId), pruebas unitarias y de persistencia. | 6 | Cumba Rengifo Leonardo Raúl |Done |
+| US56 | Consulta de Espacios | SB3-07 | GET list \+ paginación/filtros | Implementar **GET /api/v1/space** con paginación, filtros (tipo, distrito, precio), ordenamiento; cache simple. | 5 | Pérez Tuesta, Gabriel | Done  |
+| US56 | Consulta de Espacios | SB3-08 | GET by Id \+ DTOs | Implementar **GET /api/v1/space/{id}**, DTO enriquecido (imágenes, ubicación), manejo 404; Postman tests. | 4 | Torrejón Navarro, Braulio Rodrigo | Done  |
+| US57 | Actualización de Espacio | SB3-09 | Validaciones y Ownership | Reglas de modificación (solo owner/admin), campos permitidos, conflictos 409\. | 3 | Arturo Axel Saravia Huaricancha | Done |
+| US57 | Actualización de Espacio | SB3-10 | Implementar PUT /api/v1/space/{id} | Servicio y pruebas (feliz/errores, concurrencia con ETag/If-Match opcional). | 5 | Cumba Rengifo Leonardo Raúl | Done  |
+| US58 | Eliminación de Espacio | SB3-11 | Estrategia de borrado | Definir **soft-delete** vs hard-delete, restricciones (espacios con reservas/pagos). | 3 | Pérez Tuesta, Gabriel | Done |
+| US58 | Eliminación de Espacio | SB3-12 | Implementar DELETE /api/v1/space/{id} | Soft-delete \+ filtros excluyentes, 404/409, pruebas de integración. | 4 | Torrejón Navarro, Braulio Rodrigo | Done  |
+| US59 | Creación de Pago | SB3-13 | Modelar Payment (PENDING) | Entidad **Payment** (monto, moneda, estado, referencia PSP), validaciones y FSM básica. | 3 | Arturo Axel Saravia Huaricancha |Done  |
+| US59 | Creación de Pago | SB3-14 | Implementar POST /api/v1/payments | Endpoint, idempotencia (Idempotency-Key), auditoría, pruebas. | 5 | Cumba Rengifo Leonardo Raúl | Done  |
+| US61 | Iniciar/Confirmar Pago | SB3-15 | Diseñar initiate/confirm \+ webhooks | Contratos **POST /payments/{id}/initiate** y **/confirm**, manejo de **webhook** PSP, firma/verificación. | 4 | Pérez Tuesta, Gabriel |Done |
+| US61 | Iniciar/Confirmar Pago | SB3-16 | Implementar flujo transaccional | Orquestación de estados (PENDING→AUTHORIZED→CAPTURED), reconciliación y pruebas end-to-end (Postman). | 6 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US62 | Cancelación/Reembolso | SB3-17 | Contratos cancel/refund | Definir **POST /payments/{id}/cancel** y **/refund**, políticas (ventanas, montos parciales). | 3 | Arturo Axel Saravia Huaricancha | Done  |
+| US62 | Cancelación/Reembolso | SB3-18 | Implementación \+ auditoría | Cambios de estado (CAPTURED→REFUNDED/FAILED), registro de motivo, pruebas de borde. | 5 | Cumba Rengifo Leonardo Raúl | Done  |
+| US63 | Registro de Proyecto Monitoreo | SB3-19 | Diseñar proyecto IoT | Contrato **POST /api/v1/monitoring/projects**, esquema (nombre, umbrales, sensores). | 3 | Pérez Tuesta, Gabriel | Done |
+| US63 | Registro de Proyecto Monitoreo | SB3-20 | Implementar endpoint \+ reglas | Persistencia, validaciones y pruebas (duplicados, owner). | 4 | Torrejón Navarro, Braulio Rodrigo | Done  |
+| US64 | Consultar Proyecto por ID | SB3-21 | GET /monitoring/projects/{id} | DTO con config, sensores, reglas; 404, permisos. | 4 | Arturo Axel Saravia Huaricancha | Done |
+| US64 | Consultar Proyecto por ID | SB3-22 | Pruebas e indexación | Índices por owner/project, pruebas de performance básica. | 3 | Cumba Rengifo Leonardo Raúl | Done  |
+| US65 | Ingesta de Lecturas | SB3-23 | Diseño batch y validación | **POST /monitoring/readings** (lote), validación schema/ts, límites de tamaño. | 4 | Pérez Tuesta, Gabriel | Done  |
+| US65 | Ingesta de Lecturas | SB3-24 | Implementación alta concurrencia | Inserciones masivas, colas/bulk, métricas; pruebas de carga ligeras. | 6 | Torrejón Navarro, Braulio Rodrigo | Done  |
+| US66 | Crear Tarea de Monitoreo | SB3-25 | Contrato de tarea | **POST /v2/monitoring/tasks** (tipo, schedule, destino), estados iniciales. | 3 | Arturo Axel Saravia Huaricancha | Done |
+| US66 | Crear Tarea de Monitoreo | SB3-26 | Implementar creación/parametrización | Validaciones, persistencia, pruebas de programación. | 5 | Cumba Rengifo Leonardo Raúl |Done |
+| US67 | Consultar Tarea de Monitoreo | SB3-27 | GET /v2/monitoring/tasks/{id} | Devolver configuración, último run, logs resumidos. | 3 | Pérez Tuesta, Gabriel | Done  |
+| US67 | Consultar Tarea de Monitoreo | SB3-28 | Telemetría y auditoría | Trazas/metrics (status, duración), pruebas. | 3 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US68 | Registro de Dispositivo IoT | SB3-29 | Diseño dispositivo | **POST /monitoring/iot-devices** (deviceId único, tipo, projectId), políticas de duplicado. | 3 | Arturo Axel Saravia Huaricancha |Done  |
+| US68 | Registro de Dispositivo IoT | SB3-30 | Implementación \+ unicidad | Índice único por deviceId, pruebas de errores y flujo feliz. | 4 | Cumba Rengifo Leonardo Raúl | Done  |
+| US69 | Dispositivos por Proyecto | SB3-31 | GET /iot-devices/projects/{projectId} | Listado con paginación/filtros (estado, tipo). | 3 | Pérez Tuesta, Gabriel | Done  |
+| US69 | Dispositivos por Proyecto | SB3-32 | Capa de acceso y pruebas | Repo/servicio, pruebas de consulta. | 3 | Torrejón Navarro, Braulio Rodrigo | Done  |
+| US70 | Incidentes por Proyecto | SB3-33 | Contrato de consulta | **GET /monitoring/incidents/project/{projectId}** con filtros (estado, severidad, rango). | 4 | Arturo Axel Saravia Huaricancha | Done  |
+| US70 | Incidentes por Proyecto | SB3-34 | Implementación \+ filtros | Servicio con filtros compuestos, índices y pruebas. | 4 | Cumba Rengifo Leonardo Raúl | Done |
+| US71 | Reconocer Incidente | SB3-35 | PATCH acknowledge | **PATCH /monitoring/incidents/{id}/acknowledge**: transición y supresión de notificaciones. | 3 | Pérez Tuesta, Gabriel | Done  |
+| US71 | Reconocer Incidente | SB3-36 | Implementación \+ eventos | Cambio de estado, evento de dominio “IncidentAcknowledged”, pruebas. | 4 | Torrejón Navarro, Braulio Rodrigo | Done   |
+| US72 | Notificaciones por Proyecto | SB3-37 | Contrato de consulta | **GET /monitoring/notifications/project/{projectId}**, paginación y filtros (tipo, fecha). | 3 | Arturo Axel Saravia Huaricancha | Done  |
+| US72 | Notificaciones por Proyecto | SB3-38 | Implementación \+ búsqueda | Repositorio, búsqueda por rango temporal, pruebas. | 4 | Cumba Rengifo Leonardo Raúl |    Done    |
+
 
 ##### 5.2.3.4. Development Evidence for Sprint Review
 
