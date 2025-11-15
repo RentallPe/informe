@@ -792,7 +792,7 @@ Para el desarrollo de los Empathy Map hemos utilizado la información recopilada
 | Gestión de Cuentas de Usuario / **US50** | Acceso móvil optimizado (Responsive) | Como usuario, quiero la web usable en móviles. | **E1:** Diseño responsivo en vistas clave. **E2:** Tablas con scroll y compresión adecuada. | **EP01** |
 | Gestión de Cuentas de Usuario / **US51** | Cambiar idioma (en aplicación) | Como usuario, quiero cambiar idioma desde mi sesión. | **E1:** Selección persiste en el perfil. **E2:** En nuevo login se aplica idioma preferido. | **EP01** |
 | Gestión de Cuentas de Usuario / **US52** | Ver página “No encontrada” | Como usuario, quiero mensaje claro en rutas inválidas. | **E1:** Ruta inexistente → muestra “No encontrada” y acción a inicio. **E2:** En “Ir a inicio”, redirige al dashboard. | **EP01** |
-
+| Gestión de Cuentas de Usuario / **US53** | Registro de usuario | Como desarrollador, quiero implementar un endpoint para registrar nuevos usuarios, para que la aplicación pueda gestionar la creación de cuentas de forma segura. | Escenario: Dado que un usuario proporciona credenciales válidas (email, contraseña), cuando llamo al endpoint /api/users/register con un método POST, entonces debería recibir una respuesta 201 Created y el usuario debería ser almacenado en la base de datos. Escenario: Dado que un usuario proporciona credenciales ya registradas, cuando llamo al endpoint /api/users/register con un método POST, entonces debería recibir una respuesta 409 Conflict. | **EP01** |
 
 
 
