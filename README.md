@@ -2187,6 +2187,9 @@ Link del deployment del Front-end con las primeras conexiones con el Back-end: h
 
 **Segmento 1: Propietarios de Locales**
 
+
+
+##### 5.3.2. Registro de Entrevistas.
 #### Entrevista 1:
 
 **Nombre y Apellido:** Eduardo Benavente
@@ -2209,10 +2212,178 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQ
 Resumen de la entrevista: Las entrevistas de validación de RentalPe sugieren que la plataforma tiene una propuesta de valor clara y atractiva, especialmente para propietarios e inversionistas que buscan eficiencia y rentabilidad. El usuario destaca fuertemente el beneficio de Aumentar el Valor de la Propiedad a través de la remodelación inteligente y la Monitorización de Energía en tiempo real (IoT), lo cual es visto como un diferenciador clave que va más allá de la simple estética. La usabilidad general del Tablero de Control es bien recibida por su visualización de progreso y métricas de consumo. Además, el servicio de guía y soporte para la gestión de permisos es percibido como un valor añadido crítico que resuelve un gran punto de dolor. Aunque el diseño es visto como moderno, la claridad de la información de contacto y la opción de Prueba Gratuita generan la confianza necesaria para la adopción inicial, resultando en una alta calificación general de la solución.
 
 
-##### 5.3.2. Registro de Entrevistas.
+#### Entrevista 2:
 
 
 ##### 5.3.3. Evaluaciones según heurísticas.
+
+# **1 – Landing Page (Hero Section)**
+<img width="1913" height="858" alt="1" src="https://github.com/user-attachments/assets/8f0b2539-a349-4a1a-8198-525c58743873" />
+
+### **Evaluación según heurísticas**
+
+Desde la perspectiva de usabilidad, esta pantalla presenta un mensaje claro y directo, cumpliendo la heurística de “coincidencia con el mundo real”, ya que el texto principal explica de forma comprensible lo que hace la plataforma. Los botones de acción se encuentran visibles y ayudan a mantener la heurística de control y libertad del usuario. Sin embargo, algunos elementos como el menú superior podrían tener mayor peso visual, lo que afectaría positivamente la visibilidad del estado del sistema.
+
+En cuanto a la arquitectura de información, existe una jerarquía bien definida: título, subtítulo y finalmente las llamadas a la acción. Este orden facilita que el usuario entienda primero la propuesta de valor y luego cómo proceder. Aunque el diseño es claro, el área superior tiene espacio desaprovechado que podría reforzar visualmente la navegación.
+
+Desde el enfoque de diseño inclusivo, el lenguaje empleado es simple y accesible para todo tipo de usuario. No obstante, el contraste entre el texto oscuro y el fondo degradado puede resultar insuficiente para personas con baja visión. Sería conveniente adicionar opciones de accesibilidad para lectura o mejorar la percepción del contraste.
+
+---
+
+# **2 – Benefits Section**
+<img width="1713" height="662" alt="2" src="https://github.com/user-attachments/assets/7a08ccdc-017a-461b-918d-dae9cf8e0106" />
+
+### **Evaluación según heurísticas**
+
+En términos de usabilidad, esta sección cumple con la heurística de consistencia, pues cada beneficio se presenta con un ícono, un título y un texto descriptivo siguiendo el mismo patrón visual. Esto facilita la exploración y reduce la carga cognitiva, apoyando también la heurística de reconocimiento mejor que recuerdo. Aun así, algunos textos son extensos y podrían simplificarse para mejorar la velocidad de lectura.
+
+Respecto a la arquitectura de información, los beneficios están divididos de manera clara en columnas, lo que permite una comparación visual inmediata. Existe una buena jerarquía entre el ícono, el título y la descripción, aunque sería recomendable fragmentar los párrafos largos para favorecer la escaneabilidad.
+
+Desde inclusive design, los íconos son simples y universales, ayudando a comunicar de manera visual los conceptos. Sin embargo, las descripciones extensas podrían dificultar la comprensión a usuarios con dificultades cognitivas o de atención. La inclusión de versiones resumidas beneficiaría la accesibilidad.
+
+---
+
+# **3 – Pricing Section**
+<img width="1802" height="778" alt="3" src="https://github.com/user-attachments/assets/40758a90-bd6d-4f93-a359-07d32bf0e7f8" />
+
+### **Evaluación según heurísticas**
+
+La pantalla de precios respeta la heurística de visibilidad y de comparación, ya que los planes están bien diferenciados y permiten al usuario comprender rápidamente las diferencias entre cada uno. El precio y las características principales están claramente expuestos, lo que reduce la carga de memoria del usuario. Sin embargo, faltan marcadores explícitos para señalar qué plan recomiendan o cuál es el más popular.
+
+En cuanto a arquitectura de información, cada tarjeta contiene una estructura ordenada: nombre, precio, descripción y lista de beneficios. Esta jerarquía facilita la lectura y la comprensión progresiva. No obstante, la repetición de características entre planes podría reorganizarse para destacar las diferencias clave.
+
+Desde un diseño inclusivo, los colores pastel utilizados son suaves y no generan saturación visual. Sin embargo, las diferencias cromáticas entre los planes podrían no ser percibidas claramente por personas con daltonismo, por lo que sería conveniente añadir elementos distintivos adicionales como íconos, etiquetas o símbolos.
+
+---
+
+# **4 – Testimonials Section**
+<img width="1772" height="664" alt="4" src="https://github.com/user-attachments/assets/2ff7a71b-6841-47e4-bf3c-bfefeeef91ca" />
+
+### **Evaluación según heurísticas**
+
+Desde las heurísticas de usabilidad, esta sección facilita el reconocimiento mediante fotografías de usuarios reales, apoyando la credibilidad y la claridad en la comunicación. Las descripciones son comprensibles y presentan lenguaje cercano, cumpliendo con la heurística de correspondencia con el mundo real. Sin embargo, existen errores menores de espaciado y redacción en algunos testimonios.
+
+En términos de arquitectura de información, cada testimonio está almacenado en una tarjeta bien definida con foto, nombre, tipo de plan y texto. Esta organización permite comparar las opiniones de distintos clientes de forma intuitiva. Aun así, la longitud de algunos textos podría dificultar su escaneo rápido.
+
+Desde inclusive design, la inclusión de imágenes reales ayuda a generar empatía. No obstante, personas con discapacidad visual podrían tener dificultades si las imágenes no cuentan con alternativas descriptivas o texto equivalente. También sería útil utilizar un lenguaje más uniforme y sencillo en todos los testimonios.
+
+---
+
+# **5 – For Enterprises Section**
+<img width="1758" height="691" alt="5" src="https://github.com/user-attachments/assets/9e2c91d1-8ddd-4d78-8dfa-e0635156f837" />
+
+### **Evaluación según heurísticas**
+
+En cuanto a usabilidad, esta pantalla presenta información clara dividida en tres bloques, siguiendo un patrón consistente que respeta la heurística de consistencia y estándares. El botón *Get started* es accesible y está bien ubicado. Sin embargo, la cantidad de texto es considerable y puede aumentar la carga cognitiva del usuario.
+
+La arquitectura de información separa adecuadamente beneficios, transformaciones y entregables en diferentes tarjetas, lo que permite que el usuario comprenda progresivamente la oferta empresarial. Aun así, al tratarse de textos extensos, sería recomendable integrar subtítulos o bullets que faciliten su exploración.
+
+Desde la perspectiva del diseño inclusivo, el tono del texto es profesional y claro. Sin embargo, la densidad de la información puede resultar complicada para usuarios neurodivergentes o con dificultades de lectura. Un resumen accesible o una versión simplificada sería ideal para mejorar la inclusión.
+
+---
+
+# **6 – Footer / Contact Section**
+<img width="1740" height="464" alt="6" src="https://github.com/user-attachments/assets/822440ba-0fa1-49f2-81f2-c2ce33938fdc" />
+
+### **Evaluación según heurísticas**
+
+Desde la usabilidad, el footer proporciona información esencial, cumpliendo con la heurística de visibilidad del sistema. Los datos de contacto están claros y accesibles. No obstante, podría incluir accesos rápidos a secciones clave para reforzar la navegación.
+
+En términos de arquitectura de información, los bloques están bien organizados: misión de la empresa, llamada a la acción y contactos. La división visual favorece la comprensión inmediata. Sin embargo, algunos usuarios pueden percibir que el botón central tiene poco contraste respecto al fondo.
+
+Desde inclusive design, los textos son claros y directos. El uso de iconos de redes sociales es intuitivo, aunque deberían tener etiquetas alternativas para accesibilidad. Personas con baja visión podrían tener dificultades para leer textos delgados sobre un fondo rojo intenso.
+
+---
+
+# **7 – Dashboard Interno**
+<img width="1876" height="921" alt="7" src="https://github.com/user-attachments/assets/dd8961f5-99e2-497a-8fa4-126038d885db" />
+
+### **Evaluación según heurísticas**
+
+El dashboard respeta la heurística de simplicidad, ya que la interfaz es limpia y se presenta solo la información esencial. Sin embargo, presenta demasiado espacio vacío, afectando la percepción de utilidad inmediata y reduciendo la visibilidad del estado general del sistema.
+
+La arquitectura de información es básica: tres accesos rápidos colocados de manera clara, pero insuficientes para un dashboard funcional. La jerarquía podría enriquecerse mostrando métricas relevantes, alertas recientes o propiedades activas.
+
+Desde inclusive design, la pantalla es muy despejada, lo que beneficia a usuarios que se abruman con demasiada información. Sin embargo, también puede resultar poco informativa para quienes esperan retroalimentación inmediata o indicadores visuales más ricos.
+
+---
+
+# **8 – Profile Section**
+<img width="1682" height="932" alt="8" src="https://github.com/user-attachments/assets/3f98339d-c10c-4b59-932e-adba1485811b" />
+
+### **Evaluación según heurísticas**
+
+La página de perfil cumple bien con la heurística de consistencia, utilizando una estructura clara con datos en dos columnas. Los campos están organizados y el botón de edición es reconocible. No obstante, algunos campos vacíos podrían incluir textos guía o placeholders más explícitos.
+
+Desde arquitectura de información, la organización por secciones –Información, Métodos de pago y Propiedades– está bien ejecutada. Falta, sin embargo, mayor división visual entre áreas para reforzar la lectura.
+
+Desde inclusive design, la presentación general es simple y clara, lo cual favorece la accesibilidad. Aun así, sería ideal incluir mensajes explicativos sobre cómo agregar o editar datos, lo cual puede ayudar a personas con limitaciones cognitivas.
+
+---
+
+# **9 – New Project Section**
+<img width="1761" height="936" alt="9" src="https://github.com/user-attachments/assets/5eb34443-0abf-4c86-92a0-5065e53e4107" />
+
+### **Evaluación según heurísticas**
+
+A nivel de usabilidad, esta pantalla presenta un fuerte problema: está prácticamente vacía, lo que dificulta la comprensión de qué acción se espera del usuario. La heurística de visibilidad del sistema se ve afectada porque no se muestra retroalimentación ni elementos interactivos evidentes.
+
+En cuanto a arquitectura de información, aunque la estructura básica está presente con títulos como *Our combos* y *Providers*, la ausencia de contenido afecta la navegación y la orientación. Falta guía o instrucciones claras.
+
+Desde inclusive design, la pantalla vacía puede generar confusión, especialmente para usuarios menos experimentados. Una explicación corta o un mensaje de “aún no hay combos” sería esencial para reducir incertidumbre cognitiva.
+
+---
+
+# **10 – My Properties Section**
+<img width="1870" height="922" alt="10" src="https://github.com/user-attachments/assets/46ff2c32-e176-41bb-a2d0-8eb5585cabbb" />
+
+### **Evaluación según heurísticas**
+
+Esta pantalla cumple con la heurística de reconocimiento mejor que recuerdo al mostrar tarjetas visuales con fotos y datos esenciales de cada propiedad. La lectura es fluida y las etiquetas como “Status” y “Handover date” están bien posicionadas.
+
+En arquitectura de información, las tarjetas están ordenadas y permiten explorar rápidamente cada propiedad. La jerarquía es adecuada, aunque se podría mejorar destacando visualmente los estados (occupied, available).
+
+Desde inclusive design, las imágenes ayudan a contextualizar la propiedad, pero usuarios con discapacidad visual podrían requerir texto alternativo. También sería recomendable facilitar una vista simplificada para usuarios que prefieran menos carga visual.
+
+---
+
+#  **11 – Support Section**
+<img width="1884" height="923" alt="11" src="https://github.com/user-attachments/assets/9cc25b97-b215-487b-aba0-cc6de84fee32" />
+
+### **Evaluación según heurísticas**
+
+La pantalla muestra adecuadamente los contactos disponibles, pero repite departamentos, lo que afecta la heurística de precisión y consistencia. Además, en la sección de incidentes no aparece ningún dato, lo que reduce la visibilidad del estado del sistema.
+
+Desde la arquitectura de información, la tabla está organizada, pero carece de notas aclaratorias, historial o indicadores de estado. El botón “Register incident” está claramente visible, aunque el usuario podría no saber qué sucede después de presionarlo.
+
+En diseño inclusivo, el contenido es accesible y simple, aunque la escasa información podría dejar a algunos usuarios sin contexto. Sería útil incluir mensajes que expliquen la ausencia de incidentes.
+
+---
+
+# **12 – Alerts Section**
+<img width="1713" height="917" alt="12" src="https://github.com/user-attachments/assets/d857fad5-e6c2-4419-a6a7-c23a25c5d606" />
+
+### **Evaluación según heurísticas**
+
+La pantalla cumple parcialmente con la heurística de retroalimentación, ya que muestra secciones como “Latest Alerts” y “Lock Events”, pero los textos como *alerts.noAlerts* o *alerts.noLocks* evidencian placeholders no traducidos. Esto reduce la claridad y consistencia.
+
+En arquitectura de información, la división por propiedades es adecuada, pero el espacio vacío excesivo dificulta la lectura y reduce la sensación de utilidad.
+
+En diseño inclusivo, la ausencia de datos puede confundir a usuarios que requieren orientación clara. Mensajes más explicativos serían necesarios para evitar incertidumbre cognitiva.
+
+---
+
+# **13 – Billing Section**
+<img width="1657" height="916" alt="13" src="https://github.com/user-attachments/assets/9b7c89f1-5707-4e31-aa18-ee084b30ad2a" />
+
+### **Evaluación según heurísticas**
+
+Esta pantalla presenta el mayor problema de visibilidad del estado del sistema, ya que no muestra ningún elemento informativo, lo que dificulta la comprensión de su propósito. Tampoco hay contenidos temporales, placeholders, ni guías.
+
+En cuanto a arquitectura de información, la ausencia de tablas, historial o instrucciones provoca una ruptura en la experiencia del usuario, quien no sabe cómo proceder ni qué esperar.
+
+Desde inclusive design, la pantalla vacía puede generar ansiedad o confusión, especialmente en usuarios que necesitan estructuras explícitas. Un mensaje como “No pending payments” sería indispensable.
+
 
 ##### 5.4. Video About-the-Product.
 
