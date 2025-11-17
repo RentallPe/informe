@@ -2185,11 +2185,86 @@ Link del deployment del Front-end con las primeras conexiones con el Back-end: h
 
 ##### 5.3.1. Diseño de Entrevistas.
 
-**Segmento 1: Propietarios de Locales**
+**Segmento : Propietarios de Locales**
+
+Calentando
+
+Para ubicarnos, ¿cómo es tu local hoy? (tipo de negocio, tamaño, zona)
+
+¿Qué parte del local “te habla” primero cuando piensas en mejorar algo?
+
+Historia reciente
+
+3. Cuéntame la última vez que hiciste una mejora o remodelación. ¿Cómo empezó la idea?
+
+4. ¿Qué te hizo decir “ya, ahora sí lo hacemos”? (queja, inspección, oportunidad, moda, etc.)
+
+5. ¿Cómo te organizaste con presupuestos y proveedores? ¿Qué te funcionó y qué no?
+
+Operación del día a día
+
+6. En una semana normal, ¿qué miras para saber si todo va bien? (ventas, consumo, ambiente, ruido, etc.)
+
+7. ¿Alguna vez te llegó una sorpresa en el local (temperatura, equipos, seguridad)? ¿Cómo te enteraste y qué hiciste?
+
+Pagos y papeles
+
+8. ¿Cómo llevas pagos y comprobantes con proveedores? ¿Dónde se complica o se demora?
+
+Tecnología / ayudas
+
+9. Si tuvieras una alerta ideal en el celular, ¿qué debería decirte y qué te gustaría poder hacer al toque?
+
+10. Imagina una app que te ayude con cotizaciones, avances y pagos: ¿qué pantalla o botón no podría faltar?
+
+Cierre
+
+11. Si mañana vuelves a remodelar, ¿qué tres cosas harías distinto para que sea más liviano?
+
+12. ¿Hay algo que evitarías a toda costa? (proveedores, procesos, horarios, permisos, etc.)
+
+    
+**Segmento : Propietarios de Vivienda**
+
+
+ Introducción
+
+1.  Para empezar, ¿podrías contarnos un poco sobre tu experiencia con la **gestión de propiedades** o **proyectos de remodelación**?
+
+Página Principal (Inicio) 
+
+1.  Al ver esta página, ¿entiendes inmediatamente qué hace RentalPe? ¿Qué te dice el titular grande: 'Dale a tu propiedad una segunda oportunidad con nuestra plataforma'?
+2.  ¿Qué te parece el diseño y los colores? ¿Se ve profesional, atractivo, o de otra manera?
+3.  En la esquina superior derecha, ves 'Inglés'. ¿Qué opinas de tener el botón para cambiar el idioma ahí?
+4.  Si fueras un nuevo usuario, ¿presionarías 'Comenzar Prueba Gratuita' o 'Seleccionar un Plan'? ¿Por qué?
+5.  Ahora mira la sección '¡Bienvenido de nuevo!' (Tablero de Control). ¿Esta vista te daría confianza en que la plataforma funciona? ¿Qué información destacarías?
+6.  ¿Hay algo que te confunda o que te parezca innecesario en el menú lateral o el Tablero de Control?
+
+ 
+Beneficios 
+
+1.  Lee los tres beneficios clave. ¿Cuál de estos es el más importante para ti? ¿Por qué?
+2.  El primer beneficio habla de monitorización inteligente a través de tecnología IoT. ¿Esto te parece un diferenciador clave o es algo que ya esperas?
+3.  ¿El lenguaje que usan en estas descripciones es claro y creíble?
+
+Solución para Empresas 
+
+1.  Si tuvieras una empresa de bienes raíces o construcción, ¿los tres puntos de esta sección ('Para Empresas') te convencerían de usar RentalPe?
+2.  La columna 'Lo que Obtienes' menciona 'soporte técnico completo y guía para permisos, instalación y configuración'. ¿Qué tan valioso es esto para ti/tu empresa?
+
+
+Contacto y Cierre 
+
+1.  Finalmente, mira la información de contacto. ¿Te da confianza ver una dirección física en Lima, Perú, y un número de teléfono?
+2.  ¿Qué te parece el llamado a la acción 'Remodela tu primera propiedad' en el centro?
+3.  En general, basándote en lo que viste, ¿qué nota le darías a la plataforma (del 1 al 10) y cuál sería tu razón principal para contratarla o no?
 
 
 
 ##### 5.3.2. Registro de Entrevistas.
+
+**Segmento : Propietarios de Vivienda**
+
 #### Entrevista 1:
 
 **Nombre y Apellido:** Eduardo Benavente
@@ -2234,6 +2309,43 @@ Durante la entrevista, se presentó en detalle el proyecto RentalPe, explicando 
 
 Luego, se mostró la interfaz de la aplicación web, iniciando por el flujo de registro e inicio de sesión. Se explicó el funcionamiento del Dashboard, la vista de perfil del usuario, la sección de creación de proyectos, la gestión de propiedades, el módulo de soporte para registrar incidentes, el sistema de alertas basado en eventos anómalos detectados por dispositivos IoT y la sección de pagos pendientes (Billing), además de la opción multilenguaje inglés/español. Tras revisar la experiencia, David propuso incluir un tutorial inicial que guíe a los nuevos usuarios en sus primeros pasos dentro de la plataforma. También reforzó la importancia del modo nocturno, junto con opciones para personalizar el Dashboard y ampliar la paleta de colores según preferencias del usuario.
 
+
+**Segmento : Propietarios de Locales**
+
+#### Entrevista 1:
+
+**Nombre y Apellido:** Jhon Chuchon
+
+**Edad:** 25 años
+
+**Distrito:** Miraflores
+
+**Screenshot de la Entrevista:**
+![entrevistayoko](Imagenes/entrevistayoko.png)    
+
+**Timelapse:** [Inicio: 00:00, Fin: 04:00]
+Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQDRNBt9CzbMRbZrwOLC5jI1AYH7VKOmAocjnLc5BHCnteQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zdCbBU 
+
+**Resumen de la Entrevista:**
+Las respuestas de Jhon muestran que su mayor frustración está en la falta de organización durante la remodelación: presupuestos desordenados, retrasos que afectan ingresos y coordinación complicada con contratistas. También valora mucho el impacto de las fotos en la publicación y busca herramientas que le ahorren tiempo y le den claridad en costos y avances. Una solución digital que estandarice cotizaciones, centralice pagos y muestre avances en tiempo real tendría gran valor para él, ya que reduciría pérdidas económicas y aceleraría el retorno de su inversión.
+
+#### Entrevista 2:
+
+**Nombre y Apellido:** Patricia Navarro
+
+**Edad:** 50 años
+
+**Distrito:** La Victoria
+
+**Screenshot de la Entrevista:**
+
+  ![Image](Imagenes/capitulo4/entrevista.png)
+
+**Timelapse:** [Inicio: 00:00, Fin: 04:00]
+Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201711828_upc_edu_pe/EX11GPAnMvhAmiBZrqGizhIBwkXMzUUHZ_FLwu0I-MjqPg?e=OF4nJz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:**
+Las respuestas de Patricia indica de que le gustaria más seguridad en el lugar donde renta, donde pueda recibir notificaciones en su celular cuando alguien entre en su casa, tambien le gustaria poder recibir rapidamente tramites, lo que mayormente le gustaria poder tener un lugar donde puede revisar sus estados de luz y agua. En resumen, le gustaria seguridad en su hogar y poder verlo todo en su celular porque eso le ahorraria tiempo
 
 ##### 5.3.3. Evaluaciones según heurísticas.
 
