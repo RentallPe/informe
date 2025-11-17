@@ -2165,7 +2165,16 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del Backend d
 
 ![5 2 3 8](https://github.com/user-attachments/assets/3928b1a9-738a-48bb-8054-e92f779c67af)
 
+##### 5.3. Validation Interviews.
 
+##### 5.3.1. Diseño de Entrevistas.
+
+##### 5.3.2. Registro de Entrevistas.
+
+
+##### 5.3.3. Evaluaciones según heurísticas.
+
+##### 5.4. Video About-the-Product.
 
 
 ### Conclusiones
