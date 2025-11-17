@@ -2174,6 +2174,8 @@ El deploy del backend se realizo en Render
 ![5 2 3 7  2](https://github.com/user-attachments/assets/9c86beb6-8b24-46be-8bc7-2ffd89fdcb15)
 
 Link del deployment del Back-end: https://rentallpe-backend.onrender.com
+
+
 Link del deployment del Front-end con las primeras conexiones con el Back-end: https://rentallpe.web.app/login
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2182,6 +2184,30 @@ Link del deployment del Front-end con las primeras conexiones con el Back-end: h
 ##### 5.3. Validation Interviews.
 
 ##### 5.3.1. Diseño de Entrevistas.
+
+**Segmento 1: Propietarios de Locales**
+
+#### Entrevista 1:
+
+**Nombre y Apellido:** Eduardo Benavente
+
+**Edad:** 25 años
+
+**Distrito:** Pueblo libre
+
+<p align="center">
+
+![WhatsApp Image 2025-11-16 at 22 34 33_58c31765](https://github.com/user-attachments/assets/6933c2ab-d60a-4a8f-8117-ba0991b15d70)
+
+
+  
+</p>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQBI-0_vMKfrRK5MrT5P2_fxAddNhpTGHjUuST_Qehxx0RM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=z5vN8z
+
+
+Resumen de la entrevista: Las entrevistas de validación de RentalPe sugieren que la plataforma tiene una propuesta de valor clara y atractiva, especialmente para propietarios e inversionistas que buscan eficiencia y rentabilidad. El usuario destaca fuertemente el beneficio de Aumentar el Valor de la Propiedad a través de la remodelación inteligente y la Monitorización de Energía en tiempo real (IoT), lo cual es visto como un diferenciador clave que va más allá de la simple estética. La usabilidad general del Tablero de Control es bien recibida por su visualización de progreso y métricas de consumo. Además, el servicio de guía y soporte para la gestión de permisos es percibido como un valor añadido crítico que resuelve un gran punto de dolor. Aunque el diseño es visto como moderno, la claridad de la información de contacto y la opción de Prueba Gratuita generan la confianza necesaria para la adopción inicial, resultando en una alta calificación general de la solución.
+
 
 ##### 5.3.2. Registro de Entrevistas.
 
