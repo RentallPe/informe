@@ -1954,10 +1954,6 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 | US31                | Resumen financiero                         | Dado que el usuario visualiza un proyecto, cuando accede al panel de resumen, entonces puede ver los totales de presupuesto, gasto y avance general del proyecto.                                                         |
 | US33                | Gestión de documentos                      | Dado que el usuario administra un proyecto, cuando sube documentos, entonces puede agregar, visualizar o eliminar archivos (PDF, imágenes) asociados al proyecto.                                                         |
 
-![1](Imagenes/111.png)
-![2](Imagenes/3433.png)
-![3](Imagenes/222.png)
-
 
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -1965,7 +1961,14 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend 
 
 ##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
-Se realizó el despliegue de la web frontend application del proyecto RentallPe, marcando el primer paso hacia la publicación progresiva de los productos del sistema. 
+Se realizó el despliegue de la web frontend application del proyecto RentallPe, marcando el primer paso hacia la publicación progresiva de los productos del sistema.
+
+![1](Imagenes/111.png)
+![2](Imagenes/3433.png)
+![3](Imagenes/222.png)
+
+
+Link del deployment del Frontend: https://rentallpe.web.app/login
 
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
 
@@ -1977,7 +1980,7 @@ En esta sección se registra el avance del producto y las acciones colaborativas
 
 ##### 5.2.3.1. Sprint Planning 3
 
-El Sprint Planning 3 es una reunión esencial para iniciar el tercer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la version inicial del backend, asegurando una presentación efectiva del producto.
+El Sprint Planning 3 es una reunión esencial para iniciar el tercer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la version inicial del backend, asegurando una presentación efectiva del producto. Implementando las primeras conexiones del back-end con el front-end.
 
 | Sprint \#                           | Sprint 1                                                                                                                                                                                                                                                                                                                |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2014,7 +2017,7 @@ link:
 https://trello.com/b/G021XE9y/rentallpe
 
 
-Para el tercer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+Para el tercer sprint, desarrollamos la estructura y las funcionalidades de los endpoints del back-end, implementando los bounded context asi como las primeras conexiones con el front-end.
 
 
 
@@ -2062,7 +2065,7 @@ Para el tercer sprint, desarrollamos la estructura y las funcionalidades básica
 
 ##### 5.2.3.4. Development Evidence for Sprint Review
 
-En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes del equipo en la construcción del frontend estático de la Landing Page.
+En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes del equipo en la construcción del back-end de RentallPe.
 
 | Repository                  | Branch | Commit Id | Commit Message                              | Commit Message Body | Commited on (Date) |
 |------------------------------|---------|------------|----------------------------------------------|---------------------|--------------------|
@@ -2155,12 +2158,23 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del Backend d
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+##### Database Deployment
+El deploy de la base de datos se realizo en Microsoft Azure
+
+![aazure](https://github.com/user-attachments/assets/0238b561-d93c-4958-9b49-a7eddf250b56)
+
+
+##### Backend Deployment
+
+El deploy del backend se realizo en Render
+
 ![5 2 3 7](https://github.com/user-attachments/assets/af990645-db6d-4424-9981-a7c3a77a7ac3)
 
 ![5 2 3 7  2](https://github.com/user-attachments/assets/9c86beb6-8b24-46be-8bc7-2ffd89fdcb15)
 
-
-
+Link del deployment del Back-end: https://rentallpe-backend.onrender.com
+Link del deployment del Front-end con las primeras conexiones con el Back-end: https://rentallpe.web.app/login
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ![5 2 3 8](https://github.com/user-attachments/assets/3928b1a9-738a-48bb-8054-e92f779c67af)
