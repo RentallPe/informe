@@ -2209,10 +2209,30 @@ Link del deployment del Front-end con las primeras conexiones con el Back-end: h
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321281_upc_edu_pe/IQBI-0_vMKfrRK5MrT5P2_fxAddNhpTGHjUuST_Qehxx0RM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=z5vN8z
 
 
-Resumen de la entrevista: Las entrevistas de validación de RentalPe sugieren que la plataforma tiene una propuesta de valor clara y atractiva, especialmente para propietarios e inversionistas que buscan eficiencia y rentabilidad. El usuario destaca fuertemente el beneficio de Aumentar el Valor de la Propiedad a través de la remodelación inteligente y la Monitorización de Energía en tiempo real (IoT), lo cual es visto como un diferenciador clave que va más allá de la simple estética. La usabilidad general del Tablero de Control es bien recibida por su visualización de progreso y métricas de consumo. Además, el servicio de guía y soporte para la gestión de permisos es percibido como un valor añadido crítico que resuelve un gran punto de dolor. Aunque el diseño es visto como moderno, la claridad de la información de contacto y la opción de Prueba Gratuita generan la confianza necesaria para la adopción inicial, resultando en una alta calificación general de la solución.
+Resumen de la entrevista: 
+
+Las entrevistas de validación de RentalPe sugieren que la plataforma tiene una propuesta de valor clara y atractiva, especialmente para propietarios e inversionistas que buscan eficiencia y rentabilidad. El usuario destaca fuertemente el beneficio de Aumentar el Valor de la Propiedad a través de la remodelación inteligente y la Monitorización de Energía en tiempo real (IoT), lo cual es visto como un diferenciador clave que va más allá de la simple estética. La usabilidad general del Tablero de Control es bien recibida por su visualización de progreso y métricas de consumo. Además, el servicio de guía y soporte para la gestión de permisos es percibido como un valor añadido crítico que resuelve un gran punto de dolor. Aunque el diseño es visto como moderno, la claridad de la información de contacto y la opción de Prueba Gratuita generan la confianza necesaria para la adopción inicial, resultando en una alta calificación general de la solución.
 
 
 #### Entrevista 2:
+
+**Nombre y Apellido:** David Quispe 
+
+**Edad:** 20 años
+
+**Distrito:** Pueblo libre
+
+<img width="1064" height="525" alt="Entre" src="https://github.com/user-attachments/assets/c92c6392-0b4a-4ae3-bdcf-d8282e86a5fe" />
+
+Link:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311912_upc_edu_pe/IQBUs_Y_4um3SqlmHencLzZzAcRDW0w7tUO7SDiC9LGwyOg?e=gi2COG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+Resumen de la entrevista: 
+
+Durante la entrevista, se presentó en detalle el proyecto RentalPe, explicando primero la Landing Page y posteriormente la plataforma web. El entrevistado conoció las secciones principales del sitio, incluyendo la pantalla inicial, los beneficios del servicio, los planes disponibles, el apartado para empresas (For Enterprise) y el footer informativo acerca de la empresa. Al respecto, David comentó que la Landing Page está bien diseñada, pero recomendó añadir una sección donde el emprendimiento hable más sobre sí mismo para generar conexión emocional con los usuarios. Además, sugirió implementar un modo nocturno para mejorar la personalización y accesibilidad.
+
+Luego, se mostró la interfaz de la aplicación web, iniciando por el flujo de registro e inicio de sesión. Se explicó el funcionamiento del Dashboard, la vista de perfil del usuario, la sección de creación de proyectos, la gestión de propiedades, el módulo de soporte para registrar incidentes, el sistema de alertas basado en eventos anómalos detectados por dispositivos IoT y la sección de pagos pendientes (Billing), además de la opción multilenguaje inglés/español. Tras revisar la experiencia, David propuso incluir un tutorial inicial que guíe a los nuevos usuarios en sus primeros pasos dentro de la plataforma. También reforzó la importancia del modo nocturno, junto con opciones para personalizar el Dashboard y ampliar la paleta de colores según preferencias del usuario.
 
 
 ##### 5.3.3. Evaluaciones según heurísticas.
