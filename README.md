@@ -2519,6 +2519,7 @@ Desde inclusive design, la pantalla vacía puede generar ansiedad o confusión, 
 
 ##### 5.4. Video About-the-Product.
 
+En este punto tenemos el link del video About The Product: https://drive.google.com/drive/folders/1sXoZnj1ittGpFLhy1ASGRXRzk_TBeBHS?usp=sharing
 
 ### Conclusiones
 
