@@ -21,11 +21,10 @@ Universidad Peruana de Ciencias Aplicadas
 | --------------------------------- | ---------- |
 | Saravia Huaricancha, Arturo Axel  | U202312447 |
 | Cumba Rengifo, Leonardo Raúl      | U202311912 |
-| Palomares Andrade, Sean Farith    | U202121947 |
 | Pérez Tuesta, Gabriel             | U202321281 |
 | Torrejón Navarro, Braulio Rodrigo | U201711828 |
 
-_Septiembre 2025_
+
 
 </div>
 
@@ -2156,11 +2155,15 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del Backend d
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+![5 2 3 7](https://github.com/user-attachments/assets/af990645-db6d-4424-9981-a7c3a77a7ac3)
+
+![5 2 3 7  2](https://github.com/user-attachments/assets/9c86beb6-8b24-46be-8bc7-2ffd89fdcb15)
 
 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+![5 2 3 8](https://github.com/user-attachments/assets/3928b1a9-738a-48bb-8054-e92f779c67af)
 
 
 
