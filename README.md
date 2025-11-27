@@ -2184,14 +2184,15 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del Backend d
 La base de datos de RentallPE se desplegó en Microsoft Azure, el backend en la plataforma Render y el frontend en Firebase. Además, se habilitó la documentación de la API con Swagger y se conectó el frontend (rentallpe.web.app) con el backend ya publicado (rentallpe-backend.onrender.com), como se aprecia en las capturas y enlaces de despliegue.
 
 ##### Database Deployment
-El deploy de la base de datos se realizo en Microsoft Azure
+
+La base de datos del proyecto RentallPE se desplegó en Microsoft Azure, donde se creó y configuró el servidor para almacenar la información de la aplicación con fecha 2025-11-16.
 
 ![aazure](https://github.com/user-attachments/assets/0238b561-d93c-4958-9b49-a7eddf250b56)
 
 
 ##### Backend Deployment
 
-El deploy del backend se realizo en Render
+El backend se publicó en la plataforma Render, desde donde se gestiona el servicio web que expone la API de RentallPE y permite su acceso desde internet.
 
 ![5 2 3 7](https://github.com/user-attachments/assets/af990645-db6d-4424-9981-a7c3a77a7ac3)
 
@@ -2199,8 +2200,12 @@ El deploy del backend se realizo en Render
 
 Link del deployment del Back-end: https://rentallpe-backend.onrender.com
 
+##### Frontend Deployment
+
 
 Link del deployment del Front-end con las primeras conexiones con el Back-end: https://rentallpe.web.app/login
+
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ![5 2 3 8](https://github.com/user-attachments/assets/3928b1a9-738a-48bb-8054-e92f779c67af)
