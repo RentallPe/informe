@@ -268,7 +268,7 @@ Asimismo, los usuarios desconocen los procedimientos administrativos y las autor
 - Aumento del valor de vida del cliente (LTV) a través de renovaciones de suscripción, servicios complementarios y actualizaciones tecnológicas en IoT.
 - Mejora en la eficiencia del flujo de proyectos, reflejada en una reducción promedio del 20 % en tiempos de entrega y en incidencias reportadas por los usuarios.
 
-### **Feature Outcome**
+### **Feature Assumptions**
 
 #### Flujo de planificación con plantillas y checklists automatizadas
 
@@ -302,11 +302,11 @@ Asimismo, los usuarios desconocen los procedimientos administrativos y las autor
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-- Creemos que si ofrecemos a los propietarios un flujo de planificación paso a paso con plantillas y checklists automatizadas, entonces reducirán los sobrecostos por imprevistos en al menos un 10 % y acortarán los retrasos en un 20 %.
-- Creemos que si proporcionamos un tablero unificado con seguimiento en tiempo real de avance, presupuesto y condiciones ambientales (sensores de IoT), entonces los usuarios tomarán decisiones más rápidas y reducirán los cambios de alcance improvisados en un 30 %.
-- Creemos que si incluimos recomendaciones detalladas sobre qué dispositivos IoT instalar y cómo configurarlos, entonces al menos el 50 % de los usuarios incorporará soluciones inteligentes en su remodelación, mejorando la eficiencia energética en un 15 %.
-- Creemos que si integramos en la plataforma un módulo de trámites municipales con guías paso a paso y recordatorios automáticos, entonces disminuirá en un 80 % el inicio de obras sin permiso, evitando sanciones y paralizaciones.
-- Creemos que si ofrecemos un plan gratuito con funcionalidades básicas (checklists y tutoriales) y un plan premium con asesoría personalizada y monitoreo avanzado, entonces alcanzaremos una tasa de conversión del 20 % de usuarios free a paid dentro de los primeros tres meses.
+- Creemos que lograremos una mejora en la eficiencia del flujo de proyectos reflejada en una reducción promedio del 20 % en tiempos de entrega y en incidencias reportadas por los usuarios si el Propietario de vivienda logra planificar y gestionar sus proyectos de remodelación con mayor precisión, reduciendo los errores y sobrecostes asociados a la falta de planificación con el Flujo de planificación con plantillas y checklists automatizadas.
+- Creemos que lograremos un incremento del margen operativo mediante la automatización de procesos y el uso de infraestructura en la nube reduciendo los costos fijos en al menos un 15 % si el Propietario de establecimiento logra visualizar en tiempo real el avance, los costos y las condiciones ambientales del proyecto desde cualquier dispositivo, aumentando su control y confianza con el Tablero unificado con seguimiento en tiempo real.
+- Creemos que lograremos un aumento del valor de vida del cliente (LTV) a través de renovaciones de suscripción, servicios complementarios y actualizaciones tecnológicas en IoT si el Propietario de vivienda logra integrar y configurar con éxito los dispositivos IoT recomendados, aprovechando sus beneficios en seguridad, eficiencia energética y sostenibilidad con el Módulo de recomendaciones para instalación de dispositivos IoT.
+- Creemos que lograremos un incremento del 10–20 % en la captación de propietarios de locales y viviendas durante los primeros seis meses gracias al modelo preemium y las campañas digitales si el Propietario de establecimiento logra reaccionar proactivamente ante alertas y notificaciones, lo que reduce retrasos, evita imprevistos y mejora la toma de decisiones durante la obra con el Módulo de trámites municipales automatizados.
+- Creemos que lograremos una conversión del 30 % de los usuarios gratuitos a planes premium durante el primer año de operación si el Propietario de vivienda y el Propietario de establecimiento logran planificar y gestionar sus proyectos de remodelación con mayor precisión, reduciendo los errores y sobrecostes asociados a la falta de planificación con los Planes Free y Premium.
 
 
 #### 1.2.2.4. Lean UX Canvas.
