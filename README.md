@@ -3,26 +3,26 @@
 </div>
 
 <div align="center">
-Universidad Peruana de Ciencias Aplicadas
+  
+##  Universidad Peruana de Ciencias Aplicadas
+##  Facultad de Ingeniería
+##  Carrera de Ingeniería de Software
+##  Periodo: 202520
+##  Codigo del curso: 1ASI0730
+##  Curso: Aplicaciones Web   
+##  Codigo de seccion: 7468
+##    **Profesor:** Ángel Augusto Velásquez Núñez  
+##   INFORME DE TRABAJO FINAL
+##   **Startup:** RentallPE 
+##   Proyecto: Remodelaciones a establecimientos
 
-##  Ingeniería de Software
 
-## Ciclo 05
-
-## Aplicaciones Web -  7468
-
-## 
-**Profesor:** Ángel Augusto Velásquez Núñez  
-## INFORME DE TRABAJO FINAL
-**Startup:** RentallPE  
-
-
-| Integrante                        | Código     |
+| Código                        | Integrantes     |
 | --------------------------------- | ---------- |
-| Saravia Huaricancha, Arturo Axel  | U202312447 |
-| Cumba Rengifo, Leonardo Raúl      | U202311912 |
-| Pérez Tuesta, Gabriel             | U202321281 |
-| Torrejón Navarro, Braulio Rodrigo | U201711828 |
+| U202312447                        | Saravia Huaricancha, Arturo Axel |
+| U202311912                        | Cumba Rengifo Leonardo Raúl |
+| U202321281                         | Gabriel Perez Tuesta |
+| U201711828                       | Torrejon Braulio |
 
 
 
@@ -52,9 +52,31 @@ La organización completa está aquí:
 
 A continuación, estadísticas de participación:
 
-<p align="center">
+<br>
+
+Entrega 1: Este informe documenta el ciclo integral de desarrollo del proyecto de software, iniciando con la fase de análisis que abarca la introducción, la obtención y la especificación de requisitos (Capítulos I, II y III), seguida por el diseño de la solución (Capítulo IV). Posteriormente, se detalla la fase de construcción y despliegue (Capítulo V), donde se establece la gestión de la configuración del entorno y se documenta la ejecución práctica del Sprint 1, incluyendo la planificación, el desarrollo de la Landing Page y servicios, las evidencias de validación y el trabajo colaborativo, finalizando con las conclusiones generales.
+
+<p align="">
   <img src="./Imagenes/commits.png" alt="Commits por integrante" width="600">
 </p>
+
+<br>
+
+Entrega 2: Esta sección detalla el ciclo completo del Sprint 2, comenzando con la planificación estratégica, la definición del Backlog y el trabajo colaborativo. Posteriormente, se presentan las evidencias técnicas que validan el trabajo realizado, incluyendo el desarrollo, la ejecución, la documentación de los servicios y el despliegue final del Frontend. El apartado concluye con una reflexión sobre la colaboración interna del equipo (Insights) y las conclusiones finales de esta iteración.
+
+<p align="">
+  <img src="./Imagenes/commits.png" alt="Commits por integrante" width="600">
+</p>
+
+<br>
+
+Entrega 3: Este apartado documenta la ejecución del Sprint 3, abarcando desde su planificación y gestión del backlog hasta la presentación de evidencias técnicas, documentación de servicios y despliegue. Posteriormente, se detalla la fase de validación (sección 5.3), que incluye el diseño y registro de entrevistas con usuarios, así como las evaluaciones heurísticas de la interfaz. El informe culmina con la presentación del video demostrativo del producto y las conclusiones generales del proyecto.
+
+<p align="center">
+  
+  ![WhatsApp Image 2025-11-27 at 00 01 48_eae4d571](https://github.com/user-attachments/assets/e85f9bd1-35db-4c9d-8a4a-a48f3adf07f3)
+</p>
+
 
 ---
 
@@ -164,7 +186,6 @@ RentalPE es una startup dedicada al desarrollo de software, enfocada en encontra
 
 | Nombre Completo del integrante  | Descripcion de Carrera                                                                                                                                      | Fotografía                                                                                                                                                                                                                        | Conocimientos y Habilidades a apuntar                                                                                                                                                                        |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Sean Farith Palomares Andrade   | Ingeniería de Software                                                                                                                                      | ![Sean](Imagenes/sean-palomares.png)                                                                                                                                                                                              | Tengo conocimiento en lenguajes como C#, C++, Python y bases de datos en MySQL. <br> Disfruto colaborar en equipo, compartir ideas y contribuir con una visión común para alcanzar los objetivos propuestos. |
 | Perez Tuesta Gabriel            | Ingeniería de Software<br> 5to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas                                                                 |  ![Gabriel](Imagenes/yoko.png)                                                                         | - Conocimientos de lenguajes de programación html, css y Javascript.<br>- Contribución en equipo y responsabilidad.                                                                                          |
 | Cumba Rengifo Leonardo Raul     | Ingeniería de Software<br> 5to Ciclo<br>2023-2<br>Universidad Peruana de Ciencias Aplicadas                                                                 | ![Leonardo](Imagenes/perfil-integrante-leonardo.png)                                                                                                                                                                              | Estudiante de Ingeniería de Software que quiere enfocarse en backend o en DBA. En la actualidad me gustaria especialiarse en DBA                                                                             |
 | Saravia Huaricancha Arturo Axel | Ingeniería de Software<br> 5to Ciclo<br>2023-1<br>Universidad Peruana de Ciencias Aplicadas                                                                 | ![Arturo](Imagenes/arturo.jpg)                                                                                                                                                                                                    | Estudiante de ing. de software que quiere dedicarse al desarrollo de juegos y apps web                                                                                                                       |
