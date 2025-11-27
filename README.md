@@ -2044,44 +2044,45 @@ Para el tercer sprint, desarrollamos la estructura y las funcionalidades de los 
 
 | User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |--------|
-| US53 | Registro de usuario | SB3-01 | Diseñar contrato y validaciones de registro | Definir POST **/api/v1/auth/register** (OpenAPI), esquema User, reglas (email único, password ≥ 8, política de nombres), mensajes de error y códigos HTTP. | 4 | Arturo Axel Saravia Huaricancha | Done  |
-| US53 | Registro de usuario | SB3-02 | Implementar endpoint y pruebas | Servicio de registro con **hash** (BCrypt), persistencia, DTO/mapper, pruebas unitarias de dominio y de controlador; Postman para flujo feliz y errores. | 6 | Cumba Rengifo Leonardo Raúl | Done |
-| US54 | Autenticación de usuario | SB3-03 | Diseñar login y esquema JWT | Definir POST **/api/v1/auth/login**, payload/response, expiración/refresh, cabeceras, errores (401/403). | 4 | Pérez Tuesta, Gabriel | Done  |
-| US54 | Autenticación de usuario | SB3-04 | Implementar login y middleware | Generar **JWT**/Refresh, guardar **refresh token** (revocable), middleware de autorización por rol, pruebas unitarias/integración. | 6 | Torrejón Navarro, Braulio Rodrigo | Done  |
-| US55 | Creación de Espacio | SB3-05 | Modelado de Space y reglas | Entidad **Space** (nombre, tipo, capacidad, precio, dirección, imágenes), validaciones (precio\>0, capacidad\>0), errores 422\. | 4 | Arturo Axel Saravia Huaricancha | Done  |
-| US55 | Creación de Espacio | SB3-06 | Implementar POST /api/v1/space | Controlador/servicio/repositorio, auditoría (ownerId), pruebas unitarias y de persistencia. | 6 | Cumba Rengifo Leonardo Raúl |Done |
-| US56 | Consulta de Espacios | SB3-07 | GET list \+ paginación/filtros | Implementar **GET /api/v1/space** con paginación, filtros (tipo, distrito, precio), ordenamiento; cache simple. | 5 | Pérez Tuesta, Gabriel | Done  |
-| US56 | Consulta de Espacios | SB3-08 | GET by Id \+ DTOs | Implementar **GET /api/v1/space/{id}**, DTO enriquecido (imágenes, ubicación), manejo 404; Postman tests. | 4 | Torrejón Navarro, Braulio Rodrigo | Done  |
-| US57 | Actualización de Espacio | SB3-09 | Validaciones y Ownership | Reglas de modificación (solo owner/admin), campos permitidos, conflictos 409\. | 3 | Arturo Axel Saravia Huaricancha | Done |
-| US57 | Actualización de Espacio | SB3-10 | Implementar PUT /api/v1/space/{id} | Servicio y pruebas (feliz/errores, concurrencia con ETag/If-Match opcional). | 5 | Cumba Rengifo Leonardo Raúl | Done  |
-| US58 | Eliminación de Espacio | SB3-11 | Estrategia de borrado | Definir **soft-delete** vs hard-delete, restricciones (espacios con reservas/pagos). | 3 | Pérez Tuesta, Gabriel | Done |
-| US58 | Eliminación de Espacio | SB3-12 | Implementar DELETE /api/v1/space/{id} | Soft-delete \+ filtros excluyentes, 404/409, pruebas de integración. | 4 | Torrejón Navarro, Braulio Rodrigo | Done  |
-| US59 | Creación de Pago | SB3-13 | Modelar Payment (PENDING) | Entidad **Payment** (monto, moneda, estado, referencia PSP), validaciones y FSM básica. | 3 | Arturo Axel Saravia Huaricancha |Done  |
-| US59 | Creación de Pago | SB3-14 | Implementar POST /api/v1/payments | Endpoint, idempotencia (Idempotency-Key), auditoría, pruebas. | 5 | Cumba Rengifo Leonardo Raúl | Done  |
-| US61 | Iniciar/Confirmar Pago | SB3-15 | Diseñar initiate/confirm \+ webhooks | Contratos **POST /payments/{id}/initiate** y **/confirm**, manejo de **webhook** PSP, firma/verificación. | 4 | Pérez Tuesta, Gabriel |Done |
-| US61 | Iniciar/Confirmar Pago | SB3-16 | Implementar flujo transaccional | Orquestación de estados (PENDING→AUTHORIZED→CAPTURED), reconciliación y pruebas end-to-end (Postman). | 6 | Torrejón Navarro, Braulio Rodrigo | Done |
-| US62 | Cancelación/Reembolso | SB3-17 | Contratos cancel/refund | Definir **POST /payments/{id}/cancel** y **/refund**, políticas (ventanas, montos parciales). | 3 | Arturo Axel Saravia Huaricancha | Done  |
-| US62 | Cancelación/Reembolso | SB3-18 | Implementación \+ auditoría | Cambios de estado (CAPTURED→REFUNDED/FAILED), registro de motivo, pruebas de borde. | 5 | Cumba Rengifo Leonardo Raúl | Done  |
-| US63 | Registro de Proyecto Monitoreo | SB3-19 | Diseñar proyecto IoT | Contrato **POST /api/v1/monitoring/projects**, esquema (nombre, umbrales, sensores). | 3 | Pérez Tuesta, Gabriel | Done |
-| US63 | Registro de Proyecto Monitoreo | SB3-20 | Implementar endpoint \+ reglas | Persistencia, validaciones y pruebas (duplicados, owner). | 4 | Torrejón Navarro, Braulio Rodrigo | Done  |
-| US64 | Consultar Proyecto por ID | SB3-21 | GET /monitoring/projects/{id} | DTO con config, sensores, reglas; 404, permisos. | 4 | Arturo Axel Saravia Huaricancha | Done |
-| US64 | Consultar Proyecto por ID | SB3-22 | Pruebas e indexación | Índices por owner/project, pruebas de performance básica. | 3 | Cumba Rengifo Leonardo Raúl | Done  |
-| US65 | Ingesta de Lecturas | SB3-23 | Diseño batch y validación | **POST /monitoring/readings** (lote), validación schema/ts, límites de tamaño. | 4 | Pérez Tuesta, Gabriel | Done  |
-| US65 | Ingesta de Lecturas | SB3-24 | Implementación alta concurrencia | Inserciones masivas, colas/bulk, métricas; pruebas de carga ligeras. | 6 | Torrejón Navarro, Braulio Rodrigo | Done  |
-| US66 | Crear Tarea de Monitoreo | SB3-25 | Contrato de tarea | **POST /v2/monitoring/tasks** (tipo, schedule, destino), estados iniciales. | 3 | Arturo Axel Saravia Huaricancha | Done |
-| US66 | Crear Tarea de Monitoreo | SB3-26 | Implementar creación/parametrización | Validaciones, persistencia, pruebas de programación. | 5 | Cumba Rengifo Leonardo Raúl |Done |
-| US67 | Consultar Tarea de Monitoreo | SB3-27 | GET /v2/monitoring/tasks/{id} | Devolver configuración, último run, logs resumidos. | 3 | Pérez Tuesta, Gabriel | Done  |
-| US67 | Consultar Tarea de Monitoreo | SB3-28 | Telemetría y auditoría | Trazas/metrics (status, duración), pruebas. | 3 | Torrejón Navarro, Braulio Rodrigo | Done |
-| US68 | Registro de Dispositivo IoT | SB3-29 | Diseño dispositivo | **POST /monitoring/iot-devices** (deviceId único, tipo, projectId), políticas de duplicado. | 3 | Arturo Axel Saravia Huaricancha |Done  |
-| US68 | Registro de Dispositivo IoT | SB3-30 | Implementación \+ unicidad | Índice único por deviceId, pruebas de errores y flujo feliz. | 4 | Cumba Rengifo Leonardo Raúl | Done  |
-| US69 | Dispositivos por Proyecto | SB3-31 | GET /iot-devices/projects/{projectId} | Listado con paginación/filtros (estado, tipo). | 3 | Pérez Tuesta, Gabriel | Done  |
-| US69 | Dispositivos por Proyecto | SB3-32 | Capa de acceso y pruebas | Repo/servicio, pruebas de consulta. | 3 | Torrejón Navarro, Braulio Rodrigo | Done  |
-| US70 | Incidentes por Proyecto | SB3-33 | Contrato de consulta | **GET /monitoring/incidents/project/{projectId}** con filtros (estado, severidad, rango). | 4 | Arturo Axel Saravia Huaricancha | Done  |
-| US70 | Incidentes por Proyecto | SB3-34 | Implementación \+ filtros | Servicio con filtros compuestos, índices y pruebas. | 4 | Cumba Rengifo Leonardo Raúl | Done |
-| US71 | Reconocer Incidente | SB3-35 | PATCH acknowledge | **PATCH /monitoring/incidents/{id}/acknowledge**: transición y supresión de notificaciones. | 3 | Pérez Tuesta, Gabriel | Done  |
-| US71 | Reconocer Incidente | SB3-36 | Implementación \+ eventos | Cambio de estado, evento de dominio “IncidentAcknowledged”, pruebas. | 4 | Torrejón Navarro, Braulio Rodrigo | Done   |
-| US72 | Notificaciones por Proyecto | SB3-37 | Contrato de consulta | **GET /monitoring/notifications/project/{projectId}**, paginación y filtros (tipo, fecha). | 3 | Arturo Axel Saravia Huaricancha | Done  |
-| US72 | Notificaciones por Proyecto | SB3-38 | Implementación \+ búsqueda | Repositorio, búsqueda por rango temporal, pruebas. | 4 | Cumba Rengifo Leonardo Raúl |    Done    |
+| US53 | Registro de usuario | SB3-01 | Definir registro de usuario (contrato y validaciones) | Definir POST **/api/v1/auth/register** (OpenAPI), esquema User, reglas (email único, password ≥ 8, política de nombres), mensajes de error y códigos HTTP. | 4 | Arturo Axel Saravia Huaricancha | Done |
+| US53 | Registro de usuario | SB3-02 | Desarrollar registro de usuario (endpoint y pruebas) | Servicio de registro con **hash** (BCrypt), persistencia, DTO/mapper, pruebas unitarias de dominio y de controlador; Postman para flujo feliz y errores. | 6 | Cumba Rengifo Leonardo Raúl | Done |
+| US54 | Autenticación de usuario | SB3-03 | Definir inicio de sesión (login) y JWT | Definir POST **/api/v1/auth/login**, payload/response, expiración/refresh, cabeceras, errores (401/403). | 4 | Pérez Tuesta, Gabriel | Done |
+| US54 | Autenticación de usuario | SB3-04 | Desarrollar login (JWT, refresh token y autorización) | Generar **JWT**/Refresh, guardar **refresh token** (revocable), middleware de autorización por rol, pruebas unitarias/integración. | 6 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US55 | Creación de Espacio | SB3-05 | Modelar “Space” y sus validaciones | Entidad **Space** (nombre, tipo, capacidad, precio, dirección, imágenes), validaciones (precio\>0, capacidad\>0), errores 422\. | 4 | Arturo Axel Saravia Huaricancha | Done |
+| US55 | Creación de Espacio | SB3-06 | Desarrollar creación de Space (POST) | Controlador/servicio/repositorio, auditoría (ownerId), pruebas unitarias y de persistencia. | 6 | Cumba Rengifo Leonardo Raúl | Done |
+| US56 | Consulta de Espacios | SB3-07 | Desarrollar listado de Spaces (filtros y paginación) | Implementar **GET /api/v1/space** con paginación, filtros (tipo, distrito, precio), ordenamiento; cache simple. | 5 | Pérez Tuesta, Gabriel | Done |
+| US56 | Consulta de Espacios | SB3-08 | Desarrollar detalle de Space por ID (GET) | Implementar **GET /api/v1/space/{id}**, DTO enriquecido (imágenes, ubicación), manejo 404; Postman tests. | 4 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US57 | Actualización de Espacio | SB3-09 | Definir reglas de actualización de Space (permisos/owner) | Reglas de modificación (solo owner/admin), campos permitidos, conflictos 409\. | 3 | Arturo Axel Saravia Huaricancha | Done |
+| US57 | Actualización de Espacio | SB3-10 | Desarrollar actualización de Space (PUT) | Servicio y pruebas (feliz/errores, concurrencia con ETag/If-Match opcional). | 5 | Cumba Rengifo Leonardo Raúl | Done |
+| US58 | Eliminación de Espacio | SB3-11 | Definir estrategia para eliminar Space (soft delete) | Definir **soft-delete** vs hard-delete, restricciones (espacios con reservas/pagos). | 3 | Pérez Tuesta, Gabriel | Done |
+| US58 | Eliminación de Espacio | SB3-12 | Desarrollar eliminación de Space (DELETE + reglas) | Soft-delete \+ filtros excluyentes, 404/409, pruebas de integración. | 4 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US59 | Creación de Pago | SB3-13 | Modelar Payment y estados iniciales | Entidad **Payment** (monto, moneda, estado, referencia PSP), validaciones y FSM básica. | 3 | Arturo Axel Saravia Huaricancha | Done |
+| US59 | Creación de Pago | SB3-14 | Desarrollar creación de pago (POST) | Endpoint, idempotencia (Idempotency-Key), auditoría, pruebas. | 5 | Cumba Rengifo Leonardo Raúl | Done |
+| US61 | Iniciar/Confirmar Pago | SB3-15 | Definir flujo de pago (initiate/confirm + webhook) | Contratos **POST /payments/{id}/initiate** y **/confirm**, manejo de **webhook** PSP, firma/verificación. | 4 | Pérez Tuesta, Gabriel | Done |
+| US61 | Iniciar/Confirmar Pago | SB3-16 | Desarrollar flujo transaccional de pago (estados y pruebas) | Orquestación de estados (PENDING→AUTHORIZED→CAPTURED), reconciliación y pruebas end-to-end (Postman). | 6 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US62 | Cancelación/Reembolso | SB3-17 | Definir cancelación y reembolso (políticas) | Definir **POST /payments/{id}/cancel** y **/refund**, políticas (ventanas, montos parciales). | 3 | Arturo Axel Saravia Huaricancha | Done |
+| US62 | Cancelación/Reembolso | SB3-18 | Desarrollar cancelación/reembolso (estados y auditoría) | Cambios de estado (CAPTURED→REFUNDED/FAILED), registro de motivo, pruebas de borde. | 5 | Cumba Rengifo Leonardo Raúl | Done |
+| US63 | Registro de Proyecto Monitoreo | SB3-19 | Definir proyecto de monitoreo IoT (contrato) | Contrato **POST /api/v1/monitoring/projects**, esquema (nombre, umbrales, sensores). | 3 | Pérez Tuesta, Gabriel | Done |
+| US63 | Registro de Proyecto Monitoreo | SB3-20 | Desarrollar registro de proyecto IoT (POST) | Persistencia, validaciones y pruebas (duplicados, owner). | 4 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US64 | Consultar Proyecto por ID | SB3-21 | Desarrollar consulta de proyecto IoT por ID (GET) | DTO con config, sensores, reglas; 404, permisos. | 4 | Arturo Axel Saravia Huaricancha | Done |
+| US64 | Consultar Proyecto por ID | SB3-22 | Optimizar consultas: índices y pruebas básicas | Índices por owner/project, pruebas de performance básica. | 3 | Cumba Rengifo Leonardo Raúl | Done |
+| US65 | Ingesta de Lecturas | SB3-23 | Definir ingesta de lecturas IoT por lote (validaciones) | **POST /monitoring/readings** (lote), validación schema/ts, límites de tamaño. | 4 | Pérez Tuesta, Gabriel | Done |
+| US65 | Ingesta de Lecturas | SB3-24 | Desarrollar ingesta de lecturas IoT (bulk y concurrencia) | Inserciones masivas, colas/bulk, métricas; pruebas de carga ligeras. | 6 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US66 | Crear Tarea de Monitoreo | SB3-25 | Definir tareas de monitoreo (contrato) | **POST /v2/monitoring/tasks** (tipo, schedule, destino), estados iniciales. | 3 | Arturo Axel Saravia Huaricancha | Done |
+| US66 | Crear Tarea de Monitoreo | SB3-26 | Desarrollar creación de tareas de monitoreo (POST) | Validaciones, persistencia, pruebas de programación. | 5 | Cumba Rengifo Leonardo Raúl | Done |
+| US67 | Consultar Tarea de Monitoreo | SB3-27 | Desarrollar consulta de tarea de monitoreo por ID (GET) | Devolver configuración, último run, logs resumidos. | 3 | Pérez Tuesta, Gabriel | Done |
+| US67 | Consultar Tarea de Monitoreo | SB3-28 | Implementar telemetría y auditoría de tareas | Trazas/metrics (status, duración), pruebas. | 3 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US68 | Registro de Dispositivo IoT | SB3-29 | Definir registro de dispositivo IoT (contrato) | **POST /monitoring/iot-devices** (deviceId único, tipo, projectId), políticas de duplicado. | 3 | Arturo Axel Saravia Huaricancha | Done |
+| US68 | Registro de Dispositivo IoT | SB3-30 | Desarrollar registro de dispositivo IoT (unicidad y pruebas) | Índice único por deviceId, pruebas de errores y flujo feliz. | 4 | Cumba Rengifo Leonardo Raúl | Done |
+| US69 | Dispositivos por Proyecto | SB3-31 | Desarrollar listado de dispositivos por proyecto (GET) | Listado con paginación/filtros (estado, tipo). | 3 | Pérez Tuesta, Gabriel | Done |
+| US69 | Dispositivos por Proyecto | SB3-32 | Implementar repositorio/servicio y pruebas de dispositivos | Repo/servicio, pruebas de consulta. | 3 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US70 | Incidentes por Proyecto | SB3-33 | Definir consulta de incidentes por proyecto (contrato) | **GET /monitoring/incidents/project/{projectId}** con filtros (estado, severidad, rango). | 4 | Arturo Axel Saravia Huaricancha | Done |
+| US70 | Incidentes por Proyecto | SB3-34 | Desarrollar consulta de incidentes (filtros y pruebas) | Servicio con filtros compuestos, índices y pruebas. | 4 | Cumba Rengifo Leonardo Raúl | Done |
+| US71 | Reconocer Incidente | SB3-35 | Definir reconocimiento de incidente (acknowledge) | **PATCH /monitoring/incidents/{id}/acknowledge**: transición y supresión de notificaciones. | 3 | Pérez Tuesta, Gabriel | Done |
+| US71 | Reconocer Incidente | SB3-36 | Desarrollar reconocimiento de incidente (evento y pruebas) | Cambio de estado, evento de dominio “IncidentAcknowledged”, pruebas. | 4 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US72 | Notificaciones por Proyecto | SB3-37 | Definir consulta de notificaciones por proyecto (contrato) | **GET /monitoring/notifications/project/{projectId}**, paginación y filtros (tipo, fecha). | 3 | Arturo Axel Saravia Huaricancha | Done |
+| US72 | Notificaciones por Proyecto | SB3-38 | Desarrollar consulta de notificaciones (búsqueda y pruebas) | Repositorio, búsqueda por rango temporal, pruebas. | 4 | Cumba Rengifo Leonardo Raúl | Done |
+
 
 
 ##### 5.2.3.4. Development Evidence for Sprint Review
