@@ -2098,7 +2098,7 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
-En este punto presentamos la evidencia de ejecución del backend del Sprint Backlog 3.
+En el Sprint 3 se completó el backend necesario para que la aplicación permita registrar e iniciar sesión de usuarios, gestionar espacios con un CRUD completo, crear y consultar proyectos de monitoreo, asociar y listar dispositivos IoT, registrar lecturas y manejar notificaciones por proyecto. Además, se implementó todo el flujo de pagos (creación, búsqueda y cambio de estado: iniciar, confirmar, cancelar y reembolsar), así como la creación y consulta de tareas de monitoreo. Todo esto quedó expuesto y probado mediante los endpoints REST documentados en Swagger.
 
 <img width="1200" height="766" alt="swager" src="https://github.com/user-attachments/assets/ee617a62-abdb-435d-bf94-a8915ab104b6" />
 
@@ -2180,6 +2180,8 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del Backend d
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+La base de datos de RentallPE se desplegó en Microsoft Azure, el backend en la plataforma Render y el frontend en Firebase. Además, se habilitó la documentación de la API con Swagger y se conectó el frontend (rentallpe.web.app) con el backend ya publicado (rentallpe-backend.onrender.com), como se aprecia en las capturas y enlaces de despliegue.
 
 ##### Database Deployment
 El deploy de la base de datos se realizo en Microsoft Azure
