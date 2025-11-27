@@ -662,33 +662,30 @@ Finalmente, Luan expresa que le gustaría contar con herramientas digitales que 
 
 #### Propietarios de Locales
 
-En las entrevistas de este segmento, los propietarios recalcan que sus principales problemas están relacionados con la falta de control y visibilidad en la operación diaria de los espacios. Señalan incidencias constantes como ruidos, problemas de seguridad y servicios que se atienden tarde. También manifiestan la necesidad de contar con procesos rápidos, simples y trazables, donde puedan obtener comprobantes al instante y llevar un registro ordenado. Una solución digital como RentallPE sería de gran ayuda siempre que permita:
+En base a las entrevistas del segmento Propietarios de Locales, se observa un patrón muy claro: el principal dolor no es “la remodelación” en sí, sino la operación diaria sin control ni visibilidad, donde los problemas aparecen y se atienden tarde porque todo depende de mensajes sueltos, llamadas y coordinación manual. Los entrevistados describen que los incidentes más frecuentes se concentran en seguridad (ingresos no autorizados, visitas sin registro, falta de alertas), ruidos/quejas y fallas de servicios (especialmente baños, agua y electricidad). Esto impacta directamente en la continuidad del local y en la experiencia del usuario/arrendatario; cuando no hay un responsable definido ni un tiempo de respuesta, los problemas escalan y terminan costando más (por urgencias, retrabajos o pérdida de confianza), además de deteriorar la reputación del espacio.
 
-Panel en tiempo real con alertas de seguridad y consumo.
+Otro hallazgo fuerte es la necesidad de trazabilidad financiera y documental: los propietarios de locales requieren comprobantes y recibos con rapidez para trámites y control interno, pero hoy muchos pagos a proveedores o contratistas se manejan de forma informal (transferencias sin detalle, fotos por WhatsApp, documentos dispersos). Esto provoca pérdida de tiempo buscando evidencia, dificultad para justificar gastos, y poca claridad sobre cuánto costó realmente cada incidente o mejora. De manera referencial (y coherente con lo reportado), este tipo de operación suele traducirse en 2 a 4 incidencias al mes y en 6 a 10 horas mensuales solo en coordinación y seguimiento, con un impacto económico que puede rondar S/ 250 a S/ 600 mensuales por urgencias, retrasos o ineficiencias (valores estimados, usados como soporte para el análisis).
 
-Bitácora de incidencias con responsables y tiempos de resolución (SLA).
+Finalmente, el segmento valora mucho una solución digital que funcione como “centro de mando” del local: un panel en tiempo real con alertas (seguridad/consumo/incidencias), una bitácora de incidencias con responsable, evidencia, estado y tiempos (SLA), y la centralización de pagos y facturación con historial y comprobantes automáticos. También aparece como necesidad secundaria, pero relevante, el ordenar cotizaciones y trabajos con formatos comparables, porque reduce dudas y evita sorpresas; sin embargo, lo que más pesa en la decisión es que la plataforma les quite carga operativa, reduzca riesgos y les devuelva control desde el celular, logrando menos pérdidas, mejor coordinación con proveedores y una operación más predecible.
 
-Estandarización de cotizaciones.
 
-Centralización de pagos y facturación.
 
-Visibilidad clara del estado de los espacios.
+<img width="2008" height="980" alt="Propietarios de Locales" src="https://github.com/user-attachments/assets/24ee43f1-a107-4c0f-b87d-01259d84704e" />
+
 
 #### Propietarios de Viviendas
 
-En este segmento, los entrevistados coinciden en que los mayores dolores se encuentran en la desorganización de las remodelaciones, con presupuestos poco claros, sobrecostos por imprevistos y retrasos por cambios de último minuto o falta de compromiso de los trabajadores. También resaltan la importancia de las fotos para atraer clientes y la dificultad de fijar precios adecuados. Además, los pagos suelen manejarse de manera informal, sin comprobantes ni registros claros, lo que complica la gestión.
+En el segmento de Propietarios de Viviendas, las entrevistas muestran que el problema central no es solo “hacer una remodelación”, sino gestionar la remodelación y la puesta en alquiler con orden, control de costos y tiempos. Se repite una frustración fuerte por presupuestos desordenados (cotizaciones en distintos formatos, items poco claros, cambios sin documentar) que terminan dificultando la comparación real entre proveedores. Esto genera incertidumbre (“no sé qué incluye”, “no sé cuánto va a terminar costando”) y provoca decisiones por intuición; de forma referencial, los entrevistados reportan que la coordinación y ordenamiento de cotizaciones puede consumir 8 a 12 horas por remodelación cuando todo se gestiona por WhatsApp y llamadas, y aun así quedan dudas sobre garantías, tiempos y materiales.
 
-Las funcionalidades más valoradas para una solución digital serían:
+El segundo hallazgo más crítico es el impacto de los retrasos y sobrecostos por imprevistos. En viviendas orientadas a alquiler, cada semana de retraso implica días sin ingresos y atraso en publicación; como estimación coherente con lo reportado, un retraso típico de 7 a 10 días puede representar entre S/ 700 y S/ 1,500 en oportunidad de renta no percibida (depende del valor mensual y temporada), además de gastos adicionales por urgencias o retrabajo. En el caso tipo Airbnb (Luan), la improvisación agravó problemas de instalaciones (agua/luz) y acabados, generando “arreglos repetidos” y complicaciones al momento de mantener la calidad del inmueble, lo que se relaciona con baja demanda y presión por diferenciarse rápido.
 
-Centralización de pagos y emisión de comprobantes.
+Otro patrón importante es la informalidad en pagos y comprobantes. Se observa que muchos pagos a contratistas se hacen por transferencias sin detalle o efectivo, sin un registro central y sin comprobantes inmediatos. Esto vuelve difícil justificar gastos, calcular ROI real y controlar cuánto se pagó por cada avance. Además, aparece una necesidad clara de apoyos para publicación y pricing: los propietarios consideran que las fotos (antes/después y presentación) suben la atracción y reducen la vacancia, pero al mismo tiempo les cuesta fijar un precio óptimo (alquiler o noche Airbnb) porque les falta una base objetiva que conecte mejoras realizadas, costos operativos, demanda y comparables de mercado. Complementariamente, en viviendas orientadas a renta corta también se valora el control de consumos (agua/luz) para detectar fugas o incrementos anómalos y evitar sorpresas.
 
-Control en tiempo real de avances y consumos (apoyado en IoT).
+En resumen, para Propietarios de Viviendas una solución como RentalPe tiene valor si reduce el caos en tres frentes: (1) estandarización de cotizaciones para comparar y decidir rápido, (2) seguimiento de avances en tiempo real con evidencia (fotos/checklist/hitos) y responsables para evitar retrasos invisibles, y (3) pagos centralizados con trazabilidad y documentos para cerrar el ciclo financiero y medir ROI. Como capa extra que empuja la adopción, el segmento también aprecia herramientas que faciliten la publicación (paquete de fotos/mejoras) y apoyen la fijación de precios con señales claras, porque eso acelera ocupación y retorno de inversión.
 
-Catálogo de materiales y “combos” predefinidos para simplificar decisiones.
 
-Gestión más formal de contratistas y remodelaciones.
+<img width="2137" height="980" alt="Propietarios de Viviendas" src="https://github.com/user-attachments/assets/e420e04f-02bc-414a-9b0b-5dce6eafa134" />
 
-Organización clara de presupuestos y cronogramas.
 
 ## **2.3. Needfinding**
 
