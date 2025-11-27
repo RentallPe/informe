@@ -2568,7 +2568,12 @@ Desde inclusive design, la pantalla vacía puede generar ansiedad o confusión, 
 
 ##### 5.4. Video About-the-Product.
 
-En este punto tenemos el link del video About The Product: https://drive.google.com/drive/folders/1sXoZnj1ittGpFLhy1ASGRXRzk_TBeBHS?usp=sharing
+Se presenta el video del producto del startup RentallPe, donde se muestra el Landind Page, el Frontend y el Backend funcional.
+
+![WhatsApp Image 2025-11-27 at 18 27 28_016925d2](https://github.com/user-attachments/assets/961a63ff-ed22-494f-b036-35bef272ff64)
+
+
+About The Product: https://drive.google.com/drive/folders/1sXoZnj1ittGpFLhy1ASGRXRzk_TBeBHS?usp=sharing
 
 ### Conclusiones
 
