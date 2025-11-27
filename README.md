@@ -229,7 +229,7 @@ Los proyectos de remodelación necesitan un fondo de contingencia del 10-15 % de
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Los usuarios se enfrentan a remodelaciones caóticas debido a la ausencia de un plan detallado y de un diseño previo en el inicio de las obras. Esta situación provoca sobrecostes que oscilan entre el 10 y el 15 % y retrasos que pueden prolongarse por semanas. Además, la falta de una plataforma integral para monitorear el avance, el presupuesto y la calidad de las obras genera cambios constantes en el alcance y fomenta la utilización de mano de obra informal.
+Los propietarios de viviendas y propietarios de establecimientos se enfrentan a remodelaciones caóticas debido a la ausencia de un plan detallado y de un diseño previo en el inicio de las obras. Esta situación provoca sobrecostes que oscilan entre el 10 y el 15 % y retrasos que pueden prolongarse por semanas. Además, la falta de una plataforma integral para monitorear el avance, el presupuesto y la calidad de las obras genera cambios constantes en el alcance y fomenta la utilización de mano de obra informal.
 
 Asimismo, los usuarios desconocen los procedimientos administrativos y las autorizaciones municipales requeridas, exponiéndose a sanciones y paralizaciones. Aunque muestran interés en soluciones IoT para la seguridad y eficiencia energética, carecen de asesoramiento adecuado para su implementación, lo que limita el aprovechamiento de oportunidades de ahorro y plusvalía.
 
