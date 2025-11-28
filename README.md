@@ -2230,8 +2230,15 @@ Link del deployment del Front-end con las primeras conexiones con el Back-end: h
 
 ![5 2 3 8](https://github.com/user-attachments/assets/3928b1a9-738a-48bb-8054-e92f779c67af)
 
-##### 5.3. Validation Interviews.
+Durante el sprint, el equipo trabajó sobre **RentalPe** organizando la solución backend (**RentalPeAPI**) por **Bounded Contexts (BC)** para asegurar modularidad, claridad de responsabilidades y un desarrollo en paralelo más ordenado. La estructura del proyecto se separó principalmente en los BC de **Space**, **Combo**, **Monitoring**, **Payment**, **Profile**, **Report** y **User**, apoyándose además en una capa **Shared** para componentes reutilizables (convenciones, utilitarios y piezas comunes entre contextos). Esta división permitió que cada integrante avance en su módulo con menor acoplamiento, reduciendo conflictos de integración y facilitando la trazabilidad de cambios por dominio.
 
+A nivel de colaboración, se definió un reparto de trabajo por contextos: **Arturo** se encargó de desarrollar los módulos de **Payment** y **Profile**, enfocándose en la lógica principal, validaciones y endpoints relacionados; **Gabriel** implementó **User**, **Monitoring** y **Report**, además de asumir la responsabilidad del **deploy del backend**, asegurando que el producto estuviera disponible y estable para pruebas; **Leonardo** participó en **Profile** y elaboró la **documentación del proyecto**, consolidando decisiones técnicas, estructura y guías de uso; y **Braulio** desarrolló **Space** y **Combo**, construyendo las funcionalidades de gestión de espacios y paquetes/combinaciones relacionadas.
+
+Como aprendizaje del sprint, la separación por BC ayudó a mantener un flujo de trabajo más eficiente: el equipo pudo implementar funcionalidades en paralelo, integrar mediante convenciones comunes en **Shared**, y validar avances con documentación y despliegue continuo. En conjunto, esta dinámica fortaleció la colaboración, facilitó la integración final y permitió entregar una base backend más escalable, con dominios claros y responsabilidades bien delimitadas.
+
+
+
+##### 5.3. Validation Interviews.
 ##### 5.3.1. Diseño de Entrevistas.
 
 **Segmento : Propietarios de Locales**
