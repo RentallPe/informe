@@ -1869,17 +1869,11 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
-| **Epic / Story ID** | **Título**                                 | **Criterios de Aceptación**                                                                                                                                                                        |
-| ------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US-01               | Visualización de servicios de remodelación | Dado que el usuario ingresa a la Landing Page, cuando accede a la sección de servicios, entonces visualiza los distintos planes de remodelación con su descripción y costos.                       |
-| US-02               | Visualización de sección de proyectos      | Dado que el usuario navega a la sección de proyectos, cuando hace scroll, entonces puede visualizar un listado con imágenes, descripciones y métricas de éxito de remodelaciones previas           |
-| US-03               | Visualización de beneficios IoT            | Dado que el usuario accede a la sección de beneficios, cuando visualiza el contenido, entonces se muestran claramente las ventajas de integrar IoT (ahorro energético, seguridad, sostenibilidad). |
-| US-29               | Multilenguaje                              | Dado que el usuario selecciona un idioma distinto en el menú, cuando cambia la configuración, entonces toda la interfaz se traduce automáticamente (ES/EN).                                        |
-| US-50               | Acceso móvil optimizado                    | Dado que el usuario accede desde un dispositivo móvil, cuando navega por la Landing Page, entonces la visualización es responsive y adaptada a pantallas pequeñas.                                 |
 
-En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
 
-Enlace de la Landing Page: https://rentallpe.github.io/RentallPe/
+En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1
+
+
 
 ![Execution-evidence](Imagenes/land1.png)
 ![Execution-evidence](Imagenes/land2.png)
@@ -1898,6 +1892,13 @@ La creación de la documentación de Web Services mediante OpenAPI/Swagger se pr
 
 Se realizó el despliegue de la **landing page** del proyecto _RentallPe_, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
 
+![Execution-evidence](Imagenes/land1.png)
+![Execution-evidence](Imagenes/land2.png)
+![Execution-evidence](Imagenes/land3.png)
+![Execution-evidence](Imagenes/land4.png)
+![Execution-evidence](Imagenes/land5.png)
+![Execution-evidence](Imagenes/land6.png)
+
 Link: https://rentallpe.github.io/RentallPe/
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
@@ -1906,7 +1907,9 @@ Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pa
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo por todo el equipo.
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo por todo el equipo, donde se observa el trabajo colaborativo de todos.
+
+![WhatsApp Image 2025-11-28 at 00 01 49_024114d7](https://github.com/user-attachments/assets/00804f80-2917-45de-b771-c61431c9ca64)
 
 
 ##### 5.2.2. Sprint 2 
@@ -1948,6 +1951,7 @@ El Sprint Planning 2 es una reunión esencial para iniciar el segundo sprint de 
 <p align="center">
   <img src="./Imagenes/Sprint2F.png" alt="Sprint2F.png""/>
 </p>
+
 link del trello: https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe
 
 | User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
@@ -1984,16 +1988,11 @@ En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes
 
 ##### 5.2.2.5.Execution Evidence for Sprint Review. 
 
-| **Epic / Story ID** | **Título**                                 | **Criterios de Aceptación**                                                                                                                                                                                                 |
-| ------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| US07                | Personalización de perfil                  | Dado que el usuario tiene una cuenta activa, cuando accede a su perfil, entonces puede editar sus datos personales y preferencias, con validación de sesión y persistencia local.                                          |
-| US09                | Historial de proyectos                     | Dado que el usuario accede al panel de proyectos, cuando revisa su historial, entonces puede visualizar, editar o eliminar proyectos previos, con detalles y validaciones adecuadas.                                      |
-| US14                | Comparación de presupuestos                | Dado que el usuario gestiona presupuestos, cuando selecciona varios, entonces puede compararlos en monto, proveedor y tiempo estimado.                                                                                    |
-| US18                | Registro de incidencias (opcional)         | Dado que el usuario detecta un problema, cuando lo reporta en la sección de incidencias, entonces el sistema guarda su registro con estado pendiente.                                                                     |
-| US28                | Configuración de notificaciones            | Dado que el usuario desea controlar sus alertas, cuando cambia las preferencias, entonces el sistema actualiza la configuración de notificaciones (email/push).                                                           |
-| US30                | Filtrado de proyectos                      | Dado que el usuario gestiona múltiples proyectos, cuando utiliza los filtros, entonces la tabla muestra solo los resultados que coinciden con los criterios seleccionados.                                                |
-| US31                | Resumen financiero                         | Dado que el usuario visualiza un proyecto, cuando accede al panel de resumen, entonces puede ver los totales de presupuesto, gasto y avance general del proyecto.                                                         |
-| US33                | Gestión de documentos                      | Dado que el usuario administra un proyecto, cuando sube documentos, entonces puede agregar, visualizar o eliminar archivos (PDF, imágenes) asociados al proyecto.                                                         |
+En el Sprint 2 se ha completado el desarrollo del Frontend, cuyas vistas se realizaron en base a los mockups, implementandose el login, y el dashboard principal, como tambien se hizo el despliegue en la plataforma de Firebase.
+
+
+![WhatsApp Image 2025-11-28 at 00 04 28_0463d14f](https://github.com/user-attachments/assets/79d873a1-111a-45b0-86a2-c0acbbea9eeb)
+
 
 
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
@@ -2014,6 +2013,9 @@ Link del deployment del Frontend: https://rentallpe.web.app/login
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Para este sprint, las tareas de desarrollo, implementación y documentación de la web application se distribuyó entre los integrantes del equipo. La implementación, desarrollo y despliegue fue llevado a cabo por todo el equipo.
+
+![WhatsApp Image 2025-11-28 at 00 13 57_cf789816](https://github.com/user-attachments/assets/a40dd52d-c91a-47e6-9104-0209ac8ea978)
+
 
 #### 5.2.3. Sprint 3
 
