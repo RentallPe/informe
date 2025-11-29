@@ -13,7 +13,7 @@
 ### Codigo del curso: 1ASI0730
 ### Curso: Aplicaciones Web
 ### Codigo de seccion: 7468
-### Profesor: Ángel Augusto Velásquez Núñez
+### Profesor: Angel Augusto Velasquez Nuñez
 
 ### INFORME DE TRABAJO FINAL
 
@@ -28,7 +28,7 @@
 | U202321281                         | Gabriel Perez Tuesta |
 | U201711828                       | Torrejon Braulio |
 
-
+<div style="page-break-after: always;"></div>
 
 </div>
 
@@ -175,7 +175,7 @@ Entrega 3: Este apartado documenta la ejecución del Sprint 3, abarcando desde s
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | - **TB1: Arturo Saravia:** Asignó tareas semanales al equipo y verificó que cada miembro cumpliera con sus entregables a tiempo.<br>- **TB1: Braulio Torrejon:** Proporcionó tutoriales y referencias sobre herramientas de diseño para apoyar a los miembros menos experimentados.<br>- **TB1: Leonardo Cumba:** Documentó los avances del equipo y creó un cronograma para asegurar la finalización de los capítulos 2, 4 y 5.<br>- **TB1: Gabriel Perez:** Coordinó sesiones de revisión de contenido para asegurar la calidad del capítulo 3 y retroalimentación constructiva.<br><br>- **TP: Arturo Saravia:** Asignó tareas semanales al equipo y verificó que cada miembro cumpliera con sus entregables a tiempo.<br>- **TP: Braulio Torrejon:** Proporcionó tutoriales y referencias sobre desarrollo para apoyar al equipo.<br>- **TP: Leonardo Cumba:** Documentó los avances del equipo y creó un cronograma para asegurar la finalización del sprint 2.<br>- **TP: Gabriel Perez:** Coordinó sesiones de revisión de contenido para asegurar la calidad de los capítulos y retroalimentación constructiva.<br><br>- **TB2: Arturo Saravia:** Implementó la gestión de dependencias y versiones de NuGet para mantener la estabilidad del proyecto C#.<br>- **TB2: Braulio Torrejon:** Mantuvo actualizada la documentación de Swagger para reflejar los cambios en los *endpoints* del *backend* en tiempo real.<br>- **TB2: Leonardo Cumba:** Organizó sesiones de *pair programming* para transferir conocimiento sobre el manejo de Entity Framework Core en C#.<br>- **TB2: Gabriel Perez:** Creó *issues* detallados en el repositorio Git para el seguimiento de *bugs* y funcionalidades pendientes en las APIs. | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realización de todos los capítulos del informe se pudo complementar la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. |
 
 
-
+<div style="page-break-after: always;"></div>
 ---
 
 # Capítulo I: Introducción
@@ -352,6 +352,8 @@ Personas/familias e inversionistas pequeños que remodelan para vender mejor o a
 - Plan de remodelación “lista para publicar”: paquete claro (alcances, tiempos, costos) con antes/después y checklist de materiales.
 - Comparación de presupuestos y pagos: cotizaciones normalizadas, hitos de obra, pagos en línea y comprobantes.
 - Atributos que suben valor: cocina/baño, iluminación/ventilación, eficiencia energética (artefactos/IAQ básico), y reportes para anuncios (consumo estimado, mejoras certificables).
+  
+<div style="page-break-after: always;"></div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -778,6 +780,8 @@ Para el desarrollo de los Empathy Map hemos utilizado la información recopilada
 | **Mantenimiento Preventivo**   | Acciones planificadas para evitar problemas futuros en la propiedad.                                   |
 | **ROI (Retorno de Inversión)** | Métrica para evaluar el beneficio de una remodelación frente al costo invertido.                       |
 
+<div style="page-break-after: always;"></div>
+
 # Capítulo III Especificación de requisitos
 
 ### 3.1 User Storys
@@ -943,6 +947,10 @@ De esta manera, el mapa de impacto facilita una comprensión clara de qué soluc
 | 70    | US70          | Consulta de Incidentes por Proyecto | Como desarrollador, quiero implementar el endpoint GET /api/v1/monitoring/incidents/project/{projectId} para recuperar la lista de incidentes activos o históricos asociados a un proyecto específico.              | 3      |
 | 71    | US71          | Reconocimiento (Acknowledge) de Incidente | Como desarrollador, quiero implementar el endpoint PATCH /api/v1/monitoring/incidents/{id}/acknowledge para cambiar el estado de un incidente a "reconocido" (acknowledged), lo cual detiene las notificaciones recurrentes.              | 3      |
 | 72    | US72          | Consulta de Notificaciones por Proyecto | Como desarrollador, quiero implementar el endpoint GET /api/v1/monitoring/notifications/project/{projectId} para recuperar la lista de notificaciones generadas para un proyecto específico.              | 3      |
+
+
+<div style="page-break-after: always;"></div>
+
 
 # **Capítulo 4**
 
@@ -1602,6 +1610,9 @@ Veremos como se muestra las relaciones internas entre los elementos dentro de ca
 <p align="center">
   <img src="./Imagenes/Database Diagrams.jpg" alt="Database Diagrams.jpg""/>
 </p>
+
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo V Implementación, validación y despliegue de productos
 
@@ -2588,6 +2599,8 @@ Se presenta el video del producto del startup RentallPe, donde se muestra el Lan
 
 About The Product: https://drive.google.com/drive/folders/1sXoZnj1ittGpFLhy1ASGRXRzk_TBeBHS?usp=sharing
 
+<div style="page-break-after: always;"></div>
+
 ### Conclusiones
 
 RentallPe surge ante la fragmentación del mercado de remodelaciones: cotizaciones incomparables, pagos/facturación manuales y poca visibilidad del avance y consumo. La plataforma unifica descubrimiento de servicios, gestión de pagos con e-factura y monitoreo IoT en un solo lugar, conectando la oferta de profesionales con la demanda de propietarios.
@@ -2597,3 +2610,17 @@ La propuesta prioriza experiencia y confianza: registro seguro, perfiles y prefe
 Además de la eficiencia operativa vía digitalización (presupuestos estandarizados, contratos/firma, conciliación), el enfoque promueve sostenibilidad con indicadores y reportes que ayudan a reducir costos y mejorar el confort.
 
 En síntesis, rentallPe es más que un portal: es una plataforma integral y escalable (arquitectura por bounded contexts y CQRS) que impulsa productividad y formalización del sector, con impacto económico y operativo para propietarios, contratistas y clientes en el mercado peruano.
+
+### Anexos
+
+
+
+
+
+
+
+
+
+
+
+
