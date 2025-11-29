@@ -16,6 +16,19 @@
 ##   **Startup:** RentallPE 
 ##   Proyecto: Remodelaciones a establecimientos
 
+<p align="center"><b>Universidad Peruana de Ciencias Aplicadas</b></p>
+<p align="center"><b>Facultad de Ingeniería</b></p>
+<p align="center"><b>Carrera de Ingeniería de Software</b></p>
+<p align="center"><b>Periodo: 202520</b></p>
+<p align="center"><b>Código del curso: 1ASI0730</b></p>
+<p align="center"><b>Curso: Aplicaciones Web</b></p>
+<p align="center"><b>Código de sección: 7468</b></p>
+<p align="center"><b>Profesor:</b> Ángel Augusto Velásquez Núñez</p>
+<p align="center"><b>INFORME DE TRABAJO FINAL</b></p>
+<p align="center"><b>Startup:</b> RentallPE</p>
+<p align="center"><b>Proyecto:</b> Remodelaciones a establecimientos</p>
+
+
 
 | Código                        | Integrantes     |
 | --------------------------------- | ---------- |
