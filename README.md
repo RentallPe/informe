@@ -4,21 +4,10 @@
 
 <div align="center">
   
-##  Universidad Peruana de Ciencias Aplicadas
-##  Facultad de Ingeniería
-##  Carrera de Ingeniería de Software
-##  Periodo: 202520
-##  Codigo del curso: 1ASI0730
-##  Curso: Aplicaciones Web   
-##  Codigo de seccion: 7468
-##    **Profesor:** Ángel Augusto Velásquez Núñez  
-##   INFORME DE TRABAJO FINAL
-##   **Startup:** RentallPE 
-##   Proyecto: Remodelaciones a establecimientos
 
-# Universidad Peruana de Ciencias Aplicadas
-## Facultad de Ingeniería
-## Carrera de Ingeniería de Software
+### Universidad Peruana de Ciencias Aplicadas
+### Facultad de Ingeniería
+### Carrera de Ingeniería de Software
 
 ### Periodo: 202520
 ### Codigo del curso: 1ASI0730
@@ -26,7 +15,7 @@
 ### Codigo de seccion: 7468
 ### Profesor: Ángel Augusto Velásquez Núñez
 
-## INFORME DE TRABAJO FINAL
+### INFORME DE TRABAJO FINAL
 
 ### Startup: RentallPE
 ### Proyecto: Remodelaciones a establecimientos
