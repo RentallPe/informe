@@ -17,17 +17,19 @@
 ##   Proyecto: Remodelaciones a establecimientos
 
 
-<p align="center"><span style="font-size:22px; font-weight:bold;">Universidad Peruana de Ciencias Aplicadas</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">Facultad de Ingeniería</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">Carrera de Ingeniería de Software</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">Periodo: 202520</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">Código del curso: 1ASI0730</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">Curso: Aplicaciones Web</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">Código de sección: 7468</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">Profesor: Ángel Augusto Velásquez Núñez</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">INFORME DE TRABAJO FINAL</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">Startup: RentallPE</span></p>
-<p align="center"><span style="font-size:22px; font-weight:bold;">Proyecto: Remodelaciones a establecimientos</span></p>
+<p align="center">
+  <b style="font-size:28px;">Universidad Peruana de Ciencias Aplicadas</b><br>
+  <b style="font-size:26px;">Facultad de Ingeniería</b><br>
+  <b style="font-size:26px;">Carrera de Ingeniería de Software</b><br>
+  <b style="font-size:24px;">Periodo: 202520</b><br>
+  <b style="font-size:24px;">Código del curso: 1ASI0730</b><br>
+  <b style="font-size:24px;">Curso: Aplicaciones Web</b><br>
+  <b style="font-size:24px;">Código de sección: 7468</b><br>
+  <b style="font-size:24px;">Profesor: Ángel Augusto Velásquez Núñez</b><br>
+  <b style="font-size:26px;">INFORME DE TRABAJO FINAL</b><br>
+  <b style="font-size:24px;">Startup: RentallPE</b><br>
+  <b style="font-size:24px;">Proyecto: Remodelaciones a establecimientos</b>
+</p>
 
 
 | Código                        | Integrantes     |
