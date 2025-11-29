@@ -16,18 +16,18 @@
 ##   **Startup:** RentallPE 
 ##   Proyecto: Remodelaciones a establecimientos
 
-<h2 align="center"><b>Universidad Peruana de Ciencias Aplicadas</b></h2>
-<h2 align="center"><b>Facultad de Ingeniería</b></h2>
-<h2 align="center"><b>Carrera de Ingeniería de Software</b></h2>
-<h2 align="center"><b>Periodo: 202520</b></h2>
-<h2 align="center"><b>Código del curso: 1ASI0730</b></h2>
-<h2 align="center"><b>Curso: Aplicaciones Web</b></h2>
-<h2 align="center"><b>Código de sección: 7468</b></h2>
-<h2 align="center"><b>Profesor: Ángel Augusto Velásquez Núñez</b></h2>
-<h2 align="center"><b>INFORME DE TRABAJO FINAL</b></h2>
-<h2 align="center"><b>Startup: RentallPE</b></h2>
-<h2 align="center"><b>Proyecto: Remodelaciones a establecimientos</b></h2>
 
+<p align="center"><span style="font-size:22px; font-weight:bold;">Universidad Peruana de Ciencias Aplicadas</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">Facultad de Ingeniería</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">Carrera de Ingeniería de Software</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">Periodo: 202520</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">Código del curso: 1ASI0730</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">Curso: Aplicaciones Web</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">Código de sección: 7468</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">Profesor: Ángel Augusto Velásquez Núñez</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">INFORME DE TRABAJO FINAL</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">Startup: RentallPE</span></p>
+<p align="center"><span style="font-size:22px; font-weight:bold;">Proyecto: Remodelaciones a establecimientos</span></p>
 
 
 | Código                        | Integrantes     |
