@@ -38,17 +38,27 @@
 
 <div align="center">
   
-| **Versión** | **Fecha** | **Autor(es)** | **Descripción** |
+| **Versión** | **Fecha** | **Autor** | **Descripción** |
 |--------------|------------|----------------|------------------|
-| **1.0.0 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
-|--------------|------------|----------------|------------------|
-| **1.0.0 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
-|--------------|------------|----------------|------------------|
-| **1.0.0 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
-|--------------|------------|----------------|------------------|
-| **1.0.0 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
-|--------------|------------|----------------|------------------|
-| **1.0.0 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
+| **1.1.0 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel | Capítulo I: Introducción
+1.1. Startup Profile
+1.1.1. Descripción de la Startup
+1.1.2. Perfiles de integrantes del equipo
+1.2. Solution Profile
+1.2.1 Antecedentes y problemática
+1.2.2 Lean UX Process.
+1.2.2.1. Lean UX Problem Statements.
+1.2.2.2. Lean UX Assumptions.
+1.2.2.3. Lean UX Hypothesis Statements.
+1.2.2.4. Lean UX Canvas.
+1.3. Segmentos objetivo.|
+| **1.2.1 (TB1)** | 10/09/2025 | Cumba Rengifo, Leonardo Raul| Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
+| **1.2.1 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
+| **1.3.1 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
+| **1.4.1 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
+| **1.4.1 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
+| **1.5.1 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
+| **1.5.2 (TB1)** | 10/09/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo I: Introducción.<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Product Design.<br>Capítulo V: Product Implementation, Validation & Deployment. |
 | **2.0.0 (TP)** | 10/10/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo V: Sprint 2 |
 | **3.0.0 (TB2)** | 16/10/2025 | - Saravia Huaricancha, Arturo Axel<br>- Cumba Rengifo, Leonardo Raul<br>- Palomares Andrade, Sean Farith<br>- Perez Tuesta, Gabriel<br>- Torrejón Navarro, Braulio Rodrigo | Capítulo V: Sprint 3 |
 </div>
