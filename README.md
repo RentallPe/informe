@@ -22,11 +22,11 @@
 
 
 | Código                        | Integrantes     |
-| --------------------------------- | ---------- |
-| U202312447                        | Saravia Huaricancha, Arturo Axel |
-| U202311912                        | Cumba Rengifo Leonardo Raúl |
-| U202321281                         | Gabriel Perez Tuesta |
-| U201711828                       | Torrejon Braulio |
+| ---------------------------------| ---------- |
+| U202312447                       | Saravia Huaricancha, Arturo Axel |
+| U202311912                       | Cumba Rengifo Leonardo Raúl |
+| U202321281                       | Gabriel Perez Tuesta |
+| U201711828                       | Torrejón Navarro, Braulio Rodrigo |
 
 <div style="page-break-after: always;"></div>
 
@@ -59,7 +59,7 @@
 | **3.2.1 (TB2)** | 16/10/2025 | Perez Tuesta, Gabriel | Elaboración y definición del Bounded Context (BC) correspondiente al dominio de Usuarios. |
 | **3.3.1 (TB2)** | 16/10/2025 | Saravia Huaricancha, Arturo Axel | Elaboración y definición del Bounded Context (BC) correspondiente al dominio de Pagos. |
 | **3.4.1 (TB2)** | 16/10/2025 | Cumba Rengifo, Leonardo Raul | Elaboración y definición del Bounded Context (BC) correspondiente al dominio de Perfil (Profile). |
-| **3.4.2 (TB2)** | 16/10/2025 |Saravia Huaricancha, Arturo Axel | Finalización y refinamiento del Bounded Context (BC) correspondiente al dominio de Perfil (Profile). |
+| **3.4.2 (TB2)** | 16/10/2025 | Saravia Huaricancha, Arturo Axel | Finalización y refinamiento del Bounded Context (BC) correspondiente al dominio de Perfil (Profile). |
 | **3.5.1 (TB2)** | 16/10/2025 | Torrejón Navarro, Braulio Rodrigo | Elaboración y definición de los Bounded Contexts (BC) correspondientes a los dominios de Properties y Combos. |
 | **3.6.1 (TB2)** | 16/10/2025 | Perez Tuesta, Gabriel | Elaboración y definición del Bounded Context (BC) correspondiente al dominio de Monitoring. |
 | **3.7.1 (TB2)** | 16/10/2025 | Cumba Rengifo, Leonardo Raul | Consolidación y redacción de la documentación técnica integrada en el documento principal. |
@@ -1856,7 +1856,6 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 | ----------------------------------- | --------------- | ------------------- |
 | Arturo Axel Saravia Huaricancha     | thunder053      | L                   |
 | Cumba Rengifo, Leonardo Raúl        | LeonardoC72     | C                   |
-| Palomares Andrade, Sean Farith      | Sean6513201     | C                   |
 | Pérez Tuesta, Gabriel               | Gabyoko         | C                   |
 | Braulio Rodrigo                     | BraulioTN       | C                   |
 
@@ -1976,7 +1975,6 @@ El Sprint Planning 2 es una reunión esencial para iniciar el segundo sprint de 
 | ----------------------------------- | --------------- | ------------------- |
 | Arturo Axel Saravia Huaricancha     | thunder053      | L                   |
 | Cumba Rengifo, Leonardo Raúl        | LeonardoC72     | C                   |
-| Palomares Andrade, Sean Farith      | Sean6513201     | C                   |
 | Pérez Tuesta, Gabriel               | Gabyoko         | C                   |
 | Braulio Rodrigo                     | BraulioTN       | C                   |
 
@@ -2626,11 +2624,22 @@ About The Product: https://drive.google.com/drive/folders/1sXoZnj1ittGpFLhy1ASGR
 
 ##### 5.2.4. Sprint 4
 
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 4.
+
 ##### 5.2.4.1.Spring Planning 4.
+
 
 ##### 5.2.4.2. Aspect Leaders and Collaborators.
 
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----------------------------------- | --------------- | ------------------- |
+| Arturo Axel Saravia Huaricancha     | thunder053      | L                   |
+| Cumba Rengifo, Leonardo Raúl        | LeonardoC72     | C                   |
+| Pérez Tuesta, Gabriel               | Gabyoko         | C                   |
+| Braulio Rodrigo                     | BraulioTN       | C                   |
+
 ##### 5.2.4.3.Sprint Backlog 4.
+
 
 ##### 5.2.4.4.Development Evidence for Sprint Review.
 
