@@ -2622,6 +2622,35 @@ About The Product: https://drive.google.com/drive/folders/1sXoZnj1ittGpFLhy1ASGR
 
 <div style="page-break-after: always;"></div>
 
+
+
+##### 5.2.4. Sprint 4
+
+##### 5.2.4.1.Spring Planning 4.
+
+##### 5.2.4.2. Aspect Leaders and Collaborators.
+
+##### 5.2.4.3.Sprint Backlog 4.
+
+##### 5.2.4.4.Development Evidence for Sprint Review.
+
+##### 5.2.4.5.Execution Evidence for Sprint Review.
+
+##### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+##### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+##### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+
+
+
+
+
+
+
+
+
 ### Conclusiones
 
 RentallPe surge ante la fragmentación del mercado de remodelaciones: cotizaciones incomparables, pagos/facturación manuales y poca visibilidad del avance y consumo. La plataforma unifica descubrimiento de servicios, gestión de pagos con e-factura y monitoreo IoT en un solo lugar, conectando la oferta de profesionales con la demanda de propietarios.
