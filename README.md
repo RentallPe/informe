@@ -2771,7 +2771,7 @@ La base de datos del proyecto RentallPE se desplegó en Microsoft Azure, que no 
 
 ##### Backend Deployment
 
-El backend finalizado se actualizó en la plataforma Render, donde se gestiona el servicio web que expone la API de RentallPE y permite su acceso desde internet.
+El nuevo backend finalizado se actualizó en la plataforma Render, donde se gestiona el servicio web que expone la API de RentallPE y permite su acceso desde internet.
 
 ![5 2 3 7](https://github.com/user-attachments/assets/af990645-db6d-4424-9981-a7c3a77a7ac3)
 
@@ -2791,6 +2791,8 @@ Link del deployment del Front-end con las primeras conexiones con el Back-end: h
 
 
 ##### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+![5 2 3 8](https://github.com/user-attachments/assets/3928b1a9-738a-48bb-8054-e92f779c67af)
 
 Durante el Sprint 4, el equipo consolidó por completo la solución RentalPe, organizando el backend RentalPeAPI bajo una arquitectura de Bounded Contexts (BC) que incluye Property, Combo, Monitoring, Payment, Profile, Providers y User, apoyados por una capa Shared. Gracias a esta estructura modular, se completó el 100% de la funcionalidad requerida: desde el registro y autenticación de usuarios y el CRUD de espacios, hasta la gestión compleja de proyectos de monitoreo IoT (dispositivos, lecturas y notificaciones) y el flujo integral de pagos (creación, reembolso y confirmación). El hito más significativo de esta etapa fue la conexión exitosa de estos servicios con el cliente web y el despliegue final de toda la infraestructura; la base de datos, el backend y el frontend ya se encuentran operativos y comunicándose entre sí en el entorno de producción.
 
