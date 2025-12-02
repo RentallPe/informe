@@ -2736,7 +2736,8 @@ En esta sección se registra el avance del producto y las acciones colaborativas
 
 ##### 5.2.4.3.Sprint Backlog 4.
 
-![sprint4](https://github.com/user-attachments/assets/bfc36f56-deb5-4cfc-8957-4e19ded6bfb1)
+![WhatsApp Image 2025-12-02 at 10 15 36_82cb141d](https://github.com/user-attachments/assets/ff3237f4-419e-4370-9e41-532b189dd716)
+
 
 link del trello:
 https://trello.com/invite/b/692e70aeeef1a4006a4a29a4/ATTI404f091e31240d39ac63e81109af4b73A133B4E7/sprint-4
