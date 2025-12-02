@@ -2,7 +2,7 @@
   <img src="Imagenes/UPC_logo.png" alt="Logo UPC" width="200">
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   
 ### Universidad Peruana de Ciencias Aplicadas
 ### Facultad de Ingeniería
