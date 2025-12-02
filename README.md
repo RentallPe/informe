@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  
 ### Universidad Peruana de Ciencias Aplicadas
 ### Facultad de Ingeniería
 ### Carrera de Ingeniería de Software
@@ -28,7 +29,7 @@
 </div>
 
 <div style="page-break-after: always;"></div>
----
+
 
 ## Registro de Versiones del Informe
 
