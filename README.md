@@ -2059,8 +2059,7 @@ En esta sección se registra el avance del producto y las acciones colaborativas
 
 El Sprint Planning 3 es una reunión esencial para iniciar el tercer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la version inicial del backend, asegurando una presentación efectiva del producto. Implementando las primeras conexiones del back-end con el front-end.
 
-| Sprint \#                           | Sprint 1                                                                                                                                                                                                                                                                                                                |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint \#                           | Sprint 3                                                                                                                                                                                                                                                             | ----- | ----- |
 | Date                                | 2025-11-11                                                                                                                                                                                                                                                                                                              |
 | Time                                | 11:00 PM                                                                                                                                                                                                                                                                                                                 |
 | Location                            | Virtual \- Meet                                                                                                                                                                                                                                                                                                         |
@@ -2627,7 +2626,18 @@ About The Product: https://drive.google.com/drive/folders/1sXoZnj1ittGpFLhy1ASGR
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo para el Sprint 4.
 
 ##### 5.2.4.1.Spring Planning 4.
-
+| Sprint \#                           | Sprint 4                                                                                                                                                                                                                                                                                                                |
+| ----- | ----- |
+| Date                                | 2025-11-27                                                                                                                                                                                                                                                                                                              |
+| Time                                | 11:00 PM                                                                                                                                                                                                                                                                                                                 |
+| Location                            | Virtual \- Meet                                                                                                                                                                                                                                                                                                         |
+| Prepared By                         | Arturo Saravia                                                                                                                                                                                                                                                                                                          |
+| Attendees (to planning meeting)     | Arturo Axel Saravia Huaricancha, Cumba Rengifo Leonardo Raúl, Pérez Tuesta, Gabriel y Torrejón Navarro Braulio Rodrigo                                                                                                                                                                |
+| Sprint n \- 3 Review Summary        | Hemos Corregido la parte de frontend y la documentacion.                                                                                                                                                                                                                                                              |
+| Sprint n \- 3 Retrospective Summary |Hemos Corregido la parte de frontend y la documentacion .                                                                                                                                                                                                                                                              |
+| Sprint 4 Goal                       |XX  |
+| Sprint 4 Velocity                   | XX.                                                                                                                                                                                                                                                                     |
+| Sum of Story Points                 | La suma de Story Points atendidos es de 120.                                                                                                                                                                                                                                                                            |
 
 ##### 5.2.4.2. Aspect Leaders and Collaborators.
 
@@ -2639,6 +2649,18 @@ En esta sección se registra el avance del producto y las acciones colaborativas
 | Braulio Rodrigo                     | BraulioTN       | C                   |
 
 ##### 5.2.4.3.Sprint Backlog 4.
+
+
+| User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |--------|
+| US69 | Dispositivos por Proyecto | SB3-31 | Desarrollar listado de dispositivos por proyecto (GET) | Listado con paginación/filtros (estado, tipo). | 3 | Pérez Tuesta, Gabriel | Done |
+| US69 | Dispositivos por Proyecto | SB3-32 | Implementar repositorio/servicio y pruebas de dispositivos | Repo/servicio, pruebas de consulta. | 3 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US70 | Incidentes por Proyecto | SB3-33 | Definir consulta de incidentes por proyecto (contrato) | **GET /monitoring/incidents/project/{projectId}** con filtros (estado, severidad, rango). | 4 | Arturo Axel Saravia Huaricancha | Done |
+| US70 | Incidentes por Proyecto | SB3-34 | Desarrollar consulta de incidentes (filtros y pruebas) | Servicio con filtros compuestos, índices y pruebas. | 4 | Cumba Rengifo Leonardo Raúl | Done |
+| US71 | Reconocer Incidente | SB3-35 | Definir reconocimiento de incidente (acknowledge) | **PATCH /monitoring/incidents/{id}/acknowledge**: transición y supresión de notificaciones. | 3 | Pérez Tuesta, Gabriel | Done |
+| US71 | Reconocer Incidente | SB3-36 | Desarrollar reconocimiento de incidente (evento y pruebas) | Cambio de estado, evento de dominio “IncidentAcknowledged”, pruebas. | 4 | Torrejón Navarro, Braulio Rodrigo | Done |
+| US72 | Notificaciones por Proyecto | SB3-37 | Definir consulta de notificaciones por proyecto (contrato) | **GET /monitoring/notifications/project/{projectId}**, paginación y filtros (tipo, fecha). | 3 | Arturo Axel Saravia Huaricancha | Done |
+| US72 | Notificaciones por Proyecto | SB3-38 | Desarrollar consulta de notificaciones (búsqueda y pruebas) | Repositorio, búsqueda por rango temporal, pruebas. | 4 | Cumba Rengifo Leonardo Raúl | Done |
 
 
 ##### 5.2.4.4.Development Evidence for Sprint Review.
