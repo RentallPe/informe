@@ -2859,11 +2859,18 @@ La base de datos del proyecto RentallPE se desplegó en Microsoft Azure, que no 
 
 ##### Backend Deployment
 
-El nuevo backend finalizado se actualizó en la plataforma Render, donde se gestiona el servicio web que expone la API de RentallPE y permite su acceso desde internet.
+El nuevo backend finalizado se actualizó en la plataforma Render, donde se gestiona el servicio web que expone la API de RentallPE y permite su acceso desde internet, con fecha 2/12/2025
 
-![5 2 3 7](https://github.com/user-attachments/assets/af990645-db6d-4424-9981-a7c3a77a7ac3)
+![WhatsApp Image 2025-12-02 at 05 14 31_af2bf75f](https://github.com/user-attachments/assets/694bc916-c152-4d78-bd20-73d5c76555cf)
 
-![5 2 3 7  2](https://github.com/user-attachments/assets/9c86beb6-8b24-46be-8bc7-2ffd89fdcb15)
+Vemos como la backend desplegada, y el Swagger funciona correctamente con los enpoints correspondientes
+
+![WhatsApp Image 2025-12-02 at 05 16 08_e276ad7e](https://github.com/user-attachments/assets/179c8258-71d3-4140-bd52-cbe56d43f96c)
+
+![WhatsApp Image 2025-12-02 at 05 16 19_0c313c9c](https://github.com/user-attachments/assets/a1bde1f1-e98c-43c6-94db-6683201b0f1c)
+
+![WhatsApp Image 2025-12-02 at 05 16 31_44705d4f](https://github.com/user-attachments/assets/6a886cbb-43a0-4888-a3b6-36a237a39668)
+
 
 Link del deployment del Back-end: https://rentallpe-backend.onrender.com
 
@@ -2871,10 +2878,20 @@ Link del deployment del Back-end: https://rentallpe-backend.onrender.com
 
 El frontend finalizado con éxito y su respectivo despliegue se realizo en Firebase, mostrandose la conexión con el backend y probando las funcionalidades tanto del frontend como el backend, con fecha 2/12/2025
 
+Podemos ver como se usa la conexion con el backend, especificamente el endpoint de usuarios para poder hacer el login al frontend.
+
+![WhatsApp Image 2025-12-02 at 05 11 17_efd6a199](https://github.com/user-attachments/assets/e4a11573-0486-41e1-a204-eed27afdfbdf)
+
+Inicio de Sesion exitoso.
+
+![WhatsApp Image 2025-12-02 at 05 11 31_a85f79f6](https://github.com/user-attachments/assets/b60bc05f-d73a-475f-8ebb-3aec4665ddb7)
+
+Inicio del Dashboard Exitoso.
+
+![WhatsApp Image 2025-12-02 at 05 11 24_2f3e3fbe](https://github.com/user-attachments/assets/4dfb4382-9cf2-4d55-af9a-64711854f741)
 
 
-
-Link del deployment del Front-end con las primeras conexiones con el Back-end: https://rentallpe.web.app/login
+Link del deployment del Front-end con la conexion del Back-end: https://rentallpe.web.app/login
 
 
 
