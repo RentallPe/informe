@@ -2090,7 +2090,8 @@ El Sprint Planning 3 es una reunión esencial para iniciar el tercer sprint de u
 </p>
 
 link:
-https://trello.com/b/G021XE9y/rentallpe
+[[https://trello.com/b/G021XE9y/rentallpe](https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe)](https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe)
+
 
 
 Para el tercer sprint, desarrollamos la estructura y las funcionalidades de los endpoints del back-end, implementando los bounded context asi como las primeras conexiones con el front-end.
@@ -2696,7 +2697,34 @@ En síntesis, rentallPe es más que un portal: es una plataforma integral y esca
 
 
 
+### Web Applications Prototyping
+https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1&t=CoYNhh9eglWbUtK6-1
 
+### Design-Level Event Storming
+link:
+https://miro.com/app/board/uXjVJHSrDkA=/?share_link_id=656042657802
+
+
+### Sprint Backlog 1.
+link: https://trello.com/b/G021XE9y/rentallpe
+
+
+### Landing page
+Link: https://rentallpe.github.io/RentallPe/
+
+
+### Sprint Backlog 2.
+link del trello: https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe
+
+
+### Sprint Backlog 3.
+https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe
+
+
+### About The Product: 
+https://drive.google.com/drive/folders/1sXoZnj1ittGpFLhy1ASGRXRzk_TBeBHS?usp=sharing
+
+### About The Team
 
 
 
