@@ -2651,6 +2651,11 @@ En esta sección se registra el avance del producto y las acciones colaborativas
 
 ##### 5.2.4.3.Sprint Backlog 4.
 
+![sprint4](https://github.com/user-attachments/assets/bfc36f56-deb5-4cfc-8957-4e19ded6bfb1)
+
+link del trello:
+https://trello.com/invite/b/692e70aeeef1a4006a4a29a4/ATTI404f091e31240d39ac63e81109af4b73A133B4E7/sprint-4
+
 
 | User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |--------|
