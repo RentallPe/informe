@@ -2671,22 +2671,138 @@ https://trello.com/invite/b/692e70aeeef1a4006a4a29a4/ATTI404f091e31240d39ac63e81
 
 ##### 5.2.4.4.Development Evidence for Sprint Review.
 
+En este punto evidenciamos el desarrollo y el apoyo por parte de los integrantes del equipo en la continuacion de la construccion del back-end de RentallPe.
+
+| Repository                  | Branch | Commit Id | Commit Message                              | Commit Message Body | Commited on (Date) |
+|------------------------------|---------|------------|----------------------------------------------|---------------------|--------------------|
+| RentallPe/RentallPe-backend  | Main    | 73c33f5    | Update EF Core migrations for AppDbContext schema changes                             | Removed previous migration files and added new migration '20251115051034_InitialAppDbContext' to reflect updated database schema. Updated AppDbContextModelSnapshot and related project files to match the new schema, which now includes additional monitoring, payment, and notification entities.                   | 14/11/2025         |
+| RentallPe/RentallPe-backend  | Main    | d1ea485| Merge branch 'feature/Space-Management'  | # Conflicts: #	RentalPeAPI/Migrations/AppDbContextModelSnapshot.cs #	RentalPeAPI/Program.cs #	RentalPeAPI/Properties/launchSettings.json #	RentalPeAPI/RentalPeAPI.csproj # RentalPeAPI/Shared/Infrastructure/Persistence/EFC/Configuration/AppDbContext.cs              | 13/11/2025         |
+| RentallPe/RentallPe-backend  | Main    | 6e2421b    | feat: fix BC user an program.cs  | -              | 12/11/2025         |
+| RentallPe/RentallPe-backend  | feature/Profile-and-Preferences    | d16f277    | Profile-domain  | -               | 14/09/2025         |
+
+
 ##### 5.2.4.5.Execution Evidence for Sprint Review.
+
+En el Sprint 4 se finalizó el desarrollo integral del backend, cubriendo la autenticación de usuarios, la gestión de espacios, proyectos IoT y notificaciones, así como el flujo completo de pagos y tareas; todo validado mediante Swagger. Adicionalmente, se completó la integración de estos servicios con el frontend y se realizó el despliegue exitoso de toda la infraestructura: la base de datos, el backend y la aplicación frontend ya se encuentran operativos en el servidor.
+
 
 ##### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
+Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del Backend done se implementaron endpoints y funcionalidades relacionadas con servicios web o APIs RESTful.
+
+### Authentication Endpoints
+
+* **POST** /api/users/register: Registro de nuevos usuarios
+* **POST** /api/users/login: Inicio de sesión de usuarios
+
+---
+
+### Property Endpoints
+
+* **POST** /api/v1/space: Crear nuevo espacio
+* **GET** /api/v1/space: Obtener todos los espacios (listado)
+* **GET** /api/v1/space/{id}: Obtener espacio específico
+* **PUT** /api/v1/space/{id}: Actualizar espacio existente
+* **DELETE** /api/v1/space/{id}: Eliminar espacio existente
+
+---
+
+### Payments Endpoints
+
+* **POST** /api/v1/payments: Crear un nuevo pago (inicializar)
+* **GET** /api/v1/payments/{id}: Obtener pago por ID
+* **GET** /api/v1/payments: Obtener pagos por query (filtros/búsqueda)
+* **POST** /api/v1/payments/{id}/initiate: Iniciar un pago
+* **POST** /api/v1/payments/{id}/confirm: Confirmar un pago
+* **POST** /api/v1/payments/{id}/cancel: Cancelar un pago
+* **POST** /api/v1/payments/{id}/refund: Reembolsar un pago
+
+---
+
+### Projects Endpoints
+
+* **POST** /api/v1/monitoring/projects: Registrar nuevo proyecto de monitoreo
+* **GET** /api/v1/monitoring/projects/{id}: Obtener proyecto específico
+
+---
+
+### Readings Endpoints
+
+* **POST** /api/v1/monitoring/readings: Ingestar (crear) lecturas de sensores
+
+---
+
+### Tasks Endpoints
+
+* **POST** /api/v2/monitoring/tasks: Crear nueva tarea de monitoreo
+* **GET** /api/v2/monitoring/tasks/{id}: Obtener tarea específica
+
+---
+
+### IoTDevices Endpoints
+
+* **POST** /api/v1/monitoring/io-t-devices: Registrar nuevo dispositivo IoT
+* **GET** /api/v1/monitoring/io-t-devices/project/{projectId}: Obtener dispositivos por proyecto
+
+---
+
+### Incidents Endpoints
+
+* **GET** /api/v1/monitoring/incidents/project/{projectId}: Obtener incidentes por proyecto
+* **PATCH** /api/v1/monitoring/incidents/{id}/acknowledge: Reconocer (Acknowledge) un incidente
+
+---
+
+### Notifications Endpoints
+
+* **GET** /api/v1/monitoring/notifications/project/{projectId}: Obtener notificaciones por proyecto
+
+
 ##### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+La base de datos de RentallPE se desplegó en Microsoft Azure, el backend en la plataforma Render y el frontend en Firebase. Además, se habilitó la documentación de la API con Swagger y se conectó el frontend (rentallpe.web.app) con el backend ya publicado (rentallpe-backend.onrender.com), como se aprecia en las capturas y enlaces de despliegue.
+
+##### Database Deployment
+
+La base de datos del proyecto RentallPE se desplegó en Microsoft Azure, que no tuvo ninguna modificación con respecto al Sprint 3, con fecha 2025-11-16.
+
+![aazure](https://github.com/user-attachments/assets/0238b561-d93c-4958-9b49-a7eddf250b56)
+
+
+##### Backend Deployment
+
+El backend finalizado se actualizó en la plataforma Render, donde se gestiona el servicio web que expone la API de RentallPE y permite su acceso desde internet.
+
+![5 2 3 7](https://github.com/user-attachments/assets/af990645-db6d-4424-9981-a7c3a77a7ac3)
+
+![5 2 3 7  2](https://github.com/user-attachments/assets/9c86beb6-8b24-46be-8bc7-2ffd89fdcb15)
+
+Link del deployment del Back-end: https://rentallpe-backend.onrender.com
+
+##### Frontend Deployment
+
+El frontend finalizado con éxito y su respectivo despliegue se realizo en Firebase, mostrandose la conexión con el backend y probando las funcionalidades tanto del frontend como el backend, con fecha 2/12/2025
+
+
+
+
+Link del deployment del Front-end con las primeras conexiones con el Back-end: https://rentallpe.web.app/login
+
+
 
 ##### 5.2.4.8.Team Collaboration Insights during Sprint.
 
+Durante el Sprint 4, el equipo consolidó por completo la solución RentalPe, organizando el backend RentalPeAPI bajo una arquitectura de Bounded Contexts (BC) que incluye Property, Combo, Monitoring, Payment, Profile, Providers y User, apoyados por una capa Shared. Gracias a esta estructura modular, se completó el 100% de la funcionalidad requerida: desde el registro y autenticación de usuarios y el CRUD de espacios, hasta la gestión compleja de proyectos de monitoreo IoT (dispositivos, lecturas y notificaciones) y el flujo integral de pagos (creación, reembolso y confirmación). El hito más significativo de esta etapa fue la conexión exitosa de estos servicios con el cliente web y el despliegue final de toda la infraestructura; la base de datos, el backend y el frontend ya se encuentran operativos y comunicándose entre sí en el entorno de producción.
 
+A nivel de colaboración, Braulio asumió el desarrollo de los contextos de Property y Combo, construyendo toda la lógica para la gestión de espacios y la configuración de paquetes, asegurando que la base de datos reflejara correctamente estas relaciones.
 
+Por su parte, Gabriel se encargó de implementar los módulos de User, Monitoring y Provider; sin embargo, su rol fue crucial al ejecutar el despliegue integral de la solución, encargándose de publicar la base de datos, el backend y el frontend, y verificando que la integración entre las tres partes funcionara correctamente en la nube.
 
+Leonardo se enfocó en los contextos de Payment y Profile, desarrollando la lógica financiera para manejar los estados de los pagos y las validaciones de perfil, garantizando que el sistema responda adecuadamente a las transacciones de los usuarios.
 
+Finalmente, Arturo colaboró en el módulo de Profile y lideró la elaboración de la documentación del proyecto, centralizando las decisiones técnicas y asegurando que la especificación en Swagger coincidiera con la versión desplegada y conectada al frontend.
 
-
-
-
+Como aprendizaje del sprint, la separación por Bounded Contexts demostró ser fundamental para la eficiencia del equipo. Esta estrategia permitió avanzar en paralelo en dominios complejos como IoT y Pagos sin bloqueos, integrar el trabajo mediante las convenciones de la capa Shared y validar el producto final mediante un despliegue completo. El resultado es una plataforma RentalPe escalable, documentada y totalmente funcional de punta a punta.
 
 ### Conclusiones
 
@@ -2700,8 +2816,6 @@ En síntesis, rentallPe es más que un portal: es una plataforma integral y esca
 
 ### Anexos
 
-
-
 ### Web Applications Prototyping
 https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1&t=CoYNhh9eglWbUtK6-1
 
@@ -2709,23 +2823,17 @@ https://www.figma.com/design/0zgwFolNfPcoYNukMweny9/Aplicaciones-web?node-id=0-1
 link:
 https://miro.com/app/board/uXjVJHSrDkA=/?share_link_id=656042657802
 
-
-
-
 ### Landing page
 Link: https://rentallpe.github.io/RentallPe/
 
 ### Sprint Backlog 1.
 https://trello.com/b/G021XE9y/rentallpe](https://trello.com/invite/b/68fe8832d7e7788b3db70de4/ATTI6e111ad77c19fbf9684d65a890c36774CC5772C4/rentallpe)
 
-
 ### Sprint Backlog 2.
 https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe
 
-
 ### Sprint Backlog 3.
 [https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe](https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe)
-
 
 ### Sprint Backlog 4.
 https://trello.com/invite/b/692e70aeeef1a4006a4a29a4/ATTI404f091e31240d39ac63e81109af4b73A133B4E7/sprint-4
