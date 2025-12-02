@@ -3,8 +3,6 @@
 </div>
 
 <div align="center">
-  
-
 ### Universidad Peruana de Ciencias Aplicadas
 ### Facultad de Ingeniería
 ### Carrera de Ingeniería de Software
@@ -27,9 +25,6 @@
 | U202311912                       | Cumba Rengifo Leonardo Raúl |
 | U202321281                       | Gabriel Perez Tuesta |
 | U201711828                       | Torrejón Navarro, Braulio Rodrigo |
-
-
-
 </div>
 
 <div style="page-break-after: always;"></div>
