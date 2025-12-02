@@ -2,30 +2,57 @@
   <img src="Imagenes/UPC_logo.png" alt="Logo UPC" width="200">
 </div>
 
-<div style="text-align: center;">
-  
-### Universidad Peruana de Ciencias Aplicadas
-### Facultad de Ingeniería
-### Carrera de Ingeniería de Software
+<div align="center" style="text-align: center; width: 100%;">
 
-### Periodo: 202520
-### Codigo del curso: 1ASI0730
-### Curso: Aplicaciones Web
-### Codigo de seccion: 7468
-### Profesor: Angel Augusto Velasquez Nuñez
+<h3>Universidad Peruana de Ciencias Aplicadas</h3>
+<h3>Facultad de Ingeniería</h3>
+<h3>Carrera de Ingeniería de Software</h3>
 
-### INFORME DE TRABAJO FINAL
+<br>
 
-### Startup: RentallPE
-### Proyecto: Remodelaciones a establecimientos
+<h3>Periodo: 202520</h3>
+<h3>Código del curso: 1ASI0730</h3>
+<h3>Curso: Aplicaciones Web</h3>
+<h3>Código de sección: 7468</h3>
+<h3>Profesor: Angel Augusto Velasquez Nuñez</h3>
 
+<br>
+<br>
 
-| Código                        | Integrantes     |
-| ---------------------------------| ---------- |
-| U202312447                       | Saravia Huaricancha, Arturo Axel |
-| U202311912                       | Cumba Rengifo Leonardo Raúl |
-| U202321281                       | Gabriel Perez Tuesta |
-| U201711828                       | Torrejón Navarro, Braulio Rodrigo |
+<h3>INFORME DE TRABAJO FINAL</h3>
+<h3>Startup: RentallPE</h3>
+<h3>Proyecto: Remodelaciones a establecimientos</h3>
+
+<br>
+<br>
+
+<table align="center" style="margin: 0 auto; text-align: left; border-collapse: collapse; width: 70%;">
+    <thead>
+        <tr style="border-bottom: 2px solid #000;">
+            <th style="padding: 10px; text-align: center;">Código</th>
+            <th style="padding: 10px; text-align: left;">Integrantes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding: 8px; text-align: center;">U202312447</td>
+            <td style="padding: 8px;">Saravia Huaricancha, Arturo Axel</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; text-align: center;">U202311912</td>
+            <td style="padding: 8px;">Cumba Rengifo Leonardo Raúl</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; text-align: center;">U202321281</td>
+            <td style="padding: 8px;">Gabriel Perez Tuesta</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; text-align: center;">U201711828</td>
+            <td style="padding: 8px;">Torrejón Navarro, Braulio Rodrigo</td>
+        </tr>
+    </tbody>
+</table>
+
 </div>
 
 <div style="page-break-after: always;"></div>
@@ -200,9 +227,8 @@ Entrega 4: Este apartado documenta la ejecución del Sprint 4, abarcando desde s
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 | :--- | :--- | :--- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | - **TB1: Arturo Saravia:** Coordinó las reuniones de planificación del equipo y supervisó la integración de los distintos capítulos del documento.<br>- **TB1: Braulio Torrejon:** Facilitó la comunicación entre diseñadores y desarrolladores para asegurar consistencia en los mockups y prototipos.<br>- **TB1: Leonardo Cumba:** Propuso mejoras en la estructura del documento y ayudó a resolver conflictos de contenido entre capítulos.<br>- **TB1: Gabriel Perez:** Revisó y unificó el estilo de redacción del capítulo 3, asegurando coherencia con los demás capítulos.<br><br>- **TP: Arturo Saravia:** Coordinó las reuniones de planificación del equipo y supervisó la integración de los distintos capítulos del documento.<br>- **TP: Braulio Torrejon:** Facilitó la comunicación entre diseñadores y desarrolladores para asegurar consistencia en la aplicación.<br>- **TP: Leonardo Cumba:** Propuso mejoras en la estructura del documento y ayudó a resolver conflictos de contenido entre capítulos.<br>- **TP: Gabriel Perez:** Arregló inconsistencias de la revisión anterior, asegurando coherencia con los demás capítulos.<br><br>- **TB2: Arturo Saravia:** Definió la arquitectura de microservicios en C# para el módulo de propiedades de RentalPe.<br>- **TB2: Braulio Torrejon:** Lideró la implementación de las APIs REST para la gestión de usuarios y autenticación, documentándolas en Swagger.<br>- **TB2: Leonardo Cumba:** Investigó e implementó la integración con la base de datos SQL Server para la persistencia de datos del *dashboard*.<br>- **TB2: Gabriel Perez:** Aseguró la calidad del código mediante la revisión por pares y la configuración de pruebas unitarias para el *backend*. | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Esto incluyó la realización de entrevistas, la elaboración de Statements y Hypothesis Statements como parte del proceso Lean UX, la creación de User Personas y el mapeo de la experiencia del usuario. Además, se realizó un análisis competitivo, se desarrollaron User Stories y se establecieron estrategias frente a competidores. Se utilizaron herramientas visuales como Lean UX Canvas y Style Guidelines, y se llevaron a cabo actividades como Empathy Mapping para comprender las necesidades de los usuarios. Todo esto se complementó con la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | - **TB1: Arturo Saravia:** Asignó tareas semanales al equipo y verificó que cada miembro cumpliera con sus entregables a tiempo.<br>- **TB1: Braulio Torrejon:** Proporcionó tutoriales y referencias sobre herramientas de diseño para apoyar a los miembros menos experimentados.<br>- **TB1: Leonardo Cumba:** Documentó los avances del equipo y creó un cronograma para asegurar la finalización de los capítulos 2, 4 y 5.<br>- **TB1: Gabriel Perez:** Coordinó sesiones de revisión de contenido para asegurar la calidad del capítulo 3 y retroalimentación constructiva.<br><br>- **TP: Arturo Saravia:** Asignó tareas semanales al equipo y verificó que cada miembro cumpliera con sus entregables a tiempo.<br>- **TP: Braulio Torrejon:** Proporcionó tutoriales y referencias sobre desarrollo para apoyar al equipo.<br>- **TP: Leonardo Cumba:** Documentó los avances del equipo y creó un cronograma para asegurar la finalización del sprint 2.<br>- **TP: Gabriel Perez:** Coordinó sesiones de revisión de contenido para asegurar la calidad de los capítulos y retroalimentación constructiva.<br><br>- **TB2: Arturo Saravia:** Implementó la gestión de dependencias y versiones de NuGet para mantener la estabilidad del proyecto C#.<br>- **TB2: Braulio Torrejon:** Mantuvo actualizada la documentación de Swagger para reflejar los cambios en los *endpoints* del *backend* en tiempo real.<br>- **TB2: Leonardo Cumba:** Organizó sesiones de *pair programming* para transferir conocimiento sobre el manejo de Entity Framework Core en C#.<br>- **TB2: Gabriel Perez:** Creó *issues* detallados en el repositorio Git para el seguimiento de *bugs* y funcionalidades pendientes en las APIs. | El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Tras la realización de todos los capítulos del informe se pudo complementar la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. |
-
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Arturo Saravia:**<br>- **TB1:** Coordinó las reuniones de planificación del equipo y supervisó la integración de los distintos capítulos del documento.<br>- **TP:** Coordinó las reuniones de planificación y supervisó la integración de entregables.<br>- **TB2:** Definió la arquitectura en C# para el módulo de propiedades de RentalPe.<br>- **TF:** Lideró el desarrollo de los Bounded Contexts de **Payment** y **Profile**, asegurando la lógica transaccional y validaciones críticas del negocio.<br><br>**Braulio Torrejon:**<br>- **TB1:** Facilitó la comunicación entre diseñadores y desarrolladores para asegurar consistencia en los mockups.<br>- **TP:** Facilitó la comunicación técnica para asegurar la consistencia en la aplicación.<br>- **TB2:** Lideró la implementación de las APIs REST para usuarios y autenticación (Swagger).<br>- **TF:** Encabezó la construcción de los módulos **Property**, **Combo** y **Provider**, gestionando la lógica de propiedades inmobiliarias y paquetes de remodelación.<br><br>**Leonardo Cumba:**<br>- **TB1:** Propuso mejoras en la estructura del documento y resolvió conflictos de contenido.<br>- **TP:** Propuso mejoras estructurales y resolvió conflictos entre capítulos.<br>- **TB2:** Investigó e implementó la integración con SQL Server para el dashboard.<br>- **TF:** Dirigió la documentación técnica del proyecto y la estructura de la capa **Shared**, consolidando las decisiones de arquitectura.<br><br>**Gabriel Perez:**<br>- **TB1:** Revisó y unificó el estilo de redacción del capítulo 3, asegurando coherencia.<br>- **TP:** Arregló inconsistencias de la revisión anterior para mantener la coherencia.<br>- **TB2:** Aseguró la calidad del código mediante revisión por pares y pruebas unitarias.<br>- **TF:** Asumió la responsabilidad del **despliegue del backend** y desarrolló los contextos de **User** y **Monitoring**. | El equipo demostró una evolución constante en su capacidad de liderazgo técnico y gestión. Iniciando con la definición de User Personas y Lean UX en las primeras entregas, el grupo maduró hacia una ejecución técnica compleja en el TF. La adopción de una arquitectura basada en **Bounded Contexts** permitió una clara división de responsabilidades (Payment, Property, User, etc.), donde cada integrante lideró su dominio específico. Esto culminó en un despliegue exitoso y una documentación técnica sólida, evidenciando un alto nivel de coordinación para integrar módulos independientes en una solución cohesiva. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Arturo Saravia:**<br>- **TB1:** Asignó tareas semanales y verificó el cumplimiento de entregables a tiempo.<br>- **TP:** Asignó tareas y verificó cumplimiento de entregables del sprint.<br>- **TB2:** Gestionó dependencias y versiones NuGet para la estabilidad del proyecto.<br>- **TF:** Integró sus módulos de pagos con la capa Shared para facilitar el trabajo paralelo y reducir acoplamiento.<br><br>**Braulio Torrejon:**<br>- **TB1:** Proporcionó tutoriales sobre herramientas de diseño a los miembros menos experimentados.<br>- **TP:** Proporcionó referencias de desarrollo para apoyar al equipo.<br>- **TB2:** Mantuvo actualizada la documentación Swagger en tiempo real.<br>- **TF:** Colaboró en la definición de las interfaces de sus módulos (Property/Combo) para que se integraran fluidamente con el frontend.<br><br>**Leonardo Cumba:**<br>- **TB1:** Documentó avances y creó el cronograma para capítulos 2, 4 y 5.<br>- **TP:** Documentó avances y creó cronograma del sprint 2.<br>- **TB2:** Organizó sesiones de *pair programming* sobre Entity Framework Core.<br>- **TF:** Estableció las guías de uso y convenciones en la documentación para que el equipo pudiera desarrollar sin bloquearse.<br><br>**Gabriel Perez:**<br>- **TB1:** Coordinó sesiones de revisión de contenido y retroalimentación.<br>- **TP:** Coordinó sesiones de calidad y retroalimentación constructiva.<br>- **TB2:** Creó *issues* en Git para seguimiento de bugs en las APIs.<br>- **TF:** Garantizó un entorno estable para pruebas mediante el despliegue continuo, permitiendo al equipo validar sus avances rápidamente. | La colaboración del equipo fue fundamental para cumplir con los objetivos escalonados del curso. Desde la planificación inicial y el diseño de interfaces, el equipo transitó hacia un flujo de trabajo de desarrollo de software profesional. En la etapa final (TF), la estrategia de dividir el trabajo por contextos de dominio y utilizar una capa **Shared** común fomentó un entorno inclusivo donde cada miembro pudo avanzar en paralelo sin bloquear a los demás. El uso de herramientas de gestión, documentación centralizada y despliegue continuo aseguró que las metas de modularidad y escalabilidad se cumplieran eficazmente. |
 
 <div style="page-break-after: always;"></div>
 ---
