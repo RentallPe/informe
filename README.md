@@ -28,10 +28,11 @@
 | U202321281                       | Gabriel Perez Tuesta |
 | U201711828                       | Torrejón Navarro, Braulio Rodrigo |
 
-<div style="page-break-after: always;"></div>
+
 
 </div>
 
+<div style="page-break-after: always;"></div>
 ---
 
 ## Registro de Versiones del Informe
@@ -102,7 +103,16 @@ Entrega 3: Este apartado documenta la ejecución del Sprint 3, abarcando desde s
   ![WhatsApp Image 2025-11-27 at 00 01 48_eae4d571](https://github.com/user-attachments/assets/e85f9bd1-35db-4c9d-8a4a-a48f3adf07f3)
 </p>
 
+Entrega 4: Este apartado documenta la ejecución del Sprint 4, abarcando desde su planificación y gestión del backlog hasta la presentación de evidencias técnicas, la documentación de servicios y el despliegue integral de la solución (Backend, Frontend y Base de Datos). Posteriormente, se detalla la fase de validación (sección 5.3), que incluye el diseño y registro de entrevistas con usuarios, así como las evaluaciones heurísticas de la interfaz. El informe culmina con la presentación del video demostrativo del producto y las conclusiones generales del proyecto.
 
+<p align="center">
+  
+
+![WhatsApp Image 2025-12-02 at 02 29 19_002d0efd](https://github.com/user-attachments/assets/a53d0aa5-90ed-467e-90c1-ca51e87cabc9)
+
+</p>
+
+<div style="page-break-after: always;"></div>
 ---
 
 ## Contenido
@@ -187,6 +197,8 @@ Entrega 3: Este apartado documenta la ejecución del Sprint 3, abarcando desde s
     - [Recomendaciones](#recomendaciones-1)
 
 ---
+<div style="page-break-after: always;"></div>
+
 
 ## Student Outcome
 
@@ -1827,6 +1839,60 @@ La landing page es una aplicación estática que se publica habitualmente median
 - Revisión rápida de funcionalidades críticas: cambio de idioma, acordeón FAQ y navegación principal.
 - Revisión de rendimiento/accesibilidad básica con herramientas como Lighthouse cuando sea pertinente.
 
+Frontend (Aplicación Web)
+El Frontend es una Single Page Application (SPA) desarrollada (generalmente en Vue.js) que requiere un proceso de transpilación y empaquetado antes de su publicación. La configuración actual apunta a servicios de hosting estático o contenedores que sirven el artefacto compilado.
+
+Consideraciones sobre el despliegue
+
+El despliegue no se realiza con el código fuente directo, sino con el resultado del comando de build (ej. npm run build), el cual genera una carpeta dist/ optimizada.
+
+Es crítico configurar las Variables de Entorno en el servidor de despliegue (como VITE_API_URL), apuntando a la URL real del Backend en producción, ya que las rutas locales (localhost) no funcionarán en la nube.
+
+Dado que es una SPA, el servidor web debe configurarse con una regla de "Rewrite" o "Catch-all" para redirigir todas las peticiones a index.html, evitando errores 404 al recargar páginas internas o rutas profundas.
+
+Buenas prácticas vinculadas al repositorio
+
+Nunca subir archivos .env o carpetas node_modules/ al repositorio; utilizar .gitignore correctamente.
+
+Mantener separado el código fuente (src/) de los archivos de configuración (vite.config.js, package.json).
+
+Asegurar que el package.json tenga definidos claramente los scripts de build y preview para facilitar la integración continua (CI/CD) en plataformas como Vercel, Netlify o Render.
+
+Verificación post-publicación
+
+Comprobación de conectividad con el Backend: verificar en la pestaña "Network" del navegador que las peticiones a la API retornen estado 200 y no errores de CORS o 404.
+
+Validación del flujo de navegación: asegurar que las rutas protegidas (que requieren login) redirijan correctamente si no hay sesión.
+
+Revisión de assets: confirmar que los estilos, imágenes y scripts compilados cargan correctamente y no hay referencias rotas.
+
+Backend (RentalPeAPI)
+El Backend es una API REST (desarrollada en .NET) que expone la lógica de negocio y conecta con la base de datos. Se publica habitualmente como un servicio web o mediante contenedores (Docker), asegurando un entorno de ejecución aislado y consistente.
+
+Consideraciones sobre el despliegue
+
+La aplicación requiere la inyección de la Cadena de Conexión (Connection String) de la base de datos productiva y las claves secretas (para tokens JWT) a través de las variables de entorno del servidor, reemplazando la configuración de desarrollo (appsettings.Development.json).
+
+Si se utiliza Docker, el despliegue se basa en la construcción de una imagen a partir del Dockerfile presente en la raíz de la solución, exponiendo el puerto configurado (ej. 80 o 8080).
+
+Es necesario asegurar que el servicio de base de datos esté accesible desde la IP o red donde se aloja el Backend (reglas de Firewall o VPC).
+
+Buenas prácticas vinculadas al repositorio
+
+No incluir secretos, contraseñas de base de datos ni llaves privadas en el appsettings.json commiteado; usar "User Secrets" en local y Variables de Entorno en producción.
+
+Mantener las migraciones de base de datos (Entity Framework) actualizadas y definir una estrategia de ejecución (script SQL manual o aplicación automática al inicio del servicio) para mantener el esquema sincronizado.
+
+Documentar los endpoints principales; aunque Swagger facilita esto, el README.md debe indicar cómo ejecutar el proyecto y los requisitos previos (.NET SDK, Docker).
+
+Verificación post-publicación
+
+Acceso a la documentación de la API: verificar que la interfaz de Swagger (/swagger/index.html) cargue correctamente en el entorno productivo.
+
+Health Check: Realizar una petición de prueba (ej. Login o un GET simple) para confirmar que el Backend tiene conexión exitosa con la base de datos y no devuelve errores 500.
+
+Monitoreo de logs: Revisar la consola del servidor tras el despliegue para asegurar que no existen excepciones de arranque o fallos de inyección de dependencias.
+
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
@@ -2792,7 +2858,8 @@ Link del deployment del Front-end con las primeras conexiones con el Back-end: h
 
 ##### 5.2.4.8.Team Collaboration Insights during Sprint.
 
-![5 2 3 8](https://github.com/user-attachments/assets/3928b1a9-738a-48bb-8054-e92f779c67af)
+![WhatsApp Image 2025-12-02 at 02 29 19_b73f37e2](https://github.com/user-attachments/assets/5498b3c7-7fc4-4278-bb01-2da170bd5fe4)
+
 
 Durante el Sprint 4, el equipo consolidó por completo la solución RentalPe, organizando el backend RentalPeAPI bajo una arquitectura de Bounded Contexts (BC) que incluye Property, Combo, Monitoring, Payment, Profile, Providers y User, apoyados por una capa Shared. Gracias a esta estructura modular, se completó el 100% de la funcionalidad requerida: desde el registro y autenticación de usuarios y el CRUD de espacios, hasta la gestión compleja de proyectos de monitoreo IoT (dispositivos, lecturas y notificaciones) y el flujo integral de pagos (creación, reembolso y confirmación). El hito más significativo de esta etapa fue la conexión exitosa de estos servicios con el cliente web y el despliegue final de toda la infraestructura; la base de datos, el backend y el frontend ya se encuentran operativos y comunicándose entre sí en el entorno de producción.
 
@@ -2806,6 +2873,8 @@ Finalmente, Arturo colaboró en el módulo de Profile y lideró la elaboración 
 
 Como aprendizaje del sprint, la separación por Bounded Contexts demostró ser fundamental para la eficiencia del equipo. Esta estrategia permitió avanzar en paralelo en dominios complejos como IoT y Pagos sin bloqueos, integrar el trabajo mediante las convenciones de la capa Shared y validar el producto final mediante un despliegue completo. El resultado es una plataforma RentalPe escalable, documentada y totalmente funcional de punta a punta.
 
+<div style="page-break-after: always;"></div>
+
 ### Conclusiones
 
 RentallPe surge ante la fragmentación del mercado de remodelaciones: cotizaciones incomparables, pagos/facturación manuales y poca visibilidad del avance y consumo. La plataforma unifica descubrimiento de servicios, gestión de pagos con e-factura y monitoreo IoT en un solo lugar, conectando la oferta de profesionales con la demanda de propietarios.
@@ -2815,6 +2884,8 @@ La propuesta prioriza experiencia y confianza: registro seguro, perfiles y prefe
 Además de la eficiencia operativa vía digitalización (presupuestos estandarizados, contratos/firma, conciliación), el enfoque promueve sostenibilidad con indicadores y reportes que ayudan a reducir costos y mejorar el confort.
 
 En síntesis, rentallPe es más que un portal: es una plataforma integral y escalable (arquitectura por bounded contexts y CQRS) que impulsa productividad y formalización del sector, con impacto económico y operativo para propietarios, contratistas y clientes en el mercado peruano.
+
+<div style="page-break-after: always;"></div>
 
 ### Anexos
 
