@@ -2922,6 +2922,15 @@ Además de la eficiencia operativa vía digitalización (presupuestos estandariz
 
 En síntesis, rentallPe es más que un portal: es una plataforma integral y escalable (arquitectura por bounded contexts y CQRS) que impulsa productividad y formalización del sector, con impacto económico y operativo para propietarios, contratistas y clientes en el mercado peruano.
 
+
+### Video About The Team:
+Finalmente, todo el equipo se ha reunió para la demostración del proyecto, asi como tambien para hablar sobre las apreciaciones de cada integrante, de cómo les parecio el proyecto, fortalezas y debilidades, y una autocrítica que nos ayudará a mejorar en proyectos futuros.
+
+![WhatsApp Image 2025-12-02 at 10 26 50_165e991d](https://github.com/user-attachments/assets/e6537d82-f389-4783-a723-04f721918296)
+
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201711828_upc_edu_pe/IQCF_4RG-GzOTZAP0i2JHJcmAX9dRQ-Cyxklz1xx1n1RIUo?e=ihq3fB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 <div style="page-break-after: always;"></div>
 
 ### Anexos
@@ -2961,7 +2970,7 @@ https://trello.com/invite/b/692e70aeeef1a4006a4a29a4/ATTI404f091e31240d39ac63e81
 https://drive.google.com/drive/folders/1sXoZnj1ittGpFLhy1ASGRXRzk_TBeBHS?usp=sharing
 
 ### About The Team
-
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201711828_upc_edu_pe/IQCF_4RG-GzOTZAP0i2JHJcmAX9dRQ-Cyxklz1xx1n1RIUo?e=ihq3fB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 
