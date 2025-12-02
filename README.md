@@ -2711,10 +2711,12 @@ https://miro.com/app/board/uXjVJHSrDkA=/?share_link_id=656042657802
 Link: https://rentallpe.github.io/RentallPe/
 
 ### Sprint Backlog 1.
-[link: https://trello.com/b/G021XE9y/rentallpe](https://trello.com/invite/b/68fe8832d7e7788b3db70de4/ATTI6e111ad77c19fbf9684d65a890c36774CC5772C4/rentallpe)
+https://trello.com/b/G021XE9y/rentallpe](https://trello.com/invite/b/68fe8832d7e7788b3db70de4/ATTI6e111ad77c19fbf9684d65a890c36774CC5772C4/rentallpe)
+
 
 ### Sprint Backlog 2.
-[link del trello: https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe](https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe)
+https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe
+
 
 
 ### Sprint Backlog 3.
