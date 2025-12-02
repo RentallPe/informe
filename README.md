@@ -2935,6 +2935,15 @@ https://miro.com/app/board/uXjVJHSrDkA=/?share_link_id=656042657802
 ### Landing page
 Link: https://rentallpe.github.io/RentallPe/
 
+### Frontend
+https://rentallpe.web.app/login
+
+
+### Backend
+https://rentallpe-backend.onrender.com/swagger/index.html
+
+
+
 ### Sprint Backlog 1.
 https://trello.com/b/G021XE9y/rentallpe](https://trello.com/invite/b/68fe8832d7e7788b3db70de4/ATTI6e111ad77c19fbf9684d65a890c36774CC5772C4/rentallpe)
 
