@@ -1866,7 +1866,7 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 </p>
 
 link:
-https://trello.com/b/G021XE9y/rentallpe
+[link: https://trello.com/b/G021XE9y/rentallpe](https://trello.com/invite/b/68fe8832d7e7788b3db70de4/ATTI6e111ad77c19fbf9684d65a890c36774CC5772C4/rentallpe)
 
 
 Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
@@ -1986,7 +1986,7 @@ El Sprint Planning 2 es una reunión esencial para iniciar el segundo sprint de 
   <img src="./Imagenes/Sprint2F.png" alt="Sprint2F.png""/>
 </p>
 
-link del trello: https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe
+link del trello: [link del trello: https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe](https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe)
 
 | User Story ID | Título (US) | Work-Item / Task ID | Título de la tarea | Descripción | Estimación (h) | Asignado a | Status |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -2090,7 +2090,7 @@ El Sprint Planning 3 es una reunión esencial para iniciar el tercer sprint de u
 </p>
 
 link:
-[[https://trello.com/b/G021XE9y/rentallpe](https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe)](https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe)
+[https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe](https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe)
 
 
 
@@ -2705,20 +2705,22 @@ link:
 https://miro.com/app/board/uXjVJHSrDkA=/?share_link_id=656042657802
 
 
-### Sprint Backlog 1.
-link: https://trello.com/b/G021XE9y/rentallpe
 
 
 ### Landing page
 Link: https://rentallpe.github.io/RentallPe/
 
+### Sprint Backlog 1.
+[link: https://trello.com/b/G021XE9y/rentallpe](https://trello.com/invite/b/68fe8832d7e7788b3db70de4/ATTI6e111ad77c19fbf9684d65a890c36774CC5772C4/rentallpe)
 
 ### Sprint Backlog 2.
-link del trello: https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe
+[link del trello: https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe](https://trello.com/invite/b/68e8a7b0da8fa557ca5d3b2d/ATTI3484384f3567426993cb74aa776c7872D39D721C/rentallpe)
 
 
 ### Sprint Backlog 3.
-https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe
+[https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe](https://trello.com/invite/b/691793b60f4228b14067ee14/ATTIe83411b2a4a2504b8674c634a5095f77AB746AB4/rentallpe)
+
+### Sprint Backlog 4.
 
 
 ### About The Product: 
