@@ -757,9 +757,11 @@ En resumen, para Propietarios de Viviendas una solución como RentalPe tiene val
 
 Para esta sección hemos tomado en cuenta dos User Persona que corresponden a los dos segmentos objetivos nombrados anteriormente: los propietarios de inmuebles y los trabajadores independientes.
 
-<img width="1050" height="1810" alt="Sebastián Guzman (1)" src="https://github.com/user-attachments/assets/2cda6649-fe2a-44aa-9f9e-53bba5e8807e" />
+![WhatsApp Image 2025-12-02 at 05 30 21_793ee4ff](https://github.com/user-attachments/assets/5f209f2d-a016-4c69-8661-b0705fcd707d)
 
-<img width="1050" height="2110" alt="Joseph Lopez" src="https://github.com/user-attachments/assets/91746cb1-ecfc-46e6-aba3-49c3d930df5e" />
+
+![WhatsApp Image 2025-12-02 at 05 31 15_b64d6543](https://github.com/user-attachments/assets/6be68e6b-4abc-46d4-b100-d294c66eb808)
+
 
 
 ### 2.3.2. User Task Matrix
