@@ -87,7 +87,10 @@
 | **3.5.1 (TB2)** | 16/10/2025 | Torrejón Navarro, Braulio Rodrigo | Elaboración y definición de los Bounded Contexts (BC) correspondientes a los dominios de Properties y Combos. |
 | **3.6.1 (TB2)** | 16/10/2025 | Perez Tuesta, Gabriel | Elaboración y definición del Bounded Context (BC) correspondiente al dominio de Monitoring. |
 | **3.7.1 (TB2)** | 16/10/2025 | Cumba Rengifo, Leonardo Raul | Consolidación y redacción de la documentación técnica integrada en el documento principal. |
-| **4.0.0 (TF)** | 16/10/2025 | XX | XX |
+| **4.0.0 (TF)** | 2/12/2025 | Saravia Huaricancha, Arturo Axel | Se encargó de sacar las capturas de pantalla correspondiente para subirlas al informe. |
+| **4.0.0 (TF)** | 2/12/2025 | Torrejón Navarro, Braulio Rodrigo | Elaboración y definición en el informe de los Bounded Contexts (BC) faltantes. |
+| **4.0.0 (TF)** | 2/12/2025 | Perez Tuesta, Gabriel | Elaboración y definición en el informe de los Bounded Context (BC) faltantes, y evidenciar el despliegue en el informe. |
+| **4.0.0 (TF)** | 2/12/2025 | Cumba Rengifo, Leonardo Raul | Creación del sprint 4. |
 </div>
 
 ---
@@ -2863,7 +2866,7 @@ El nuevo backend finalizado se actualizó en la plataforma Render, donde se gest
 
 ![WhatsApp Image 2025-12-02 at 05 14 31_af2bf75f](https://github.com/user-attachments/assets/694bc916-c152-4d78-bd20-73d5c76555cf)
 
-Vemos como la backend desplegada, y el Swagger funciona correctamente con los enpoints correspondientes
+Vemos como el backend desplegado, y el Swagger funciona correctamente con los endpoints correspondientes
 
 ![WhatsApp Image 2025-12-02 at 05 16 08_e276ad7e](https://github.com/user-attachments/assets/179c8258-71d3-4140-bd52-cbe56d43f96c)
 
